@@ -1,0 +1,11 @@
+grupo,nombre_app,institucion,sector,frecuencia,eventos_totales_grupo,tasa_por_1000_eventos
+A,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,440350,3648564,120.691
+A,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,294916,3648564,80.831
+A,PJUD,PODER JUDICIAL,Otros Poderes,192680,3648564,52.81
+A,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,188738,3648564,51.729
+A,undefined,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",Empresa Privada,172779,3648564,47.355
+A,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,160630,3648564,44.026
+A,Portal de Aplicaciones Sence,Servicio Nacional de Capacitacion y Empleo,Ministerio del Trabajo y Previsión Social,160288,3648564,43.932
+A,Portal Ciudadano ClaveÚnica,Secretaría de Gobierno Digital,Ministerio de Hacienda,148251,3648564,40.633
+A,Portal MiDT,Dirección del Trabajo,Ministerio del Trabajo y Previsión Social,119242,3648564,32.682
+A,undefined,Comisión para el Mercado Financiero,Ministerio de Hacienda,109507,3648564,30.014

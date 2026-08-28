@@ -1,0 +1,49 @@
+=== Control FDR — universo_tests_fdr_conservador.csv ===
+Filas cargadas: 81,158
+
+[1] Descriptivos de p-valores (N=81,158)
+    min=0  max=1
+    p_valor == 0.0 exacto (underflow de punto flotante): 14,206 (17.50%)
+    ADVERTENCIA: más del 1% de los p-valores son cero por underflow (17.50%). El ranking usa -log10(p) vía hypergeom.logsf para estos casos, no el p-valor lineal.
+    Figura: output_multimes/fdr_conservador/fig_histograma_pvalores.png
+
+[2] p<0,05 sin corregir: 70,002 de 81,158
+    Esperado por azar (0,05×N, N=universo de ENTRADA ya filtrado a soporte>=50): 4,058
+
+[3] Benjamini-Hochberg (1995)
+    q=0.05: 69,871 sobreviven, p-valor umbral ≈ 0.04291 (verificado contra fórmula manual: OK)
+    q=0.01: 68,555 sobreviven, p-valor umbral ≈ 0.008441 (verificado contra fórmula manual: OK)
+    q=0.001: 66,802 sobreviven, p-valor umbral ≈ 0.0008199 (verificado contra fórmula manual: OK)
+
+[4] Benjamini-Yekutieli (no asume independencia)
+    q=0,05: 67,838 sobreviven (83.59% del universo; comparar con BH q=0,05 arriba — BY es más conservador por diseño)
+
+[5] Bonferroni (referencia extrema)
+    Umbral: 6.161e-07  →  62,100 sobreviven
+
+[6] Estimación de pi_0 (Storey & Tibshirani, 2003)
+    pi_0 estimado: 0.9050  (proporción estimada de hipótesis nulas verdaderas)
+    Sobrevivientes q_Storey<=0,05: 69,957  (comparar con BH q=0,05: 69,871)
+
+[7] Intersección con los cuatro criterios computables
+    excluidos por estar entre los 17 pares ya evaluados a mano (Sección 7.1): 302 filas del universo
+    4_criterios_sin_correccion: 5,113 (-0.00% vs. sin corrección)
+    4_criterios_+_BH_q05: 5,113 (-0.00% vs. sin corrección)
+    4_criterios_+_BH_q01: 5,113 (-0.00% vs. sin corrección)
+    4_criterios_+_BY_q05: 5,113 (-0.00% vs. sin corrección)
+
+[8] Verificación de pathways publicados (pathways_tabla1_verificacion.csv)
+    RSH->FUAS: p=0, rango 281/81,158, OK
+    RSH->MINVU: p=0, rango 78/81,158, OK
+    RSH->SUF: p=0, rango 120/81,158, OK
+    RSH->Sercotec: p=0, rango 428/81,158, OK
+    AFC->Bolsa Nacional de Empleo: p=0, rango 14/81,158, OK
+    Milicenciamedica.cl->SUSESO: p=0, rango 82/81,158, OK
+
+[9] Sensibilidad de BH q=0,05 al umbral de soporte
+    soporte>=25: NO DISPONIBLE — el archivo de entrada ya viene filtrado a soporte>=50 en el origen (AWS/DuckDB, HAVING COUNT(*)>=50); no existen filas por debajo de ese piso en ningún CSV local.
+    soporte>=50: 81,158 tests, 69,871 sobreviven BH q=0,05
+    soporte>=100: 63,673 tests, 55,863 sobreviven BH q=0,05
+    soporte>=200: 49,034 tests, 43,712 sobreviven BH q=0,05
+    soporte>=500: 33,615 tests, 30,507 sobreviven BH q=0,05
+    soporte>=1000: 24,624 tests, 22,602 sobreviven BH q=0,05

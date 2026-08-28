@@ -1,0 +1,29 @@
+grupo_a,grupo_b,co_uso,marginal_a,marginal_b,lift,p_valor
+Ministerio Público,Poder Judicial,562198,1019668,3246394,2.3915,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),408208,772217,4145621,1.7955,0.000e+00
+AFC,Comisión para el Mercado Financiero,2853149,5338951,4329895,1.7379,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,544334,4329895,1019668,1.7361,0.000e+00
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2989597,6097450,4145621,1.6654,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,1599639,4329895,3246394,1.6024,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,3425075,4329895,7051586,1.5796,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),524520,772217,6097450,1.5686,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,726228,1019668,7051586,1.4222,0.000e+00
+AFC,Servicio de Impuestos Internos,3783638,5338951,7051586,1.4152,0.000e+00
+FUAS-Mineduc (servicio),Ministerio Público,78404,772217,1019668,1.4021,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),1326220,3246394,4145621,1.3876,0.000e+00
+AFC,Poder Judicial,1703093,5338951,3246394,1.3836,0.000e+00
+AFC,Ministerio Público,534192,5338951,1019668,1.3817,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),1739206,4329895,4145621,1.3643,0.000e+00
+AFC,Ventanilla Única Social (servicio),2087188,5338951,4145621,1.3279,0.000e+00
+AFC,FUAS-Mineduc (servicio),386620,5338951,772217,1.3205,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2142026,3246394,7051586,1.3176,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),393454,1019668,4145621,1.3106,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),1830868,3246394,6097450,1.3024,0.000e+00
+FUAS-Mineduc (servicio),Poder Judicial,228512,772217,3246394,1.2835,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),304424,4329895,772217,1.2820,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2399843,4329895,6097450,1.2800,0.000e+00
+AFC,Registro Social de Hogares (servicio),2929695,5338951,6097450,1.2672,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2550353,7051586,4145621,1.2285,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),540012,1019668,6097450,1.2230,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,468198,772217,7051586,1.2107,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,3628905,6097450,7051586,1.1884,0.000e+00

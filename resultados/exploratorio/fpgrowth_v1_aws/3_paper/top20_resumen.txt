@@ -1,0 +1,68 @@
+TOP 20 SERVICIOS 2024
+ anio                          servicio                                                               institucion  eventos  share_pct  rank
+ 2024  d602a0071f3f4db8b37a87cffd89bf23                                                            PODER JUDICIAL 27149587    10.3845     1
+ 2024                               123                                                                     SRCeI 19018816     7.2746     2
+ 2024  2549b51828ce40af920a932dd2102217                                            Servicio de Impuestos Internos 16421891     6.2813     3
+ 2024  672f76fa24044d36b28fd11b50d7a4ec                                           MINISTERIO DE DESARROLLO SOCIAL 15305494     5.8542     4
+ 2024  e8dde9d26979498786c6ba5a82f70ad3 Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile 13992162     5.3519     5
+ 2024  b4206ac5e3224dfd900588a8f7caf95e                                                   Fondo Nacional de Salud 10952328     4.1892     6
+ 2024  67339e06f4b44f78994ff4785178807a                               Dirección de Compras y Contratación Pública 10326866     3.9500     7
+ 2024  67eb30db49f240b08ab2b3f422f92cdf                                                     Dirección del Trabajo 10041096     3.8407     8
+ 2024  495c261c0f484bd08e232f7358452c4d                                       Comisión para el Mercado Financiero  9565711     3.6588     9
+ 2024  ffaec74bfd414f8394bab077a989e27f                                             Instituto de Previsión Social  9251280     3.5386    10
+ 2024  209ce526160947f0b398566cd4cbfd0d                                Servicio Nacional de Capacitacion y Empleo  8930611     3.4159    11
+ 2024  4a94478dd25f4430a0a023b87e11170d                                            Subsecretaría de Salud Pública  8025465     3.0697    12
+ 2024  9a76efc4c34e4bd7843206658dc45454                                            Secretaría de Gobierno Digital  6064504     2.3196    13
+ 2024  ae4caa1cb2154cac89440f3fe18251cb                             Corporación Administrativa del Poder Judicial  6041491     2.3108    14
+ 2024  dc8bcd185ce744798ceb1d9370f31bbc                                        Subsecretaría de Evaluación Social  3768415     1.4414    15
+ 2024 79bvfghg9a0a8tm25d16sddg7d61d4710                                            Secretaría de Gobierno Digital  3467859     1.3264    16
+ 2024  9b4850c676834809858e3bcee027a27f                                                    Servicio de Tesorerías  3111045     1.1900    17
+ 2024  66a493258641428ea9797fbe33fc8b27                                             Instituto de Previsión Social  2901833     1.1099    18
+ 2024  f883bd6d70b043a09837e8b888fe3f65                      Subsecretaría de Economía y Empresas de Menor Tamaño  2644721     1.0116    19
+ 2024  eaf8f2b0ccd04cf2a7bfcf357fe88ca2                                                            Servicio Civil  2598993     0.9941    20
+
+TOP 20 SERVICIOS 2025
+ anio                          servicio                                                               institucion  eventos  share_pct  rank
+ 2025  d602a0071f3f4db8b37a87cffd89bf23                                                            PODER JUDICIAL 30303673    10.6957     1
+ 2025                               123                                                                     SRCeI 22324432     7.8794     2
+ 2025  2549b51828ce40af920a932dd2102217                                            Servicio de Impuestos Internos 16691593     5.8913     3
+ 2025  e8dde9d26979498786c6ba5a82f70ad3 Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile 14130428     4.9873     4
+ 2025  495c261c0f484bd08e232f7358452c4d                                       Comisión para el Mercado Financiero 12048743     4.2526     5
+ 2025  67eb30db49f240b08ab2b3f422f92cdf                                                     Dirección del Trabajo 11164380     3.9405     6
+ 2025  67339e06f4b44f78994ff4785178807a                               Dirección de Compras y Contratación Pública 10975954     3.8740     7
+ 2025  c82f84bf3f2b451393445a0cb6883665                                        Subsecretaría de Evaluación Social  9978092     3.5218     8
+ 2025  ffaec74bfd414f8394bab077a989e27f                                             Instituto de Previsión Social  9764389     3.4463     9
+ 2025  209ce526160947f0b398566cd4cbfd0d                                Servicio Nacional de Capacitacion y Empleo  8631926     3.0466    10
+ 2025  4a94478dd25f4430a0a023b87e11170d                                            Subsecretaría de Salud Pública  8300622     2.9297    11
+ 2025  ae4caa1cb2154cac89440f3fe18251cb                             Corporación Administrativa del Poder Judicial  6301713     2.2242    12
+ 2025  672f76fa24044d36b28fd11b50d7a4ec                                           MINISTERIO DE DESARROLLO SOCIAL  6173024     2.1788    13
+ 2025  9a76efc4c34e4bd7843206658dc45454                                            Secretaría de Gobierno Digital  6157196     2.1732    14
+ 2025  b4206ac5e3224dfd900588a8f7caf95e                                                   Fondo Nacional de Salud  5828835     2.0573    15
+ 2025  dd7629fec91f4599b3cf8c0dd0b984ac                                                   Fondo Nacional de Salud  5772492     2.0374    16
+ 2025  f883bd6d70b043a09837e8b888fe3f65                      Subsecretaría de Economía y Empresas de Menor Tamaño  3346407     1.1811    17
+ 2025  eaf8f2b0ccd04cf2a7bfcf357fe88ca2                                                            Servicio Civil  3229136     1.1397    18
+ 2025  51e1587ac2364f19bb4a9344841af223                                            Servicio de Impuestos Internos  3105884     1.0962    19
+ 2025 79bvfghg9a0a8tm25d16sddg7d61d4710                                            Secretaría de Gobierno Digital  2795197     0.9866    20
+
+TOP 20 SERVICIOS TOTAL
+ anio                          servicio                                                               institucion  eventos  share_pct  rank
+TOTAL  d602a0071f3f4db8b37a87cffd89bf23                                                            PODER JUDICIAL 57453260    10.5463     1
+TOTAL                               123                                                                     SRCeI 41343248     7.5891     2
+TOTAL  2549b51828ce40af920a932dd2102217                                            Servicio de Impuestos Internos 33113484     6.0784     3
+TOTAL  e8dde9d26979498786c6ba5a82f70ad3 Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile 28122590     5.1623     4
+TOTAL  495c261c0f484bd08e232f7358452c4d                                       Comisión para el Mercado Financiero 21614454     3.9676     5
+TOTAL  672f76fa24044d36b28fd11b50d7a4ec                                           MINISTERIO DE DESARROLLO SOCIAL 21478518     3.9427     6
+TOTAL  67339e06f4b44f78994ff4785178807a                               Dirección de Compras y Contratación Pública 21302820     3.9104     7
+TOTAL  67eb30db49f240b08ab2b3f422f92cdf                                                     Dirección del Trabajo 21205476     3.8926     8
+TOTAL  ffaec74bfd414f8394bab077a989e27f                                             Instituto de Previsión Social 19015669     3.4906     9
+TOTAL  209ce526160947f0b398566cd4cbfd0d                                Servicio Nacional de Capacitacion y Empleo 17562537     3.2238    10
+TOTAL  b4206ac5e3224dfd900588a8f7caf95e                                                   Fondo Nacional de Salud 16781163     3.0804    11
+TOTAL  4a94478dd25f4430a0a023b87e11170d                                            Subsecretaría de Salud Pública 16326087     2.9969    12
+TOTAL  ae4caa1cb2154cac89440f3fe18251cb                             Corporación Administrativa del Poder Judicial 12343204     2.2658    13
+TOTAL  9a76efc4c34e4bd7843206658dc45454                                            Secretaría de Gobierno Digital 12221700     2.2435    14
+TOTAL  c82f84bf3f2b451393445a0cb6883665                                        Subsecretaría de Evaluación Social  9978092     1.8316    15
+TOTAL 79bvfghg9a0a8tm25d16sddg7d61d4710                                            Secretaría de Gobierno Digital  6263056     1.1497    16
+TOTAL  f883bd6d70b043a09837e8b888fe3f65                      Subsecretaría de Economía y Empresas de Menor Tamaño  5991128     1.0998    17
+TOTAL  eaf8f2b0ccd04cf2a7bfcf357fe88ca2                                                            Servicio Civil  5828129     1.0698    18
+TOTAL  dd7629fec91f4599b3cf8c0dd0b984ac                                                   Fondo Nacional de Salud  5772492     1.0596    19
+TOTAL  dc8bcd185ce744798ceb1d9370f31bbc                                        Subsecretaría de Evaluación Social  5447485     1.0000    20

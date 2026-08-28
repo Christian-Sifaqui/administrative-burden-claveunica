@@ -1,0 +1,36 @@
+Semilla base: 42 | corridas por gamma: 20
+NOTA: 'Q_clasica' se mide SIEMPRE con gamma=1 (comparable entre gammas). 'Q_objetivo' es el valor de la función que se optimizó con cada gamma (NO comparable entre gammas).
+
+==============================================================================
+RED: bruto (330 nodos, 19,220 aristas)
+==============================================================================
+ gamma |     Q_clásica (media±DE) |  Q_objetivo(γ) |        n_com |    com_mayor |  %nodos en com=1
+   0.5 |     0.0000 ± 0.0000      |         0.5000 |   1.0 ± 0.0  | 330.0 ± 0.0  |             0.0%
+  0.75 |     0.0000 ± 0.0000      |         0.2500 |   1.0 ± 0.0  | 330.0 ± 0.0  |             0.0%
+   1.0 |     0.0222 ± 0.0033      |         0.0222 |   4.1 ± 0.7  | 215.7 ± 16.1 |             0.0%
+   1.5 |    -0.0200 ± 0.0008      |        -0.0433 |  37.4 ± 1.1  | 115.6 ± 24.6 |             2.0%
+   2.0 |    -0.0270 ± 0.0002      |        -0.0626 |  60.0 ± 1.6  |  87.5 ± 5.3  |             6.2%
+   4.0 |    -0.0311 ± 0.0000      |        -0.1300 | 114.6 ± 1.4  |  46.9 ± 1.6  |            20.1%
+
+==============================================================================
+RED: lift (330 nodos, 16,052 aristas)
+==============================================================================
+ gamma |     Q_clásica (media±DE) |  Q_objetivo(γ) |        n_com |    com_mayor |  %nodos en com=1
+   0.5 |     0.5152 ± 0.0027      |         0.7028 |   7.0 ± 0.0  | 292.1 ± 1.5  |             0.0%
+  0.75 |     0.5334 ± 0.0026      |         0.6160 |   8.7 ± 0.5  | 278.2 ± 1.8  |             0.0%
+   1.0 |     0.5482 ± 0.0006      |         0.5482 |  10.7 ± 0.7  | 207.9 ± 6.5  |             0.0%
+   1.5 |     0.5359 ± 0.0010      |         0.4797 |  16.2 ± 0.4  | 161.6 ± 5.1  |             0.0%
+   2.0 |     0.5140 ± 0.0036      |         0.4294 |  22.0 ± 0.6  | 116.5 ± 16.0 |             0.0%
+   4.0 |     0.4632 ± 0.0014      |         0.3094 |  57.5 ± 1.9  |  31.4 ± 4.5  |             3.1%
+
+==============================================================================
+Gamma más informativo en G_bruto (mayor num. de comunidades no triviales): 4.0 (48.1 comunidades de tamaño>=2)
+==============================================================================
+Tamaños de las comunidades a gamma=4.0: [47, 20, 17, 17, 12, 10, 9, 7, 7, 6, 6, 6, 6, 5, 5, 5, 5, 4, 4, 4] ...
+Primeras comunidades no triviales (para juzgar interpretabilidad sustantiva):
+  [47 instituciones] AGENCIA NACIONAL DE CIBERSEGURIDAD, BID-LOCAL, CAMARA DE DIPUTADOS DE CHILE, COMISION PARA LA INTEGRIDAD PUBLICA Y TRANSPARENCIA, CONTRALORIA GENERAL DE LA REPUBLICA, DIRECCION DE PRESUPUESTOS, DOCDIGITAL, GOBIERNO REGIONAL DE LA REGION DE ANTOFAGASTA ...
+  [20 instituciones] ILUSTRE MUNICIPALIDAD DE LAGO RANCO, MUNICIPALIDAD DE COQUIMBO, MUNICIPALIDAD DE CORONEL, MUNICIPALIDAD DE LAUTARO, MUNICIPALIDAD DE LLANQUIHUE, MUNICIPALIDAD DE LOS VILOS, MUNICIPALIDAD DE MAULLIN, MUNICIPALIDAD DE PANGUIPULLI ...
+  [17 instituciones] DIRECCION DE ARQUITECTURA, E-PROCESS, GOBIERNO REGIONAL DE LA REGION AYSEN DEL GENERAL CARLOS IBANEZ DEL CAMPO, GOBIERNO REGIONAL DE LA REGION DE ARICA Y PARINACOTA, GOBIERNO REGIONAL DE LA REGION DE COQUIMBO, GOBIERNO REGIONAL DE LA REGION DE LOS LAGOS, INSTITUTO NACIONAL DE DEPORTES DE CHILE, MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO ...
+  [17 instituciones] AGENCIA DE SUSTENTABILIDAD Y CAMBIO CLIMATICO, COMISION NACIONAL DE ENERGIA, COMISION NACIONAL DE RIEGO, CORPORACION NACIONAL FORESTAL Y DE PROTECCION DE RECURSOS NATURALES RENOVABLES, DIRECCION DE VIALIDAD, DIRECCION GENERAL DE AGUAS, MINISTERIO DEL MEDIO AMBIENTE, PRIMER TRIBUNAL AMBIENTAL ...
+  [12 instituciones] AGENCIA DE CALIDAD DE LA EDUCACION, DIRECCION DE EDUCACION PUBLICA, JUNTA NACIONAL DE JARDINES INFANTILES, MINISTERIO DE EDUCACION, MUNICIPALIDAD DE REQUINOA, PARQUE METROPOLITANO DE SANTIAGO, SERVICIO LOCAL DE EDUCACION PUBLICA DE ANDALIEN SUR, SERVICIO LOCAL DE EDUCACION PUBLICA DE CHINCHORRO ...
+  [10 instituciones] HOSPITAL REGIONAL DE TALCA, MUNICIPALIDAD DE CURICO, MUNICIPALIDAD DE PARRAL, MUNICIPALIDAD DE PELARCO, MUNICIPALIDAD DE SAN CLEMENTE, MUNICIPALIDAD DE VILLA ALEGRE, SERVICIO DE SALUD DEL RELONCAVI, SERVICIO DE SALUD MAGALLANES ...

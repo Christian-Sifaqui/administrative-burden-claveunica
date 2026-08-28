@@ -1,0 +1,11 @@
+{
+  "avg_apps": 9.208018530280862,
+  "max_apps": 134,
+  "N": 14087644,
+  "local_unique_total_premerge": 11982693,
+  "tx_buckets": 256,
+  "unique_tx": 8931562,
+  "total_weight": 14087644,
+  "support_eff": 0.001,
+  "min_count": 14091
+}

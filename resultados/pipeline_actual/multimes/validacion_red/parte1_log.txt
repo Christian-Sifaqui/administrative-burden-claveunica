@@ -1,0 +1,60 @@
+
+======================================================================
+RED: bruto (330 nodos, 19,220 aristas)
+======================================================================
+  100 corridas en 41.9s
+  Q ponderada: media=0.0226 DE=0.0034 min=0.0142 max=0.0248 p2.5=0.0148 p97.5=0.0248
+  Q binaria:   media=0.1302 DE=0.0001 min=0.1298 max=0.1302 p2.5=0.1298 p97.5=0.1302
+  num. comunidades: media=4.22 DE=0.84 min=3 max=5
+  ARI entre corridas (4950 parejas, 8.0s): media=0.7208 DE=0.2549 min=0.1959
+  NMI entre corridas: media=0.6822 DE=0.2453 min=0.2203
+  Partición modal: corrida #1 (ARI promedio=0.8085, 5 comunidades)
+  Nodos inestables (>20% de corridas en desacuerdo con la modal, tras alinear etiquetas): 38 de 330
+    SERVICIO NACIONAL DEL ADULTO MAYOR                      54.0%
+    ACADEMIA POLITECNICA NAVAL                              52.0%
+    ARMADA DE CHILE                                         52.0%
+    CAJA DE PREVISION DE LA DEFENSA NACIONAL                52.0%
+    INSTITUCION                                             52.0%
+    REDIN                                                   52.0%
+    SANIDAD NAVAL DE LA ARMADA DE CHILE                     52.0%
+    MUNICIPALIDAD DE MULCHEN                                51.0%
+    SERVICIO NACIONAL DE LA MUJER Y LA EQUIDAD DE GENERO    51.0%
+    SERVICIO DE SALUD METROPOLITANO SUR                     50.0%
+    MUNICIPALIDAD DE PUENTE ALTO                            49.0%
+    SERVICIO DE COOPERACION TECNICA                         49.0%
+    SERVICIO DE SALUD AYSEN                                 49.0%
+    SERVICIO DE SALUD METROPOLITANO SUR ORIENTE             49.0%
+    SUPERINTENDENCIA DE EDUCACION                           46.0%
+    ... y 23 más (ver CSV completo)
+  Leiden ModularityVertexPartition: Q=0.0248, 3 comunidades, ARI vs. modal Louvain=0.9425, NMI=0.9076
+  Leiden RBConfigurationVertexPartition(res=1.0): Q=0.0248, 3 comunidades, ARI vs. modal Louvain=0.9425, NMI=0.9076
+  Comunidades de la modal internamente desconectadas: 0 de 5
+
+======================================================================
+RED: lift (330 nodos, 16,052 aristas)
+======================================================================
+  100 corridas en 37.9s
+  Q ponderada: media=0.5482 DE=0.0006 min=0.5435 max=0.5488 p2.5=0.5475 p97.5=0.5487
+  Q binaria:   media=0.1303 DE=0.0020 min=0.1200 max=0.1311 p2.5=0.1235 p97.5=0.1311
+  num. comunidades: media=10.83 DE=0.68 min=9 max=12
+  ARI entre corridas (4950 parejas, 8.0s): media=0.9125 DE=0.0652 min=0.6376
+  NMI entre corridas: media=0.9052 DE=0.0605 min=0.6994
+  Partición modal: corrida #27 (ARI promedio=0.9341, 11 comunidades)
+  Nodos inestables (>20% de corridas en desacuerdo con la modal, tras alinear etiquetas): 14 de 330
+    HOSPITAL REGIONAL DE TALCA                              51.0%
+    MUNICIPALIDAD DE SAN CLEMENTE                           51.0%
+    SERVICIO DE SALUD MAULE                                 51.0%
+    SERVICIO NACIONAL DE PESCA Y ACUICULTURA                49.0%
+    DIRECCION DE COMPRAS Y CONTRATACION PUBLICA             46.0%
+    MUNICIPALIDAD DE CURARREHUE                             46.0%
+    MUNICIPALIDAD DE TALTAL                                 46.0%
+    TRIBUNAL ELECTORAL REGION DE ARICA Y PARINACOTA         46.0%
+    AGENCIA NACIONAL DE INVESTIGACION Y DESARROLLO          44.0%
+    CORPORACION NACIONAL FORESTAL Y DE PROTECCION DE RECURSOS NATURALES RENOVABLES 44.0%
+    UNIVERSIDAD DE TALCA                                    43.0%
+    CAMARA DE DIPUTADOS DE CHILE                            25.0%
+    DIRECCION DE PRESUPUESTOS                               22.0%
+    SUBSECRETARIA DE LA MUJER Y LA EQUIDAD DE GENERO        22.0%
+  Leiden ModularityVertexPartition: Q=0.5484, 10 comunidades, ARI vs. modal Louvain=0.9484, NMI=0.8837
+  Leiden RBConfigurationVertexPartition(res=1.0): Q=0.5484, 10 comunidades, ARI vs. modal Louvain=0.9484, NMI=0.8837
+  Comunidades de la modal internamente desconectadas: 0 de 11

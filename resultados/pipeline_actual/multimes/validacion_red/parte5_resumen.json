@@ -1,0 +1,144 @@
+{
+  "bruto": {
+    "info_red": {
+      "nodos": 375,
+      "aristas": 19220,
+      "densidad": 0.27408199643493764,
+      "n_aislados": 45,
+      "tam_componente_mayor": 330,
+      "frac_componente_mayor": 0.88
+    },
+    "burt": {
+      "binarizada": {
+        "verificacion": {
+          "constraint_ok_tolerancia_1e9": true,
+          "constraint_n_discrepancias": 0,
+          "effective_size_n_diferentes_de_nx": 0,
+          "effective_size_nx_n_total": 375
+        },
+        "regresion_constraint_vs_log_grado": {
+          "slope": -0.034134247718414994,
+          "intercept": 0.18470035460793452,
+          "r": -0.694191869563227
+        }
+      },
+      "ponderada": {
+        "verificacion": {
+          "constraint_ok_tolerancia_1e9": true,
+          "constraint_n_discrepancias": 0,
+          "effective_size_n_diferentes_de_nx": 327,
+          "effective_size_nx_n_total": 375
+        },
+        "nulo": {
+          "n_replicas": 1000,
+          "tiempo_seg": 12627.247485160828,
+          "grados_preservados": true
+        },
+        "regresion_constraint_vs_log_grado": {
+          "slope": -0.03313175423505903,
+          "intercept": 0.28371205833222013,
+          "r": -0.6635490279602789
+        }
+      }
+    },
+    "spearman_binaria_betweenness_constraint": {
+      "rho": -0.953908122591777,
+      "p_valor": 1.6095904709597795e-173,
+      "ic95_lo": -0.9659075160490151,
+      "ic95_hi": -0.9378155721499738,
+      "n": 330
+    },
+    "spearman_binaria_betweenness_effective_size": {
+      "rho": 0.9746306510383149,
+      "p_valor": 2.6373932089910194e-215,
+      "ic95_lo": 0.9617439860577882,
+      "ic95_hi": 0.9838741300785514,
+      "n": 330
+    },
+    "spearman_ponderada_betweenness_constraint": {
+      "rho": 0.061038568975526265,
+      "p_valor": 0.26888043786743426,
+      "ic95_lo": -0.007557561424048882,
+      "ic95_hi": 0.11895127183326898,
+      "n": 330
+    },
+    "spearman_ponderada_betweenness_effective_size": {
+      "rho": 0.22882539568537458,
+      "p_valor": 2.7063838380795104e-05,
+      "ic95_lo": 0.13197317501686712,
+      "ic95_hi": 0.30942178537552584,
+      "n": 330
+    }
+  },
+  "lift": {
+    "info_red": {
+      "nodos": 375,
+      "aristas": 16052,
+      "densidad": 0.22890552584670232,
+      "n_aislados": 45,
+      "tam_componente_mayor": 330,
+      "frac_componente_mayor": 0.88
+    },
+    "burt": {
+      "binarizada": {
+        "verificacion": {
+          "constraint_ok_tolerancia_1e9": true,
+          "constraint_n_discrepancias": 0,
+          "effective_size_n_diferentes_de_nx": 0,
+          "effective_size_nx_n_total": 375
+        },
+        "regresion_constraint_vs_log_grado": {
+          "slope": -0.04080745228898516,
+          "intercept": 0.21151611567001466,
+          "r": -0.722627507897892
+        }
+      },
+      "ponderada": {
+        "verificacion": {
+          "constraint_ok_tolerancia_1e9": true,
+          "constraint_n_discrepancias": 0,
+          "effective_size_n_diferentes_de_nx": 327,
+          "effective_size_nx_n_total": 375
+        },
+        "nulo": {
+          "n_replicas": 1000,
+          "tiempo_seg": 12260.101935386658,
+          "grados_preservados": true
+        },
+        "regresion_constraint_vs_log_grado": {
+          "slope": -0.0935662701531093,
+          "intercept": 0.5448375208604082,
+          "r": -0.49508979218450855
+        }
+      }
+    },
+    "spearman_binaria_betweenness_constraint": {
+      "rho": -0.9702380033118206,
+      "p_valor": 4.348664020823492e-204,
+      "ic95_lo": -0.9766169396401061,
+      "ic95_hi": -0.9596627545197763,
+      "n": 330
+    },
+    "spearman_binaria_betweenness_effective_size": {
+      "rho": 0.9903350561190333,
+      "p_valor": 1.7557024857229815e-283,
+      "ic95_lo": 0.9851915638189879,
+      "ic95_hi": 0.9931725757172004,
+      "n": 330
+    },
+    "spearman_ponderada_betweenness_constraint": {
+      "rho": -0.14030500612351707,
+      "p_valor": 0.010718960645607612,
+      "ic95_lo": -0.24130812550320868,
+      "ic95_hi": -0.038882304451945404,
+      "n": 330
+    },
+    "spearman_ponderada_betweenness_effective_size": {
+      "rho": 0.5679208360290907,
+      "p_valor": 1.4197278523871896e-29,
+      "ic95_lo": 0.4842049898517018,
+      "ic95_hi": 0.6444242206635374,
+      "n": 330
+    }
+  }
+}

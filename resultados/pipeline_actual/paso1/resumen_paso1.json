@@ -1,0 +1,7 @@
+{
+  "n_pares_totales": 3426,
+  "n_consistentes": 361,
+  "n_mixtos": 3065,
+  "min_soporte": 5,
+  "umbral_consistente": 0.9
+}

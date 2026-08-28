@@ -1,0 +1,240 @@
+{
+  "top_A_log1p": [
+    {
+      "institucion": "SUBSECRETARIA GENERAL DE LA PRESIDENCIA DE LA REPUBLICA",
+      "betweenness_pct": 11.823
+    },
+    {
+      "institucion": "COMISION PARA LA INTEGRIDAD PUBLICA Y TRANSPARENCIA",
+      "betweenness_pct": 6.813
+    },
+    {
+      "institucion": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "betweenness_pct": 6.613
+    },
+    {
+      "institucion": "DIRECCION NACIONAL DEL SERVICIO CIVIL",
+      "betweenness_pct": 3.492
+    },
+    {
+      "institucion": "COMISION PARA EL MERCADO FINANCIERO",
+      "betweenness_pct": 3.217
+    },
+    {
+      "institucion": "SUBSECRETARIA GENERAL DE GOBIERNO",
+      "betweenness_pct": 2.252
+    },
+    {
+      "institucion": "SERVICIO DE IMPUESTOS INTERNOS",
+      "betweenness_pct": 1.937
+    },
+    {
+      "institucion": "SUBSECRETARIA PARA LAS FUERZAS ARMADAS",
+      "betweenness_pct": 1.696
+    },
+    {
+      "institucion": "GOBIERNO REGIONAL DE LA REGION DE LOS LAGOS",
+      "betweenness_pct": 1.605
+    },
+    {
+      "institucion": "SERVICIO DE EVALUACION AMBIENTAL",
+      "betweenness_pct": 1.362
+    },
+    {
+      "institucion": "GOBIERNO REGIONAL DE LA REGION DE ARICA Y PARINACOTA",
+      "betweenness_pct": 1.325
+    },
+    {
+      "institucion": "MUNICIPALIDAD DE PUERTO MONTT",
+      "betweenness_pct": 1.249
+    },
+    {
+      "institucion": "SERVICIO AGRICOLA Y GANADERO",
+      "betweenness_pct": 1.147
+    },
+    {
+      "institucion": "SUBSECRETARIA DE VIVIENDA Y URBANISMO",
+      "betweenness_pct": 1.064
+    },
+    {
+      "institucion": "SUBSECRETARIA DE DERECHOS HUMANOS",
+      "betweenness_pct": 1.034
+    }
+  ],
+  "top_B_lift_crudo": [
+    {
+      "institucion": "SERVICIO DE REGISTRO CIVIL E IDENTIFICACION",
+      "betweenness_pct": 32.856
+    },
+    {
+      "institucion": "SECRETARIA DE GOBIERNO DIGITAL",
+      "betweenness_pct": 8.594
+    },
+    {
+      "institucion": "SERVICIO DE IMPUESTOS INTERNOS",
+      "betweenness_pct": 6.633
+    },
+    {
+      "institucion": "SOCIEDAD ADMINISTRADORA DE FONDOS DE CESANTIA DE CHILE S.A.",
+      "betweenness_pct": 4.007
+    },
+    {
+      "institucion": "FONDO NACIONAL DE SALUD",
+      "betweenness_pct": 3.46
+    },
+    {
+      "institucion": "SUBSECRETARIA DE EVALUACION SOCIAL",
+      "betweenness_pct": 2.228
+    },
+    {
+      "institucion": "DIRECCION DEL TRABAJO",
+      "betweenness_pct": 2.17
+    },
+    {
+      "institucion": "MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA",
+      "betweenness_pct": 2.044
+    },
+    {
+      "institucion": "INSTITUTO DE PREVISION SOCIAL",
+      "betweenness_pct": 1.989
+    },
+    {
+      "institucion": "PODER JUDICIAL",
+      "betweenness_pct": 1.864
+    },
+    {
+      "institucion": "CARABINEROS DE CHILE",
+      "betweenness_pct": 1.796
+    },
+    {
+      "institucion": "SUBSECRETARIA DE SALUD PUBLICA",
+      "betweenness_pct": 1.116
+    },
+    {
+      "institucion": "COMISION PARA EL MERCADO FINANCIERO",
+      "betweenness_pct": 0.99
+    },
+    {
+      "institucion": "SERVICIO NACIONAL DE CAPACITACION Y EMPLEO",
+      "betweenness_pct": 0.971
+    },
+    {
+      "institucion": "SUBSECRETARIA DE JUSTICIA",
+      "betweenness_pct": 0.886
+    }
+  ],
+  "top_C_reciproco": [
+    {
+      "institucion": "SUBSECRETARIA GENERAL DE LA PRESIDENCIA DE LA REPUBLICA",
+      "betweenness_pct": 16.373
+    },
+    {
+      "institucion": "SUBSECRETARIA DE LA MUJER Y LA EQUIDAD DE GENERO",
+      "betweenness_pct": 15.561
+    },
+    {
+      "institucion": "DOCDIGITAL",
+      "betweenness_pct": 14.986
+    },
+    {
+      "institucion": "SEGUNDO TRIBUNAL AMBIENTAL",
+      "betweenness_pct": 13.509
+    },
+    {
+      "institucion": "MINISTERIO SECRETARIA GENERAL DE GOBIERNO",
+      "betweenness_pct": 12.66
+    },
+    {
+      "institucion": "TRIBUNAL CONSTITUCIONAL DE CHILE",
+      "betweenness_pct": 10.783
+    },
+    {
+      "institucion": "DIRECCION DE PRESUPUESTOS",
+      "betweenness_pct": 9.927
+    },
+    {
+      "institucion": "SIMPLE",
+      "betweenness_pct": 8.461
+    },
+    {
+      "institucion": "GOBIERNO REGIONAL DE LA REGION DE ARICA Y PARINACOTA",
+      "betweenness_pct": 8.31
+    },
+    {
+      "institucion": "SUBSECRETARIA DE HACIENDA",
+      "betweenness_pct": 7.929
+    },
+    {
+      "institucion": "SUBSECRETARIA DE LAS CULTURAS Y LAS ARTES",
+      "betweenness_pct": 7.586
+    },
+    {
+      "institucion": "MUNICIPIOS",
+      "betweenness_pct": 7.13
+    },
+    {
+      "institucion": "DIRECCION DE EDUCACION PUBLICA",
+      "betweenness_pct": 7.124
+    },
+    {
+      "institucion": "COMISION PARA LA INTEGRIDAD PUBLICA Y TRANSPARENCIA",
+      "betweenness_pct": 7.028
+    },
+    {
+      "institucion": "TRIBUNAL CALIFICADOR DE ELECCIONES DE CHILE‎",
+      "betweenness_pct": 6.869
+    }
+  ],
+  "verificacion_vs_publicado": [
+    {
+      "institucion_buscada": "SUBSECRETARIA GENERAL DE LA PRESIDENCIA",
+      "pct_publicado": 11.8,
+      "pct_A_log1p": 11.82,
+      "nombre_encontrado_A_log1p": "SUBSECRETARIA GENERAL DE LA PRESIDENCIA DE LA REPUBLICA",
+      "pct_B_lift_crudo": 2.23,
+      "nombre_encontrado_B_lift_crudo": "SUBSECRETARIA DE EVALUACION SOCIAL",
+      "pct_C_reciproco": 16.37,
+      "nombre_encontrado_C_reciproco": "SUBSECRETARIA GENERAL DE LA PRESIDENCIA DE LA REPUBLICA"
+    },
+    {
+      "institucion_buscada": "COMISION PARA LA INTEGRIDAD PUBLICA",
+      "pct_publicado": 6.8,
+      "pct_A_log1p": 6.81,
+      "nombre_encontrado_A_log1p": "COMISION PARA LA INTEGRIDAD PUBLICA Y TRANSPARENCIA",
+      "pct_B_lift_crudo": 0.99,
+      "nombre_encontrado_B_lift_crudo": "COMISION PARA EL MERCADO FINANCIERO",
+      "pct_C_reciproco": 7.03,
+      "nombre_encontrado_C_reciproco": "COMISION PARA LA INTEGRIDAD PUBLICA Y TRANSPARENCIA"
+    },
+    {
+      "institucion_buscada": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "pct_publicado": 6.6,
+      "pct_A_log1p": 6.61,
+      "nombre_encontrado_A_log1p": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "pct_B_lift_crudo": 0.02,
+      "nombre_encontrado_B_lift_crudo": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "pct_C_reciproco": 4.99,
+      "nombre_encontrado_C_reciproco": "CONTRALORIA GENERAL DE LA REPUBLICA"
+    },
+    {
+      "institucion_buscada": "SERVICIO CIVIL",
+      "pct_publicado": 3.5,
+      "pct_A_log1p": 3.49,
+      "nombre_encontrado_A_log1p": "DIRECCION NACIONAL DEL SERVICIO CIVIL",
+      "pct_B_lift_crudo": 32.86,
+      "nombre_encontrado_B_lift_crudo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICACION",
+      "pct_C_reciproco": 4.09,
+      "nombre_encontrado_C_reciproco": "SERVICIO DE EVALUACION AMBIENTAL"
+    },
+    {
+      "institucion_buscada": "COMISION PARA EL MERCADO FINANCIERO",
+      "pct_publicado": 3.2,
+      "pct_A_log1p": 6.81,
+      "nombre_encontrado_A_log1p": "COMISION PARA LA INTEGRIDAD PUBLICA Y TRANSPARENCIA",
+      "pct_B_lift_crudo": 0.99,
+      "nombre_encontrado_B_lift_crudo": "COMISION PARA EL MERCADO FINANCIERO",
+      "pct_C_reciproco": 7.03,
+      "nombre_encontrado_C_reciproco": "COMISION PARA LA INTEGRIDAD PUBLICA Y TRANSPARENCIA"
+    }
+  ]
+}

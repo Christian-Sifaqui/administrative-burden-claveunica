@@ -1,0 +1,39 @@
+anio,institucion,eventos,share_pct
+2024,PODER JUDICIAL,27149587,10.39
+2024,Servicio de Impuestos Internos,20461968,7.83
+2024,SRCeI,19018816,7.28
+2024,MINISTERIO DE DESARROLLO SOCIAL,15305494,5.85
+2024,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",13992162,5.35
+2024,Subsecretaría de Salud Pública,13262035,5.07
+2024,Instituto de Previsión Social,12620426,4.83
+2024,Fondo Nacional de Salud,12528396,4.79
+2024,Dirección de Compras y Contratación Pública,10829274,4.14
+2024,Dirección del Trabajo,10215644,3.91
+2025,PODER JUDICIAL,30303673,10.81
+2025,SRCeI,22324432,7.96
+2025,Servicio de Impuestos Internos,21675174,7.73
+2025,Subsecretaría de Salud Pública,14409175,5.14
+2025,Subsecretaría de Evaluación Social,14344529,5.11
+2025,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",14130428,5.04
+2025,Fondo Nacional de Salud,12699326,4.53
+2025,Comisión para el Mercado Financiero,12048743,4.30
+2025,Dirección del Trabajo,11426426,4.07
+2025,Dirección de Compras y Contratación Pública,11132752,3.97
+
+# Mayor caida 2024->2025 (top 15)
+institucion,eventos_2024,eventos_2025,diferencia
+MINISTERIO DE DESARROLLO SOCIAL,15305494,6173024,-9132470
+Instituto de Previsión Social,12620426,10465424,-2155002
+MDS,2447156,649112,-1798044
+ACEPTA.COM S.A.,1403664,13190,-1390474
+Servicio de Tesorerías,3164761,2245039,-919722
+Instituto Nacional de Estadísticas,488922,7317,-481605
+Secretaría de Gobierno Digital,9919657,9438090,-481567
+Fondo de Solidaridad e Inversión Social,650924,206123,-444801
+Servicio Nacional de Capacitacion y Empleo,8930611,8631926,-298685
+Superintendencia de Seguridad Social,2436974,2248491,-188483
+Servicio Agrícola y Ganadero,1493766,1364724,-129042
+servicio electoral,122992,7911,-115081
+Subsecretaria de Prevención del Delito,160340,48172,-112168
+Servicio Electoral,2213714,2104295,-109419
+Servicio Nacional de Capacitación y Empleo,149536,44103,-105433

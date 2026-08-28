@@ -1,0 +1,46 @@
+
+======================================================================
+RED: bruto
+======================================================================
+    nodos=375  aristas=19,220  densidad=0.2741  aislados=45  componente_mayor=330 (88.0% de los nodos)
+    [bruto] betweenness binaria y ponderada, closeness, clustering...
+  -- Burt, versión binarizada --
+    [bruto/binarizada] constraint custom vs NetworkX: OK, coinciden dentro de 1e-9
+    [bruto/binarizada] effective_size custom vs NetworkX: 0/375 nodos difieren (ESPERADO -- NetworkX usa una formulacion distinta a la original de Burt 1992; se reportan ambas, no se elige una en silencio)
+  -- Burt, versión ponderada --
+    [bruto/ponderada] constraint custom vs NetworkX: OK, coinciden dentro de 1e-9
+    [bruto/ponderada] effective_size custom vs NetworkX: 327/375 nodos difieren (ESPERADO -- NetworkX usa una formulacion distinta a la original de Burt 1992; se reportan ambas, no se elige una en silencio)
+    [bruto] nulo constraint: 1000 réplicas en 12627.2s (12.63s/réplica) -- grados preservados en todas: True
+
+  -- Convergencia entre marcos (Spearman) --
+    binaria (esperado: negativa con constraint, positiva con effective size):
+    [bruto: betw_bin~C_bin] Spearman rho=-0.9539 p=1.61e-173 IC95%=[-0.9659, -0.9378] (n=330, bootstrap=2000)
+    [bruto: betw_bin~ES_bin] Spearman rho=0.9746 p=2.637e-215 IC95%=[0.9617, 0.9839] (n=330, bootstrap=2000)
+    ponderada, distancia=1/log1p(peso) (misma transformación que la Sección 4.3):
+    [bruto: betw_pond~C_pond] Spearman rho=0.0610 p=0.2689 IC95%=[-0.0076, 0.1190] (n=330, bootstrap=2000)
+    [bruto: betw_pond~ES_pond] Spearman rho=0.2288 p=2.706e-05 IC95%=[0.1320, 0.3094] (n=330, bootstrap=2000)
+
+  -- Nodos de interés --
+
+======================================================================
+RED: lift
+======================================================================
+    nodos=375  aristas=16,052  densidad=0.2289  aislados=45  componente_mayor=330 (88.0% de los nodos)
+    [lift] betweenness binaria y ponderada, closeness, clustering...
+  -- Burt, versión binarizada --
+    [lift/binarizada] constraint custom vs NetworkX: OK, coinciden dentro de 1e-9
+    [lift/binarizada] effective_size custom vs NetworkX: 0/375 nodos difieren (ESPERADO -- NetworkX usa una formulacion distinta a la original de Burt 1992; se reportan ambas, no se elige una en silencio)
+  -- Burt, versión ponderada --
+    [lift/ponderada] constraint custom vs NetworkX: OK, coinciden dentro de 1e-9
+    [lift/ponderada] effective_size custom vs NetworkX: 327/375 nodos difieren (ESPERADO -- NetworkX usa una formulacion distinta a la original de Burt 1992; se reportan ambas, no se elige una en silencio)
+    [lift] nulo constraint: 1000 réplicas en 12260.1s (12.26s/réplica) -- grados preservados en todas: True
+
+  -- Convergencia entre marcos (Spearman) --
+    binaria (esperado: negativa con constraint, positiva con effective size):
+    [lift: betw_bin~C_bin] Spearman rho=-0.9702 p=4.349e-204 IC95%=[-0.9766, -0.9597] (n=330, bootstrap=2000)
+    [lift: betw_bin~ES_bin] Spearman rho=0.9903 p=1.756e-283 IC95%=[0.9852, 0.9932] (n=330, bootstrap=2000)
+    ponderada, distancia=1/log1p(peso) (misma transformación que la Sección 4.3):
+    [lift: betw_pond~C_pond] Spearman rho=-0.1403 p=0.01072 IC95%=[-0.2413, -0.0389] (n=330, bootstrap=2000)
+    [lift: betw_pond~ES_pond] Spearman rho=0.5679 p=1.42e-29 IC95%=[0.4842, 0.6444] (n=330, bootstrap=2000)
+
+  -- Nodos de interés --

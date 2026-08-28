@@ -1,0 +1,400 @@
+month,sector,count
+2024-01,Ministerio de Hacienda,3457962
+2024-01,Ministerio del Trabajo y Previsión Social,3176655
+2024-01,Otros Poderes,2560595
+2024-01,Ministerio de Salud,2543559
+2024-01,Ministerio de Justicia y Derechos Humanos,1962481
+2024-01,Empresa Privada,1948420
+2024-01,Ministerio de Desarrollo Social y Familia,1691256
+2024-01,"Ministerio de Economía, Fomento y Turismo",450338
+2024-01,Autónomo,320311
+2024-01,Ministerio del Interior y Seguridad Pública,223781
+2024-01,Ministerio de Defensa Nacional,176155
+2024-01,Servicio,171241
+2024-01,Ministerio de Agricultura,163804
+2024-01,Ministerio de Educación,145070
+2024-01,Municipalidad,112885
+2024-01,Ministerio de Transportes y Telecomunicaciones,97964
+2024-01,Ministerio de Vivienda y Urbanismo,91137
+2024-01,Ministerio Secretaría General de la Presidencia de la República,90051
+2024-01,Contraloría,75233
+2024-01,Ministerio del Medio Ambiente,48328
+2024-01,"Ministerio de las Culturas, las Artes y el Patrimonio",36413
+2024-01,Ministerio de Energía,26495
+2024-01,Ministerio de Obras Públicas,20617
+2024-01,Fuerzas Armadas,18624
+2024-01,Ministerio Secretaría General de Gobierno,14501
+2024-01,Ministerio de Minería,5293
+2024-01,Presidencia de la República,4427
+2024-01,Ministerio de Bienes Nacionales,3941
+2024-01,Ministerio del Deporte,1997
+2024-01,Ministerio de Relaciones Exteriores,1673
+2024-01,Test,699
+2024-01,Ministerio de la Mujer y la Equidad de Género,382
+2024-01,Empresa Pública,11
+2024-02,Ministerio de Hacienda,3276477
+2024-02,Ministerio del Trabajo y Previsión Social,2867010
+2024-02,Otros Poderes,2296919
+2024-02,Ministerio de Salud,2162330
+2024-02,Ministerio de Justicia y Derechos Humanos,1736580
+2024-02,Empresa Privada,1712467
+2024-02,Ministerio de Desarrollo Social y Familia,1302388
+2024-02,"Ministerio de Economía, Fomento y Turismo",438189
+2024-02,Ministerio del Interior y Seguridad Pública,311827
+2024-02,Autónomo,223439
+2024-02,Ministerio de Agricultura,189294
+2024-02,Ministerio de Defensa Nacional,181445
+2024-02,Municipalidad,173738
+2024-02,Ministerio de Educación,129578
+2024-02,Servicio,95557
+2024-02,Ministerio de Transportes y Telecomunicaciones,94517
+2024-02,Ministerio de Vivienda y Urbanismo,86507
+2024-02,Ministerio Secretaría General de la Presidencia de la República,79961
+2024-02,Contraloría,72187
+2024-02,Ministerio del Medio Ambiente,41024
+2024-02,"Ministerio de las Culturas, las Artes y el Patrimonio",32422
+2024-02,Ministerio de Energía,23730
+2024-02,Ministerio de Obras Públicas,18225
+2024-02,Fuerzas Armadas,15773
+2024-02,Ministerio Secretaría General de Gobierno,11905
+2024-02,Ministerio de Minería,4316
+2024-02,Presidencia de la República,3561
+2024-02,Ministerio de Bienes Nacionales,3355
+2024-02,Ministerio de Relaciones Exteriores,1733
+2024-02,Ministerio del Deporte,1689
+2024-02,Test,553
+2024-02,Ministerio de la Mujer y la Equidad de Género,273
+2024-02,Empresa Pública,29
+2024-03,Ministerio de Hacienda,4331845
+2024-03,Ministerio del Trabajo y Previsión Social,2852580
+2024-03,Otros Poderes,2472324
+2024-03,Ministerio de Salud,2464066
+2024-03,Ministerio de Justicia y Derechos Humanos,2262654
+2024-03,Empresa Privada,1894238
+2024-03,Ministerio de Desarrollo Social y Familia,1786915
+2024-03,"Ministerio de Economía, Fomento y Turismo",605861
+2024-03,Autónomo,341601
+2024-03,Ministerio de Educación,295608
+2024-03,Ministerio del Interior y Seguridad Pública,260815
+2024-03,Contraloría,218982
+2024-03,Ministerio de Defensa Nacional,186701
+2024-03,Ministerio de Agricultura,159875
+2024-03,Ministerio de Vivienda y Urbanismo,148261
+2024-03,Ministerio de Transportes y Telecomunicaciones,144485
+2024-03,Servicio,142639
+2024-03,Municipalidad,129005
+2024-03,Ministerio Secretaría General de la Presidencia de la República,98309
+2024-03,"Ministerio de las Culturas, las Artes y el Patrimonio",74598
+2024-03,Ministerio del Medio Ambiente,56793
+2024-03,Ministerio de Energía,28445
+2024-03,Ministerio Secretaría General de Gobierno,24257
+2024-03,Ministerio de Obras Públicas,20267
+2024-03,Fuerzas Armadas,19302
+2024-03,Ministerio de Minería,7878
+2024-03,Presidencia de la República,4241
+2024-03,Ministerio de Bienes Nacionales,4005
+2024-03,Ministerio de Relaciones Exteriores,1827
+2024-03,Ministerio del Deporte,1537
+2024-03,Test,796
+2024-03,Ministerio de la Mujer y la Equidad de Género,541
+2024-03,Empresa Pública,3
+2024-04,Ministerio de Hacienda,8592737
+2024-04,Ministerio del Trabajo y Previsión Social,2775079
+2024-04,Ministerio de Salud,2597432
+2024-04,Otros Poderes,2594875
+2024-04,Empresa Privada,1814674
+2024-04,Ministerio de Justicia y Derechos Humanos,1812272
+2024-04,Ministerio de Desarrollo Social y Familia,1664252
+2024-04,"Ministerio de Economía, Fomento y Turismo",552027
+2024-04,Autónomo,471466
+2024-04,Ministerio del Interior y Seguridad Pública,279715
+2024-04,Ministerio de Vivienda y Urbanismo,194273
+2024-04,Ministerio de Defensa Nacional,182569
+2024-04,Ministerio de Educación,163640
+2024-04,Contraloría,134687
+2024-04,Ministerio de Agricultura,134311
+2024-04,Municipalidad,124358
+2024-04,Servicio,123697
+2024-04,Ministerio Secretaría General de la Presidencia de la República,122641
+2024-04,Ministerio de Transportes y Telecomunicaciones,122573
+2024-04,Ministerio del Medio Ambiente,70254
+2024-04,"Ministerio de las Culturas, las Artes y el Patrimonio",54938
+2024-04,Ministerio Secretaría General de Gobierno,41076
+2024-04,Ministerio de Energía,29341
+2024-04,Ministerio de Obras Públicas,24091
+2024-04,Fuerzas Armadas,21519
+2024-04,Ministerio de Minería,8366
+2024-04,Presidencia de la República,6753
+2024-04,Ministerio de Bienes Nacionales,4242
+2024-04,Ministerio de Relaciones Exteriores,1657
+2024-04,Ministerio del Deporte,1477
+2024-04,Ministerio de la Mujer y la Equidad de Género,964
+2024-04,Test,743
+2024-04,Empresa Pública,3
+2024-05,Ministerio de Hacienda,4687981
+2024-05,Ministerio del Trabajo y Previsión Social,2961971
+2024-05,Ministerio de Salud,2640114
+2024-05,Otros Poderes,2550038
+2024-05,Empresa Privada,1713100
+2024-05,Ministerio de Justicia y Derechos Humanos,1628502
+2024-05,Ministerio de Desarrollo Social y Familia,1461286
+2024-05,"Ministerio de Economía, Fomento y Turismo",613447
+2024-05,Autónomo,573118
+2024-05,Ministerio de Vivienda y Urbanismo,268074
+2024-05,Ministerio del Interior y Seguridad Pública,237562
+2024-05,Ministerio de Educación,187428
+2024-05,Ministerio de Defensa Nacional,179872
+2024-05,Ministerio de Agricultura,144063
+2024-05,Ministerio de Transportes y Telecomunicaciones,139413
+2024-05,Servicio,119409
+2024-05,Ministerio Secretaría General de la Presidencia de la República,117887
+2024-05,Municipalidad,103454
+2024-05,Contraloría,100474
+2024-05,Ministerio del Medio Ambiente,54721
+2024-05,"Ministerio de las Culturas, las Artes y el Patrimonio",43817
+2024-05,Ministerio Secretaría General de Gobierno,32749
+2024-05,Ministerio de Energía,31060
+2024-05,Ministerio de Obras Públicas,21952
+2024-05,Fuerzas Armadas,21568
+2024-05,Presidencia de la República,19007
+2024-05,Ministerio de Minería,7395
+2024-05,Ministerio de Bienes Nacionales,3743
+2024-05,Ministerio del Deporte,1485
+2024-05,Ministerio de Relaciones Exteriores,1307
+2024-05,Test,775
+2024-05,Ministerio de la Mujer y la Equidad de Género,275
+2024-05,Empresa Pública,23
+2024-06,Ministerio de Hacienda,3651994
+2024-06,Ministerio del Trabajo y Previsión Social,2785868
+2024-06,Otros Poderes,2421854
+2024-06,Ministerio de Salud,2363607
+2024-06,Ministerio de Desarrollo Social y Familia,1592770
+2024-06,Empresa Privada,1541738
+2024-06,Ministerio de Justicia y Derechos Humanos,1532126
+2024-06,"Ministerio de Economía, Fomento y Turismo",525589
+2024-06,Autónomo,500527
+2024-06,Ministerio de Educación,287097
+2024-06,Ministerio del Interior y Seguridad Pública,215314
+2024-06,Ministerio de Defensa Nacional,159835
+2024-06,Ministerio de Vivienda y Urbanismo,156353
+2024-06,Ministerio de Agricultura,131810
+2024-06,Ministerio Secretaría General de la Presidencia de la República,112590
+2024-06,Servicio,105249
+2024-06,Municipalidad,104592
+2024-06,Ministerio de Transportes y Telecomunicaciones,103499
+2024-06,Contraloría,96578
+2024-06,Ministerio del Medio Ambiente,61873
+2024-06,"Ministerio de las Culturas, las Artes y el Patrimonio",41325
+2024-06,Ministerio de Energía,27122
+2024-06,Ministerio Secretaría General de Gobierno,21068
+2024-06,Ministerio de Obras Públicas,20042
+2024-06,Fuerzas Armadas,19938
+2024-06,Ministerio de Minería,12804
+2024-06,Presidencia de la República,6208
+2024-06,Ministerio de Bienes Nacionales,3332
+2024-06,Ministerio del Deporte,1505
+2024-06,Ministerio de Relaciones Exteriores,1034
+2024-06,Test,668
+2024-06,Ministerio de la Mujer y la Equidad de Género,552
+2024-06,Empresa Pública,59
+2024-07,Ministerio de Desarrollo Social y Familia,4668409
+2024-07,Ministerio de Hacienda,4186689
+2024-07,Ministerio del Trabajo y Previsión Social,3658926
+2024-07,Ministerio de Salud,2830367
+2024-07,Otros Poderes,2734857
+2024-07,Ministerio de Justicia y Derechos Humanos,1799099
+2024-07,Empresa Privada,1526237
+2024-07,Autónomo,547889
+2024-07,"Ministerio de Economía, Fomento y Turismo",523210
+2024-07,Ministerio de Educación,303282
+2024-07,Ministerio del Interior y Seguridad Pública,231084
+2024-07,Ministerio de Defensa Nacional,179534
+2024-07,Contraloría,173821
+2024-07,Ministerio de Agricultura,148651
+2024-07,Ministerio de Vivienda y Urbanismo,146024
+2024-07,Ministerio Secretaría General de la Presidencia de la República,137018
+2024-07,Municipalidad,126131
+2024-07,Ministerio de Transportes y Telecomunicaciones,122381
+2024-07,Servicio,84670
+2024-07,"Ministerio de las Culturas, las Artes y el Patrimonio",73918
+2024-07,Ministerio del Medio Ambiente,58658
+2024-07,Ministerio de Energía,32783
+2024-07,Fuerzas Armadas,27182
+2024-07,Ministerio Secretaría General de Gobierno,24743
+2024-07,Ministerio de Obras Públicas,22545
+2024-07,Ministerio de Minería,20556
+2024-07,Presidencia de la República,6755
+2024-07,Ministerio de Bienes Nacionales,4415
+2024-07,Ministerio del Deporte,1875
+2024-07,Ministerio de Relaciones Exteriores,1225
+2024-07,Test,812
+2024-07,Ministerio de la Mujer y la Equidad de Género,223
+2024-07,Empresa Pública,17
+2024-08,Ministerio de Hacienda,3829532
+2024-08,Ministerio del Trabajo y Previsión Social,3703886
+2024-08,Ministerio de Salud,2655002
+2024-08,Otros Poderes,2646788
+2024-08,Ministerio de Justicia y Derechos Humanos,1695289
+2024-08,Ministerio de Desarrollo Social y Familia,1505451
+2024-08,Empresa Privada,1407506
+2024-08,Ministerio de Energía,549798
+2024-08,"Ministerio de Economía, Fomento y Turismo",541588
+2024-08,Autónomo,269606
+2024-08,Ministerio de Educación,243514
+2024-08,Ministerio del Interior y Seguridad Pública,228051
+2024-08,Ministerio de Vivienda y Urbanismo,180826
+2024-08,Ministerio de Defensa Nacional,180656
+2024-08,Contraloría,139335
+2024-08,Ministerio Secretaría General de la Presidencia de la República,137346
+2024-08,Ministerio de Transportes y Telecomunicaciones,128969
+2024-08,Ministerio de Agricultura,126495
+2024-08,Municipalidad,117594
+2024-08,Servicio,86164
+2024-08,"Ministerio de las Culturas, las Artes y el Patrimonio",76917
+2024-08,Ministerio del Medio Ambiente,52692
+2024-08,Fuerzas Armadas,23285
+2024-08,Ministerio de Obras Públicas,21686
+2024-08,Ministerio Secretaría General de Gobierno,21474
+2024-08,Ministerio de Minería,9520
+2024-08,Presidencia de la República,6250
+2024-08,Ministerio de Bienes Nacionales,4297
+2024-08,Ministerio del Deporte,2324
+2024-08,Ministerio de Relaciones Exteriores,1826
+2024-08,Test,848
+2024-08,Ministerio de la Mujer y la Equidad de Género,447
+2024-08,Empresa Pública,4
+2024-09,Ministerio de Hacienda,3529851
+2024-09,Ministerio del Trabajo y Previsión Social,2710329
+2024-09,Otros Poderes,2330601
+2024-09,Ministerio de Salud,2315354
+2024-09,Ministerio de Justicia y Derechos Humanos,1534076
+2024-09,Empresa Privada,1346696
+2024-09,Ministerio de Desarrollo Social y Familia,1304054
+2024-09,Ministerio de Energía,690983
+2024-09,"Ministerio de Economía, Fomento y Turismo",401152
+2024-09,Autónomo,315766
+2024-09,Ministerio de Educación,219055
+2024-09,Ministerio del Interior y Seguridad Pública,218329
+2024-09,Ministerio de Defensa Nacional,184994
+2024-09,Ministerio de Agricultura,146805
+2024-09,Ministerio Secretaría General de la Presidencia de la República,120131
+2024-09,Contraloría,115723
+2024-09,Ministerio de Transportes y Telecomunicaciones,111432
+2024-09,Municipalidad,106668
+2024-09,Ministerio de Vivienda y Urbanismo,104166
+2024-09,Servicio,52289
+2024-09,Ministerio del Medio Ambiente,45748
+2024-09,"Ministerio de las Culturas, las Artes y el Patrimonio",37449
+2024-09,Fuerzas Armadas,20117
+2024-09,Ministerio de Obras Públicas,18177
+2024-09,Ministerio Secretaría General de Gobierno,18062
+2024-09,Ministerio de Minería,10718
+2024-09,Presidencia de la República,5165
+2024-09,Ministerio de Bienes Nacionales,3834
+2024-09,Ministerio del Deporte,2347
+2024-09,Ministerio de Relaciones Exteriores,1295
+2024-09,Test,541
+2024-09,Ministerio de la Mujer y la Equidad de Género,257
+2024-09,Empresa Pública,2
+2024-09,Gobierno Regional,1
+2024-10,Ministerio de Hacienda,4186155
+2024-10,Ministerio del Trabajo y Previsión Social,2805121
+2024-10,Ministerio de Desarrollo Social y Familia,2790155
+2024-10,Otros Poderes,2757299
+2024-10,Ministerio de Salud,2643054
+2024-10,Ministerio de Justicia y Derechos Humanos,1818694
+2024-10,Empresa Privada,1566152
+2024-10,Ministerio del Interior y Seguridad Pública,666344
+2024-10,Ministerio de Educación,616385
+2024-10,Autónomo,546484
+2024-10,"Ministerio de Economía, Fomento y Turismo",509681
+2024-10,Ministerio de Defensa Nacional,233680
+2024-10,Ministerio Secretaría General de la Presidencia de la República,155913
+2024-10,Contraloría,144999
+2024-10,Ministerio de Transportes y Telecomunicaciones,142966
+2024-10,Municipalidad,142066
+2024-10,Ministerio de Agricultura,132080
+2024-10,Ministerio de Energía,126968
+2024-10,Ministerio de Vivienda y Urbanismo,104702
+2024-10,Servicio,82495
+2024-10,Ministerio del Medio Ambiente,71681
+2024-10,"Ministerio de las Culturas, las Artes y el Patrimonio",44477
+2024-10,Fuerzas Armadas,23213
+2024-10,Ministerio de Obras Públicas,22326
+2024-10,Ministerio Secretaría General de Gobierno,14545
+2024-10,Ministerio de Minería,11576
+2024-10,Presidencia de la República,6260
+2024-10,Ministerio del Deporte,4666
+2024-10,Ministerio de Relaciones Exteriores,1616
+2024-10,Ministerio de Bienes Nacionales,1167
+2024-10,Test,744
+2024-10,Ministerio de la Mujer y la Equidad de Género,383
+2024-10,Empresa Pública,1
+2024-11,Ministerio de Hacienda,3849482
+2024-11,Ministerio del Trabajo y Previsión Social,2720146
+2024-11,Otros Poderes,2665910
+2024-11,Ministerio de Salud,2504630
+2024-11,Ministerio de Justicia y Derechos Humanos,1719271
+2024-11,Ministerio de Desarrollo Social y Familia,1509434
+2024-11,Empresa Privada,1450903
+2024-11,Ministerio del Interior y Seguridad Pública,641625
+2024-11,"Ministerio de Economía, Fomento y Turismo",470371
+2024-11,Ministerio de Educación,453331
+2024-11,Autónomo,436677
+2024-11,Ministerio de Defensa Nacional,226003
+2024-11,Ministerio de Vivienda y Urbanismo,208136
+2024-11,Ministerio de Agricultura,149794
+2024-11,Ministerio Secretaría General de la Presidencia de la República,144386
+2024-11,Contraloría,143464
+2024-11,Municipalidad,131193
+2024-11,Ministerio de Transportes y Telecomunicaciones,113691
+2024-11,Servicio,69401
+2024-11,Ministerio de Energía,55497
+2024-11,Ministerio del Medio Ambiente,50571
+2024-11,"Ministerio de las Culturas, las Artes y el Patrimonio",39743
+2024-11,Fuerzas Armadas,34055
+2024-11,Ministerio de Obras Públicas,20714
+2024-11,Ministerio Secretaría General de Gobierno,12348
+2024-11,Ministerio de Minería,10544
+2024-11,Presidencia de la República,5785
+2024-11,Ministerio de Bienes Nacionales,2199
+2024-11,Ministerio de Relaciones Exteriores,1853
+2024-11,Ministerio del Deporte,1757
+2024-11,Test,708
+2024-11,Ministerio de la Mujer y la Equidad de Género,319
+2024-11,"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",11
+2024-11,Empresa Pública,6
+2024-11,Gobierno Regional,2
+2024-12,Ministerio de Hacienda,3711964
+2024-12,Ministerio del Trabajo y Previsión Social,2604750
+2024-12,Otros Poderes,2585990
+2024-12,Ministerio de Salud,2555129
+2024-12,Ministerio de Justicia y Derechos Humanos,1737193
+2024-12,Empresa Privada,1409221
+2024-12,Ministerio de Desarrollo Social y Familia,1175101
+2024-12,Autónomo,466266
+2024-12,"Ministerio de Economía, Fomento y Turismo",457123
+2024-12,Ministerio del Interior y Seguridad Pública,243534
+2024-12,Ministerio de Defensa Nacional,236177
+2024-12,Ministerio de Educación,224993
+2024-12,Contraloría,169422
+2024-12,Municipalidad,163316
+2024-12,Servicio,148877
+2024-12,Ministerio Secretaría General de la Presidencia de la República,147539
+2024-12,Ministerio de Agricultura,137336
+2024-12,Ministerio de Transportes y Telecomunicaciones,111855
+2024-12,Ministerio de Vivienda y Urbanismo,69888
+2024-12,Ministerio de Energía,59596
+2024-12,Ministerio del Medio Ambiente,45634
+2024-12,"Ministerio de las Culturas, las Artes y el Patrimonio",39840
+2024-12,Fuerzas Armadas,30161
+2024-12,Ministerio de Obras Públicas,22355
+2024-12,Ministerio de Minería,10671
+2024-12,Ministerio Secretaría General de Gobierno,8616
+2024-12,Presidencia de la República,5251
+2024-12,Ministerio de Bienes Nacionales,3851
+2024-12,Ministerio del Deporte,1935
+2024-12,Ministerio de Relaciones Exteriores,1146
+2024-12,Test,980
+2024-12,Ministerio de la Mujer y la Equidad de Género,573
+2024-12,"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",6

@@ -1,0 +1,338 @@
+{
+  "bruto": {
+    "n_nodos": 330,
+    "n_aristas": 19220,
+    "Q_ponderada": {
+      "media": 0.022552932332150877,
+      "de": 0.0034126317676018386,
+      "min": 0.01418050149904104,
+      "max": 0.02483339315713911,
+      "p2_5": 0.01475931476983041,
+      "p97_5": 0.02477716868071857
+    },
+    "Q_binaria": {
+      "media": 0.13016088876159831,
+      "de": 7.421941394255505e-05,
+      "min": 0.12984099847215166,
+      "max": 0.1301822034907707,
+      "p2_5": 0.12984099847215166,
+      "p97_5": 0.1301822034907707
+    },
+    "n_comunidades": {
+      "media": 4.22,
+      "de": 0.8358144881406749,
+      "min": 3,
+      "max": 5
+    },
+    "estabilidad_entre_corridas": {
+      "ARI_media": 0.7208452370851108,
+      "ARI_de": 0.25486086000864944,
+      "ARI_min": 0.19585712843344621,
+      "NMI_media": 0.6822098785600549,
+      "NMI_de": 0.24534437867175857,
+      "NMI_min": 0.2202816066038089
+    },
+    "particion_modal": {
+      "indice_corrida": 1,
+      "n_comunidades": 5,
+      "ari_promedio_contra_otras": 0.8085397395706014
+    },
+    "nodos_inestables": {
+      "n": 38,
+      "umbral_pct": 20.0,
+      "lista": [
+        {
+          "institucion": "SERVICIO NACIONAL DEL ADULTO MAYOR",
+          "frac_desacuerdo": 0.54
+        },
+        {
+          "institucion": "ACADEMIA POLITECNICA NAVAL",
+          "frac_desacuerdo": 0.52
+        },
+        {
+          "institucion": "ARMADA DE CHILE",
+          "frac_desacuerdo": 0.52
+        },
+        {
+          "institucion": "CAJA DE PREVISION DE LA DEFENSA NACIONAL",
+          "frac_desacuerdo": 0.52
+        },
+        {
+          "institucion": "INSTITUCION",
+          "frac_desacuerdo": 0.52
+        },
+        {
+          "institucion": "REDIN",
+          "frac_desacuerdo": 0.52
+        },
+        {
+          "institucion": "SANIDAD NAVAL DE LA ARMADA DE CHILE",
+          "frac_desacuerdo": 0.52
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE MULCHEN",
+          "frac_desacuerdo": 0.51
+        },
+        {
+          "institucion": "SERVICIO NACIONAL DE LA MUJER Y LA EQUIDAD DE GENERO",
+          "frac_desacuerdo": 0.51
+        },
+        {
+          "institucion": "SERVICIO DE SALUD METROPOLITANO SUR",
+          "frac_desacuerdo": 0.5
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE PUENTE ALTO",
+          "frac_desacuerdo": 0.49
+        },
+        {
+          "institucion": "SERVICIO DE COOPERACION TECNICA",
+          "frac_desacuerdo": 0.49
+        },
+        {
+          "institucion": "SERVICIO DE SALUD AYSEN",
+          "frac_desacuerdo": 0.49
+        },
+        {
+          "institucion": "SERVICIO DE SALUD METROPOLITANO SUR ORIENTE",
+          "frac_desacuerdo": 0.49
+        },
+        {
+          "institucion": "SUPERINTENDENCIA DE EDUCACION",
+          "frac_desacuerdo": 0.46
+        },
+        {
+          "institucion": "MINISTERIO DE BIENES NACIONALES",
+          "frac_desacuerdo": 0.44
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE LOS ANGELES",
+          "frac_desacuerdo": 0.42
+        },
+        {
+          "institucion": "SERVICIO DE SALUD METROPOLITANO ORIENTE",
+          "frac_desacuerdo": 0.41
+        },
+        {
+          "institucion": "SUBSECRETARIA DE REDES ASISTENCIALES",
+          "frac_desacuerdo": 0.41
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE LICANTEN",
+          "frac_desacuerdo": 0.4
+        },
+        {
+          "institucion": "CORPORACION DE ASISTENCIA JUDICIAL DE LA REGION METROPOLITANA",
+          "frac_desacuerdo": 0.37
+        },
+        {
+          "institucion": "DEFENSORIA PENAL PUBLICA",
+          "frac_desacuerdo": 0.37
+        },
+        {
+          "institucion": "MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES",
+          "frac_desacuerdo": 0.37
+        },
+        {
+          "institucion": "PODER JUDICIAL",
+          "frac_desacuerdo": 0.37
+        },
+        {
+          "institucion": "SERVICIO NACIONAL DE MENORES",
+          "frac_desacuerdo": 0.36
+        },
+        {
+          "institucion": "ACEPTA.COM S.A.",
+          "frac_desacuerdo": 0.35
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE PENAFLOR",
+          "frac_desacuerdo": 0.35
+        },
+        {
+          "institucion": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
+          "frac_desacuerdo": 0.35
+        },
+        {
+          "institucion": "SERVICIO DE SALUD COQUIMBO",
+          "frac_desacuerdo": 0.32
+        },
+        {
+          "institucion": "DIRECCION DE PREVISION DE CARABINEROS DE CHILE",
+          "frac_desacuerdo": 0.3
+        },
+        {
+          "institucion": "SUBSECRETARIA DE PREVENCION DEL DELITO",
+          "frac_desacuerdo": 0.3
+        },
+        {
+          "institucion": "MINISTERIO PUBLICO",
+          "frac_desacuerdo": 0.29
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE PADRE HURTADO",
+          "frac_desacuerdo": 0.27
+        },
+        {
+          "institucion": "GENDARMERIA DE CHILE",
+          "frac_desacuerdo": 0.25
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE COIHUECO",
+          "frac_desacuerdo": 0.25
+        },
+        {
+          "institucion": "SERVICIO DE SALUD ATACAMA",
+          "frac_desacuerdo": 0.25
+        },
+        {
+          "institucion": "CORPORACION DE ASISTENCIA JUDICIAL DE LA REGION DEL BIOBIO",
+          "frac_desacuerdo": 0.24
+        },
+        {
+          "institucion": "SUBSECRETARIA DE JUSTICIA",
+          "frac_desacuerdo": 0.24
+        }
+      ]
+    },
+    "leiden": {
+      "ModularityVertexPartition": {
+        "Q": 0.02477523646281923,
+        "n_comunidades": 3,
+        "ARI_vs_modal_louvain": 0.9424795101145123,
+        "NMI_vs_modal_louvain": 0.9075788829141515
+      },
+      "RBConfigurationVertexPartition_res1": {
+        "Q": 0.02477523646281923,
+        "n_comunidades": 3,
+        "ARI_vs_modal_louvain": 0.9424795101145123,
+        "NMI_vs_modal_louvain": 0.9075788829141515
+      }
+    },
+    "patologia_desconexion": {
+      "n_comunidades_desconectadas": 0,
+      "n_comunidades_total": 5,
+      "detalle": []
+    }
+  },
+  "lift": {
+    "n_nodos": 330,
+    "n_aristas": 16052,
+    "Q_ponderada": {
+      "media": 0.548245534629986,
+      "de": 0.0005649103828433324,
+      "min": 0.5435449682921288,
+      "max": 0.5487669926152673,
+      "p2_5": 0.5475306353033195,
+      "p97_5": 0.5486899984751324
+    },
+    "Q_binaria": {
+      "media": 0.13028845529455757,
+      "de": 0.0020456157914785387,
+      "min": 0.12003477756287828,
+      "max": 0.13105067894220435,
+      "p2_5": 0.12347812365194062,
+      "p97_5": 0.13105067894220435
+    },
+    "n_comunidades": {
+      "media": 10.83,
+      "de": 0.6824643402827548,
+      "min": 9,
+      "max": 12
+    },
+    "estabilidad_entre_corridas": {
+      "ARI_media": 0.9124574428150628,
+      "ARI_de": 0.0651863321915607,
+      "ARI_min": 0.6375992314744952,
+      "NMI_media": 0.9052277965246585,
+      "NMI_de": 0.06052272356355584,
+      "NMI_min": 0.6994252359983013
+    },
+    "particion_modal": {
+      "indice_corrida": 27,
+      "n_comunidades": 11,
+      "ari_promedio_contra_otras": 0.9341136000741076
+    },
+    "nodos_inestables": {
+      "n": 14,
+      "umbral_pct": 20.0,
+      "lista": [
+        {
+          "institucion": "HOSPITAL REGIONAL DE TALCA",
+          "frac_desacuerdo": 0.51
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE SAN CLEMENTE",
+          "frac_desacuerdo": 0.51
+        },
+        {
+          "institucion": "SERVICIO DE SALUD MAULE",
+          "frac_desacuerdo": 0.51
+        },
+        {
+          "institucion": "SERVICIO NACIONAL DE PESCA Y ACUICULTURA",
+          "frac_desacuerdo": 0.49
+        },
+        {
+          "institucion": "DIRECCION DE COMPRAS Y CONTRATACION PUBLICA",
+          "frac_desacuerdo": 0.46
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE CURARREHUE",
+          "frac_desacuerdo": 0.46
+        },
+        {
+          "institucion": "MUNICIPALIDAD DE TALTAL",
+          "frac_desacuerdo": 0.46
+        },
+        {
+          "institucion": "TRIBUNAL ELECTORAL REGION DE ARICA Y PARINACOTA",
+          "frac_desacuerdo": 0.46
+        },
+        {
+          "institucion": "AGENCIA NACIONAL DE INVESTIGACION Y DESARROLLO",
+          "frac_desacuerdo": 0.44
+        },
+        {
+          "institucion": "CORPORACION NACIONAL FORESTAL Y DE PROTECCION DE RECURSOS NATURALES RENOVABLES",
+          "frac_desacuerdo": 0.44
+        },
+        {
+          "institucion": "UNIVERSIDAD DE TALCA",
+          "frac_desacuerdo": 0.43
+        },
+        {
+          "institucion": "CAMARA DE DIPUTADOS DE CHILE",
+          "frac_desacuerdo": 0.25
+        },
+        {
+          "institucion": "DIRECCION DE PRESUPUESTOS",
+          "frac_desacuerdo": 0.22
+        },
+        {
+          "institucion": "SUBSECRETARIA DE LA MUJER Y LA EQUIDAD DE GENERO",
+          "frac_desacuerdo": 0.22
+        }
+      ]
+    },
+    "leiden": {
+      "ModularityVertexPartition": {
+        "Q": 0.5484053585468649,
+        "n_comunidades": 10,
+        "ARI_vs_modal_louvain": 0.9483658873471633,
+        "NMI_vs_modal_louvain": 0.8837327626767953
+      },
+      "RBConfigurationVertexPartition_res1": {
+        "Q": 0.5484053585468649,
+        "n_comunidades": 10,
+        "ARI_vs_modal_louvain": 0.9483658873471633,
+        "NMI_vs_modal_louvain": 0.8837327626767953
+      }
+    },
+    "patologia_desconexion": {
+      "n_comunidades_desconectadas": 0,
+      "n_comunidades_total": 11,
+      "detalle": []
+    }
+  }
+}

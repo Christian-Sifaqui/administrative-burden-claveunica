@@ -1,0 +1,470 @@
+proveedora,dueña,n_procedimientos_cpat,soporte,marginal_proveedora,marginal_dueña,lift,frac_direccion_esperada,proveedora_antes,dueña_antes,mismo_dia
+Servicio de Impuestos Internos,Servicio de Registro Civil e Identificación,1,5696691,7051586,9820357,1.1583693142453428,0.43146535356135607,2426965,3197971,71755
+Servicio de Registro Civil e Identificación,Servicio de Impuestos Internos,1,5696691,9820357,7051586,1.1583693142453428,0.5685346464386439,3197971,2426965,71755
+Servicio de Registro Civil e Identificación,Subsecretaría de Evaluación Social,5,4263446,9820357,6125255,0.9980396179485858,0.7623854257356165,3228639,1006278,28529
+Servicio de Registro Civil e Identificación,Instituto de Previsión Social,1,3814638,9820357,4931820,1.1090657696592765,0.5962062549148978,2091011,1416183,307444
+Servicio de Registro Civil e Identificación,Comisión para el Mercado Financiero,29,3691750,9820357,4329895,1.2225485272932355,0.6442681383565484,2349039,1297019,45692
+Servicio de Impuestos Internos,Comisión para el Mercado Financiero,1,3425075,7051586,4329895,1.5795900093947834,0.6240676193857688,1755896,1057735,611444
+Servicio de Registro Civil e Identificación,Servicio Nacional de Capacitación y Empleo,5,2778480,9820357,3266962,1.2194791521634478,0.6479794185113906,1789528,972177,16775
+Servicio de Registro Civil e Identificación,Dirección del Trabajo,1,2727933,9820357,3044807,1.2846508786111774,0.687236719325286,1844164,839284,44485
+Fondo Nacional de Salud,Servicio Nacional de Capacitación y Empleo,1,2298936,6335323,3266962,1.5640567267704504,0.5847331905346009,1333815,947251,17870
+Servicio de Impuestos Internos,Servicio Nacional de Capacitación y Empleo,1,2198571,7051586,3266962,1.343841564281429,0.5873663321161614,1282179,900750,15642
+Servicio de Registro Civil e Identificación,Carabineros de Chile,11,2159283,9820357,2539510,1.2191884125266736,0.7543792840822544,1604610,522450,32223
+Servicio de Registro Civil e Identificación,Subsecretaría de Salud Pública,18,1943395,9820357,2300001,1.2115580967550128,0.6530687021948591,1256561,667526,19308
+Servicio de Registro Civil e Identificación,Servicio de Tesorerías,5,1661910,9820357,1972259,1.2082442655783814,0.6302140989564051,1036694,608293,16923
+Servicio de Impuestos Internos,Subsecretaría de Salud Pública,8,1619376,7051586,2300001,1.4059547098202263,0.634347246397103,996753,574552,48071
+Servicio de Impuestos Internos,Servicio de Tesorerías,1,1617794,7051586,1972259,1.6379888121368906,0.6796594794595623,1006993,474621,136180
+Dirección del Trabajo,Subsecretaría de Evaluación Social,1,1418609,3044807,6125255,1.0710684632114869,0.7068594546466017,998709,414173,5727
+Dirección del Trabajo,Servicio Nacional de Capacitación y Empleo,1,1301179,3044807,3266962,1.8419237902598156,0.4494472186045936,580813,711470,8896
+Subsecretaría de Transportes,Servicio de Registro Civil e Identificación,2,1262411,1447843,9820357,1.250231645561863,0.23669345049766985,297371,958984,6056
+Servicio de Registro Civil e Identificación,Subsecretaría de Transportes,38,1262411,9820357,1447843,1.250231645561863,0.7633065495023301,958984,297371,6056
+Carabineros de Chile,Comisión para el Mercado Financiero,5,1155115,2539510,4329895,1.4792323481068461,0.37182124060870564,427001,721403,6711
+Servicio de Registro Civil e Identificación,Subsecretaría de Educación,1,1088936,9820357,1287858,1.2123989839901905,0.7190521695319225,773529,302233,13174
+Servicio de Registro Civil e Identificación,Servicio Agrícola y Ganadero,3,1063212,9820357,1248989,1.2205974104755426,0.6175320896993267,654823,405564,2825
+Servicio de Impuestos Internos,Subsecretaría de Transportes,2,1038502,7051586,1447843,1.432311648036289,0.7279527996253325,753857,281728,2917
+Servicio de Registro Civil e Identificación,Subsecretaría de Vivienda y Urbanismo,2,1004833,9820357,1194254,1.2064473475994282,0.696560092983481,693987,302319,8527
+Servicio de Impuestos Internos,Servicio Agrícola y Ganadero,12,887388,7051586,1248989,1.4187523545148806,0.5793437969629807,513108,372563,1717
+Dirección del Trabajo,Subsecretaría de Salud Pública,1,875452,3044807,2300001,1.7602850846851923,0.47124469553952786,408883,458783,7786
+Servicio de Registro Civil e Identificación,Subsecretaría de Economía y Empresas de Menor Tamaño,6,863081,9820357,996716,1.241627475270487,0.642354005935412,549345,305861,7875
+Fondo Nacional de Salud,Subsecretaría de Educación,1,834987,6335323,1287858,1.441057918371607,0.6343611216850653,524937,302568,7482
+Servicio de Impuestos Internos,Subsecretaría de Vivienda y Urbanismo,1,828572,7051586,1194254,1.3854319719862158,0.6717489172729327,549850,268685,10037
+Servicio de Impuestos Internos,Subsecretaría de Economía y Empresas de Menor Tamaño,3,789677,7051586,996716,1.582084648099645,0.612502805040806,466740,295281,27656
+Subsecretaría de Economía y Empresas de Menor Tamaño,Servicio de Impuestos Internos,1,789677,996716,7051586,1.582084648099645,0.38749719495919405,295281,466740,27656
+Poder Judicial,Servicio de Tesorerías,1,752527,3246394,1972259,1.6549900122680035,0.5524277912126728,406620,329440,16467
+Servicio de Impuestos Internos,Subsecretaría de Energía,1,741566,7051586,1517217,0.9760088748116377,0.6641949996690938,491764,248627,1175
+Dirección del Trabajo,Subsecretaría del Trabajo,1,718248,3044807,1252817,2.65134035566929,0.5983958610121118,425630,285655,6963
+Dirección del Trabajo,Servicio de Tesorerías,1,682779,3044807,1972259,1.6010131660350533,0.5262076099266115,354063,318795,9921
+Servicio de Registro Civil e Identificación,Dirección Nacional del Servicio Civil,6,681707,9820357,737238,1.3258708708240388,0.6395148189488735,430279,242542,8886
+Servicio de Registro Civil e Identificación,Subsecretaría de Justicia,1,658587,9820357,733737,1.2870159294864134,0.6917726183895339,450510,200730,7347
+Servicio de Registro Civil e Identificación,Dirección General de Movilización Nacional,85,615623,9820357,702113,1.2572423760841442,0.7390792322928952,424247,149774,41602
+Comisión para el Mercado Financiero,Subsecretaría de Economía y Empresas de Menor Tamaño,1,585039,4329895,996716,1.9088618020550594,0.5415344653555053,314390,266164,4485
+Subsecretaría de Economía y Empresas de Menor Tamaño,Comisión para el Mercado Financiero,5,585039,996716,4329895,1.9088618020550594,0.45846553464449474,266164,314390,4485
+Subsecretaría de Educación,Comisión para el Mercado Financiero,5,535221,1287858,4329895,1.3515317866507732,0.4333537709227478,231121,302210,1890
+Servicio de Registro Civil e Identificación,Dirección de Compras y Contratación Pública,1,476322,9820357,542520,1.25891403664257,0.5741714131187994,271776,201560,2986
+Servicio Nacional del Consumidor,Servicio de Tesorerías,1,444209,1559207,1972259,2.034033470814158,0.41773338695174794,184903,257731,1575
+Servicio de Registro Civil e Identificación,Corporación Nacional de Desarrollo Indígena,9,353581,9820357,438899,1.1551423771684663,0.693396579846802,240610,106392,6579
+Servicio de Tesorerías,Servicio Agrícola y Ganadero,1,342817,1972259,1248989,1.9596488371470553,0.5138502090900855,175838,166359,620
+Subsecretaría de Transportes,Servicio de Tesorerías,1,340496,1447843,1972259,1.6790555367989468,0.3288341418279961,111239,227044,2213
+Servicio Nacional de Capacitación y Empleo,Dirección Nacional del Servicio Civil,1,328354,3266962,737238,1.9196806180904096,0.49751188457368434,161064,162675,4615
+Servicio de Registro Civil e Identificación,Subsecretaría de Desarrollo Regional y Administrativo,11,326449,9820357,378710,1.2360036626236142,0.7202487935788852,234029,90899,1521
+Superintendencia de Salud,Fondo Nacional de Salud,4,301985,456242,6335323,1.4711596722004852,0.2715300390836191,65792,176509,59684
+Subsecretaría de Educación,Subsecretaría de Salud Pública,11,297841,1287858,2300001,1.4158816084525603,0.47748976807639837,141750,155115,976
+Servicio Agrícola y Ganadero,Subsecretaría de Salud Pública,5,275838,1248989,2300001,1.3520909969970556,0.5346675677836157,147148,128066,624
+Servicio de Impuestos Internos,Corporación Nacional de Desarrollo Indígena,3,269461,7051586,438899,1.2259788643331204,0.6361003210813481,169980,97242,2239
+Subsecretaría de Economía y Empresas de Menor Tamaño,Servicio Nacional de Capacitación y Empleo,1,263118,996716,3266962,1.1378198618778717,0.4458966611731673,116882,145246,990
+Dirección General de Movilización Nacional,Instituto de Previsión Social,1,261823,702113,4931820,1.0647117014367569,0.4308550764551627,107946,142593,11284
+Ministerio Público,Servicio de Tesorerías,1,260410,1019668,1972259,1.8233640378111846,0.3323965736212068,86107,172942,1361
+Dirección General de Movilización Nacional,Carabineros de Chile,2,254335,702113,2539510,2.0085731444893136,0.5843528523530797,143960,102398,7977
+Dirección Nacional del Servicio Civil,Subsecretaría de Salud Pública,1,240602,737238,2300001,1.9980297943419785,0.5380544260243979,129012,110763,827
+Dirección de Compras y Contratación Pública,Subsecretaría de Evaluación Social,1,233849,542520,6125255,0.9909096427323013,0.7180085636568015,167352,65726,771
+Servicio de Registro Civil e Identificación,Defensoría Penal Pública,3,225443,9820357,250764,1.2890885602570725,0.713185983238851,156754,63040,5649
+Servicio de Registro Civil e Identificación,Superintendencia de Pensiones,3,221140,9820357,264497,1.1988303878160604,0.8098669492523255,171955,40370,8815
+Subsecretaría de Educación,Subsecretaría de Transportes,1,220061,1287858,1447843,1.6618510484629094,0.5857530726969579,128581,90933,547
+Dirección General de Movilización Nacional,Dirección Nacional del Servicio Civil,1,202710,702113,737238,5.514408198541371,0.2640956797656822,38952,108540,55218
+Servicio de Registro Civil e Identificación,Instituto de Seguridad Laboral,4,199324,9820357,226514,1.261757028813202,0.751461087316016,146323,48395,4606
+Servicio de Registro Civil e Identificación,Universidad de La Frontera,2,199016,9820357,201482,1.416325022736629,0.9041133219957509,179160,19001,855
+Subsecretaría de Evaluación Social,Subsecretaría de Desarrollo Regional y Administrativo,1,192453,6125255,378710,1.1682403518003164,0.4112387318105745,78876,112925,652
+Subsecretaría de Economía y Empresas de Menor Tamaño,Subsecretaría de Transportes,59,175381,996716,1447843,1.7113077040587066,0.6192020406529174,108265,66581,535
+Dirección Nacional del Servicio Civil,Subsecretaría de Redes Asistenciales,1,173008,737238,1442522,2.2907331048973667,0.515336460494882,88659,83382,967
+Servicio de Registro Civil e Identificación,Caja de Previsión de la Defensa Nacional,3,166296,9820357,222671,1.070851702903625,0.5592458835771561,91364,72006,2926
+Contraloría General de la República,Subsecretaría de Salud Pública,1,159205,424886,2300001,2.29400690631654,0.46783799316656033,74077,84262,866
+Fondo Nacional de Salud,Instituto de Seguridad Laboral,2,156895,6335323,226514,1.5395144034921922,0.7106301735827673,105336,42893,8666
+Superintendencia de Seguridad Social,Subsecretaría de Energía,2,151491,1395422,1517217,1.007562581830884,0.6046824026098637,91379,59740,372
+Superintendencia de Salud,Subsecretaría de Salud Pública,2,150036,456242,2300001,2.013310016098828,0.4202368985845853,61874,85362,2800
+Servicio de Registro Civil e Identificación,Subsecretaría de Servicios Sociales,4,142918,9820357,168968,1.2128124725711582,0.7589730632641316,108140,34342,436
+Comisión para el Mercado Financiero,Superintendencia de Pensiones,1,138994,4329895,264497,1.7089777249332565,0.7255576517589613,98070,37095,3829
+Superintendencia de Pensiones,Comisión para el Mercado Financiero,2,138994,264497,4329895,1.7089777249332565,0.27444234824103875,37095,98070,3829
+Servicio de Impuestos Internos,Caja de Previsión de la Defensa Nacional,3,138952,7051586,222671,1.2460997242161571,0.5134558980277425,69849,66188,2915
+Contraloría General de la República,Dirección Nacional del Servicio Civil,2,137426,424886,737238,6.177706002842298,0.4011899266553829,54754,81725,947
+Instituto de Previsión Social,Superintendencia de Pensiones,1,135426,4931820,264497,1.4618827694089072,0.7347414860189799,92598,33430,9398
+Subsecretaría de Educación,Dirección Nacional del Servicio Civil,2,133423,1287858,737238,1.9787615972912993,0.4431025594371664,58447,73457,1519
+Dirección de Compras y Contratación Pública,Dirección Nacional del Servicio Civil,1,131293,542520,737238,4.62228341474105,0.44352629940865235,57002,71518,2773
+Servicio de Impuestos Internos,Superintendencia de Insolvencia y Reemprendimiento,1,127434,7051586,144777,1.7576702395357253,0.7841713809373508,96893,26668,3873
+Superintendencia de Insolvencia y Reemprendimiento,Comisión para el Mercado Financiero,15,123178,144777,4329895,2.766907715954894,0.22244092788756226,25766,90067,7345
+Subsecretaría de Educación,Servicio Agrícola y Ganadero,1,116924,1287858,1248989,1.023565253770709,0.44753041497932383,52272,64529,123
+Servicio de Registro Civil e Identificación,Gendarmería de Chile,13,105731,9820357,119626,1.2673248381638138,0.6724536345345525,67513,32885,5333
+Superintendencia de Salud,Subsecretaría de Redes Asistenciales,2,101965,456242,1442522,2.181583699651526,0.41427034925015727,40828,57726,3411
+Servicio de Registro Civil e Identificación,Dirección de Previsión de Carabineros de Chile,3,100154,9820357,131194,1.0946253802939823,0.48920671945655064,47818,49928,2408
+Subsecretaría de Salud Pública,Corporación Nacional de Desarrollo Indígena,1,99555,2300001,438899,1.3887015640572475,0.518656867100109,51374,47678,503
+Subsecretaría de Educación,Subsecretaría de Economía y Empresas de Menor Tamaño,1,96669,1287858,996716,1.0604404372795864,0.5089307027285087,49037,47316,316
+Servicio Nacional de Aduanas,Servicio de Registro Civil e Identificación,1,93783,102565,9820357,1.3111009283747452,0.2090579789207236,19161,72493,2129
+Servicio de Registro Civil e Identificación,Servicio Nacional de Aduanas,4,93783,9820357,102565,1.3111009283747452,0.7909420210792764,72493,19161,2129
+Contraloría General de la República,Subsecretaría de Redes Asistenciales,1,93729,424886,1442522,2.153364658352657,0.43102432545335745,40240,53119,370
+Servicio de Registro Civil e Identificación,Subsecretaría de Telecomunicaciones,14,87481,9820357,99831,1.2564913568568896,0.744767502400759,64371,22060,1050
+Subsecretaría de Desarrollo Regional y Administrativo,Servicio Agrícola y Ganadero,1,86724,378710,1248989,2.5817392560489423,0.39244743582107333,32944,51001,2779
+Superintendencia de Electricidad y Combustibles,Servicio Nacional de Capacitación y Empleo,1,81035,240378,3266962,1.4530223688505537,0.39491358578495506,31693,48560,782
+Servicio de Registro Civil e Identificación,Superintendencia de Educación,1,79089,9820357,85772,1.3221530633096301,0.8110984271943176,63947,14893,249
+Servicio de Registro Civil e Identificación,Servicio Nacional de Pesca y Acuicultura,10,78720,9820357,95903,1.1769664431634013,0.6929561657462792,54334,24075,311
+Servicio de Impuestos Internos,Subsecretaría de Telecomunicaciones,7,77277,7051586,99831,1.545740156920557,0.7330625064894611,56481,20567,229
+Superintendencia de Pensiones,Subsecretaría de Salud Pública,1,73908,264497,2300001,1.7107286902824963,0.32874567331465304,23934,48870,1104
+Servicio de Registro Civil e Identificación,Subsecretaría General de Gobierno,1,72431,9820357,80788,1.2855495258804774,0.7259634098871156,52220,19712,499
+Superintendencia de Salud,Dirección Nacional del Servicio Civil,1,71331,456242,737238,2.986165007231295,0.4070324005891016,28743,41873,715
+Superintendencia de Insolvencia y Reemprendimiento,Servicio de Tesorerías,1,67540,144777,1972259,3.330703709428867,0.33829674086454453,22265,43550,1725
+Servicio de Impuestos Internos,Superintendencia de Educación,2,67049,7051586,85772,1.560983905529007,0.7658693377186425,51229,15661,159
+Servicio de Impuestos Internos,Servicio Nacional de Pesca y Acuicultura,10,66168,7051586,95903,1.3777406496236302,0.6748301589227224,44501,21443,224
+Policía de Investigaciones de Chile,Servicio de Registro Civil e Identificación,1,65850,74238,9820357,1.2718640857224532,0.24860490211191613,16127,48743,980
+Servicio de Registro Civil e Identificación,Corporación de Fomento de la Producción,9,62537,9820357,69677,1.2869414479046741,0.7114322414900449,44308,17972,257
+Servicio de Impuestos Internos,Subsecretaría General de Gobierno,1,61792,7051586,80788,1.5273446660224563,0.695275886281618,42578,18661,553
+Servicio de Impuestos Internos,Instituto de Desarrollo Agropecuario,2,60046,7051586,74533,1.6087447290120764,0.7033475476063049,40740,17183,2123
+Superintendencia de Electricidad y Combustibles,Subsecretaría de Salud Pública,8,59830,240378,2300001,1.52382370291484,0.43576682696335517,26007,33674,149
+Poder Judicial,Gendarmería de Chile,2,58547,3246394,119626,2.1228353069938297,0.6224589276042607,34478,20912,3157
+Instituto de Previsión Social,Dirección de Previsión de Carabineros de Chile,1,58473,4931820,131194,1.2725435361080237,0.38935428201625083,21659,33969,2845
+Servicio de Impuestos Internos,Corporación de Fomento de la Producción,7,57045,7051586,69677,1.6348571018446711,0.7172248297279176,40648,16026,371
+Contraloría General de la República,Subsecretaría de Educación,2,55023,424886,1287858,1.4159317763229422,0.46296804404690045,25310,29359,354
+Servicio de Registro Civil e Identificación,Instituto Nacional de Estadísticas,4,51252,9820357,52630,1.3963318219671104,0.861421919521857,37185,5982,8085
+Carabineros de Chile,Dirección de Previsión de Carabineros de Chile,5,50948,2539510,131194,2.1532859336622323,0.3081604916385984,15645,35124,179
+Corporación Nacional de Desarrollo Indígena,Subsecretaría de Transportes,2,50672,438899,1447843,1.1228466511405146,0.6858345852771408,34695,15893,84
+Servicio de Registro Civil e Identificación,Ejército de Chile,1,49634,9820357,64725,1.0995586651096296,0.6747451043858229,33354,16078,202
+Policía de Investigaciones de Chile,Servicio de Impuestos Internos,1,49069,74238,7051586,1.3198743874379246,0.30334826450675995,14831,34060,178
+Instituto Nacional de Estadísticas,Servicio de Impuestos Internos,1,47671,52630,7051586,1.8087250337715202,0.6852934353978195,29543,13567,4561
+Subsecretaría de Educación,Subsecretaría de Servicios Sociales,2,45485,1287858,168968,2.9432978928821383,0.5300916074988241,23667,20980,838
+Servicio de Impuestos Internos,Ejército de Chile,1,44429,7051586,64725,1.370711752625763,0.6889496767192658,30475,13759,195
+Comisión para el Mercado Financiero,Corporación de Fomento de la Producción,2,43179,4329895,69677,2.0153210257748775,0.6166914567258529,26535,16493,151
+Carabineros de Chile,Gendarmería de Chile,1,42914,2539510,119626,1.9891244350135178,0.37273589378852534,15722,26458,734
+Instituto Nacional de Propiedad Industrial,Servicio Agrícola y Ganadero,3,42059,161819,1248989,2.930281074924201,0.39035714285714285,16395,25605,59
+Fondo Nacional de Salud,Corporación de Fomento de la Producción,1,41483,6335323,69677,1.3232759372857528,0.6518964391906592,26967,14400,116
+Universidad de Chile,Servicio Agrícola y Ganadero,1,37528,144841,1248989,2.9210820498067425,0.37590033612548684,14091,23395,42
+Dirección del Trabajo,Subsecretaría de Telecomunicaciones,1,36941,3044807,99831,1.7112833346892569,0.6345720567876435,23377,13462,102
+Subsecretaría de Economía y Empresas de Menor Tamaño,Corporación Nacional de Desarrollo Indígena,1,36502,996716,438899,1.174949237128642,0.49453032432283484,17947,18344,211
+Servicio Nacional de Aduanas,Servicio de Tesorerías,2,34842,102565,1972259,2.425372279925867,0.34820936639118455,12008,22477,357
+Servicio de Registro Civil e Identificación,Subsecretaría de Previsión Social,2,34703,9820357,48279,1.0306707291690547,0.8142160561908631,28053,6401,249
+Superintendencia de Pensiones,Servicio Agrícola y Ganadero,1,33965,264497,1248989,1.4477404841128314,0.2956588370516637,10032,23899,34
+Dirección General de Movilización Nacional,Corporación Nacional de Desarrollo Indígena,1,33369,702113,438899,1.52479005385078,0.5008808699349979,16490,16432,447
+Dirección del Trabajo,Corporación de Fomento de la Producción,6,32914,3044807,69677,2.184589872758793,0.6050373988704014,19818,12937,159
+Superintendencia de Educación,Subsecretaría de Salud Pública,2,32500,85772,2300001,2.3197878172828235,0.3836994076999013,12438,19978,84
+Servicio de Impuestos Internos,Subsecretaría de Previsión Social,1,32365,7051586,48279,1.338656042281856,0.8462534748546879,26789,4867,709
+Servicio Nacional de Aduanas,Subsecretaría de Salud Pública,3,32279,102565,2300001,1.9267764378439745,0.3534367221903121,11076,20262,941
+Subsecretaría de Economía y Empresas de Menor Tamaño,Corporación de Fomento de la Producción,1,30473,996716,69677,6.178638729340877,0.6477408637873754,19497,10603,373
+Dirección General de Movilización Nacional,Subsecretaría de Desarrollo Regional y Administrativo,5,29899,702113,378710,1.5833660911348464,0.5452016223644957,16265,13568,66
+Servicio de Registro Civil e Identificación,Dirección General de Aeronáutica Civil,10,29296,9820357,31437,1.3362213912559868,0.736996030917067,21168,7554,574
+Subsecretaría de Hacienda,Subsecretaría de Evaluación Social,1,28619,49783,6125255,1.3215624212897368,0.23692448383806408,6736,21695,188
+Servicio de Registro Civil e Identificación,Servicio Nacional de la Discapacidad,6,28336,9820357,34312,1.1841417640661467,0.690339892665474,19295,8655,386
+Superintendencia de Electricidad y Combustibles,Dirección Nacional del Servicio Civil,1,28180,240378,737238,2.2391182164179555,0.38117714367446187,10660,17306,214
+Dirección del Trabajo,Servicio Nacional de Pesca y Acuicultura,3,27767,3044807,95903,1.3389842302848693,0.600064988987977,16620,11077,70
+Servicio de Tesorerías,Corporación de Fomento de la Producción,5,27367,1972259,69677,2.804221187047433,0.6244491774383079,17005,10227,135
+Corporación de Fomento de la Producción,Servicio de Tesorerías,1,27367,69677,1972259,2.804221187047433,0.37555082256169214,10227,17005,135
+Servicio Nacional de Aduanas,Servicio Agrícola y Ganadero,1,26641,102565,1248989,2.9284053309771725,0.36121498893383197,9466,16740,435
+Servicio de Registro Civil e Identificación,Instituto de Salud Pública de Chile,1,26638,9820357,31230,1.2230404433356705,0.6992433083612544,18574,7989,75
+Contraloría General de la República,Subsecretaría de Energía,8,25699,424886,1517217,0.5613510857433583,0.4831832885147512,12398,13261,40
+Servicio de Registro Civil e Identificación,Universidad de Santiago de Chile,5,25095,9820357,29984,1.2000761890858087,0.7465037775277287,18576,6308,211
+Servicio de Impuestos Internos,Dirección General de Aeronáutica Civil,2,24441,7051586,31437,1.5524925800994962,0.6918182191387167,16852,7507,82
+Servicio de Impuestos Internos,Instituto de Salud Pública de Chile,104,24397,7051586,31230,1.5599694711273662,0.7085474653620031,17234,7089,74
+Servicio de Registro Civil e Identificación,Subsecretaría de Bienes Nacionales,6,23833,9820357,27711,1.233211888406288,0.8078090740428403,19158,4558,117
+Servicio de Registro Civil e Identificación,Dirección General del Crédito Prendario,2,23441,9820357,26837,1.2524296968767104,0.7164306797279377,16748,6629,64
+Servicio de Registro Civil e Identificación,Servicio Nacional de Geología y Minería,6,23277,9820357,25871,1.2901047633160547,0.7116755215757419,16476,6675,126
+Servicio de Registro Civil e Identificación,Subsecretaría de Prevención del Delito,8,23199,9820357,26325,1.2636071456297115,0.5141071273548051,11844,11194,161
+Subsecretaría de Educación,Gendarmería de Chile,2,23112,1287858,119626,2.112430511046103,0.447585601404741,10196,12584,332
+Dirección General de Movilización Nacional,Gendarmería de Chile,3,21828,702113,119626,3.6594836714802166,0.4617019071310116,8909,10387,2532
+Ejército de Chile,Caja de Previsión de la Defensa Nacional,1,21749,64725,222671,21.2491733145839,0.31026116740402454,6522,14499,728
+Servicio de Impuestos Internos,Subsecretaría de Bienes Nacionales,2,21194,7051586,27711,1.5272579303894667,0.8017654960660142,16712,4132,350
+Servicio Nacional de Aduanas,Subsecretaría de Transportes,2,21112,102565,1447843,2.0019221565863266,0.5524615092187797,11626,9418,68
+Servicio de Tesorerías,Gendarmería de Chile,1,20862,1972259,119626,1.2451018471083568,0.5114622207143895,10553,10080,229
+Servicio de Impuestos Internos,Servicio Nacional de Geología y Minería,1,20751,7051586,25871,1.6016863399364794,0.664108790675085,13674,6916,161
+Municipalidad de Santiago,Servicio Agrícola y Ganadero,3,20653,109655,1248989,2.1234134133616775,0.4011346004654771,8273,12351,29
+Servicio Nacional de Pesca y Acuicultura,Subsecretaría de Salud Pública,2,20593,95903,2300001,1.3146128284407201,0.4266790045292943,8761,11772,60
+Subsecretaría de Salud Pública,Servicio Nacional de Pesca y Acuicultura,2,20593,2300001,95903,1.3146128284407201,0.5733209954707057,11772,8761,60
+Contraloría General de la República,Corporación Nacional de Desarrollo Indígena,1,20315,424886,438899,1.5339749872241684,0.4448945314429679,9006,11237,72
+Servicio de Impuestos Internos,Universidad de Santiago de Chile,2,19273,7051586,29984,1.2835459167326264,0.6831951613744199,13103,6076,94
+Dirección General de Movilización Nacional,Policía de Investigaciones de Chile,1,17381,702113,74238,4.695479470497996,0.5192928877664885,8842,8185,354
+Servicio de Registro Civil e Identificación,Superintendencia de Educación Superior,2,16337,9820357,18162,1.2897924363964193,0.7452522893491488,12126,4145,66
+Gendarmería de Chile,Subsecretaría de Justicia,2,16165,119626,733737,2.5932726043502403,0.49756857855361597,7981,8059,125
+Servicio de Registro Civil e Identificación,Subsecretaría para las Fuerzas Armadas,11,15994,9820357,20626,1.1118680899521813,0.6507846114907618,10285,5519,190
+Gendarmería de Chile,Dirección de Previsión de Carabineros de Chile,7,15560,119626,131194,13.960742023918659,0.6797695696374111,10030,4725,805
+Servicio de Tesorerías,Ejército de Chile,1,15095,1972259,64725,1.6650818076337965,0.6008771929824561,9042,6006,47
+Servicio de Registro Civil e Identificación,Instituto Nacional de Deportes de Chile,14,14511,9820357,16062,1.2954149614491899,0.7498096754100629,10834,3615,62
+Servicio Agrícola y Ganadero,Servicio Nacional de Pesca y Acuicultura,4,14449,1248989,95903,1.698577820368519,0.6075763917957304,8709,5625,115
+Subsecretaría de Economía y Empresas de Menor Tamaño,Servicio Nacional de Pesca y Acuicultura,1,14258,996716,95903,2.100358611621108,0.5842728297632469,8292,5900,66
+Subsecretaría de Vivienda y Urbanismo,Corporación de Fomento de la Producción,1,14178,1194254,69677,2.399204614567616,0.534340854264226,7531,6563,84
+Contraloría General de la República,Dirección de Previsión de Carabineros de Chile,1,13612,424886,131194,3.4385394369127185,0.30647184709615527,4153,9398,61
+Subsecretaría de Salud Pública,Instituto de Salud Pública de Chile,12,13170,2300001,31230,2.581809711120616,0.6301673416367387,8247,4840,83
+Carabineros de Chile,Dirección General de Aeronáutica Civil,1,12993,2539510,31437,2.29169533224452,0.43485304327701924,5637,7326,30
+Dirección del Trabajo,Subsecretaría de Previsión Social,1,12515,3044807,48279,1.1988125551905178,0.6567694979736994,7941,4150,424
+Dirección del Trabajo,Dirección General de Aeronáutica Civil,1,12472,3044807,31437,1.8347365041968224,0.5818649931611554,7232,5197,43
+Servicio de Impuestos Internos,Instituto Nacional de Deportes de Chile,1,11853,7051586,16062,1.4736023997102874,0.7025423728813559,8290,3510,53
+Servicio de Registro Civil e Identificación,Subsecretaría de las Culturas y las Artes,18,11715,9820357,12626,1.33041672556159,0.777681134208924,8941,2556,218
+Servicio de Tesorerías,Servicio Nacional de Geología y Minería,1,10681,1972259,25871,2.947631687906834,0.588028837032821,6199,4343,139
+Subsecretaría de Educación,Universidad de Santiago de Chile,1,10664,1287858,29984,3.8886696559510026,0.6614120569408618,6923,3544,197
+Corporación Nacional de Desarrollo Indígena,Instituto de Desarrollo Agropecuario,1,10590,438899,74533,4.558492353898916,0.5924587281430106,6065,4172,353
+Servicio de Registro Civil e Identificación,Servicio Nacional del Adulto Mayor,5,10316,9820357,14027,1.0545270503570294,0.667772142021069,6846,3406,64
+Superintendencia del Medio Ambiente,Servicio de Tesorerías,1,10142,27070,1972259,2.6749142724837185,0.35442412259021255,3585,6530,27
+Dirección del Trabajo,Ejército de Chile,1,10109,3044807,64725,0.722295371962671,0.5909722222222222,5957,4123,29
+Servicio de Impuestos Internos,Subsecretaría de las Culturas y las Artes,3,10021,7051586,12626,1.5848820050348635,0.753309265944645,7512,2460,49
+Dirección General del Territorio Marítimo y de Marina Mercante,Servicio Nacional de Pesca y Acuicultura,4,9833,103106,95903,14.002589968495741,0.6862201365187713,6434,2942,457
+Superintendencia de Seguridad Social,Dirección de Previsión de Carabineros de Chile,1,9829,1395422,131194,0.7560112530376795,0.3728147305265336,3604,6063,162
+Dirección del Trabajo,Universidad de Santiago de Chile,1,9474,3044807,29984,1.4612432092941388,0.6220639812945052,5853,3556,65
+Superintendencia de Insolvencia y Reemprendimiento,Superintendencia de Pensiones,1,9416,144777,264497,3.462458607819671,0.5732596685082872,5188,3862,366
+Superintendencia de Electricidad y Combustibles,Subsecretaría de Telecomunicaciones,1,9404,240378,99831,5.518117523197819,0.5138539042821159,4692,4439,273
+Dirección del Trabajo,Dirección General de Aguas,3,9389,3044807,31459,1.3802352680120433,0.6033172819689674,5638,3707,44
+Subsecretaría de Bienes Nacionales,Servicio de Tesorerías,1,9284,27711,1972259,2.391979487404405,0.24869678540399653,2290,6918,76
+Fondo Nacional de Salud,Instituto Nacional de Deportes de Chile,4,9181,6335323,16062,1.2704572855910503,0.681316278561277,6232,2915,34
+Subsecretaría para las Fuerzas Armadas,Caja de Previsión de la Defensa Nacional,1,9177,20626,222671,28.135881286399155,0.31747516072472237,2716,5839,622
+Superintendencia de Educación,Universidad de La Frontera,1,9129,85772,201482,7.438406032909256,0.2839872513463018,2584,6515,30
+Servicio de Registro Civil e Identificación,Universidad de Tarapacá,4,8723,9820357,9678,1.2923836134336841,0.6343274921666473,5466,3151,106
+Servicio de Impuestos Internos,Servicio Nacional del Adulto Mayor,2,8441,7051586,14027,1.201657663633026,0.6525211586601501,5474,2915,52
+Dirección General de Aeronáutica Civil,Subsecretaría de Transportes,1,8348,31437,1447843,2.5826070883938566,0.5853570569848521,4869,3449,30
+Dirección General de Movilización Nacional,Subsecretaría de Servicios Sociales,1,8251,702113,168968,0.9793401809764446,0.5145985401459854,4230,3990,31
+Dirección de Educación Pública,Subsecretaría de Salud Pública,2,8148,22950,2300001,2.1735957174193103,0.3301735811892158,2682,5441,25
+Subsecretaría de Educación,Servicio Nacional de Pesca y Acuicultura,1,7990,1287858,95903,0.9109301372452938,0.550777331995988,4393,3583,14
+Servicio de Registro Civil e Identificación,Universidad de Los Lagos,1,7360,9820357,8961,1.1776941699351628,0.4269262407458185,3114,4180,66
+Subsecretaría de Educación,Superintendencia de Educación Superior,2,7252,1287858,18162,4.365807756402992,0.650831004559494,4425,2374,453
+Servicio de Registro Civil e Identificación,Corporación Nacional Forestal y de Protección de Recursos Naturales Renovables,1,6795,9820357,7761,1.2554024322924757,0.720366538575229,4874,1892,29
+Instituto de Desarrollo Agropecuario,Servicio Agrícola y Ganadero,2,6482,74533,1248989,0.9804834673327272,0.5042095416276894,3234,3180,68
+Superintendencia de Servicios Sanitarios,Subsecretaría de Salud Pública,1,6342,22998,2300001,1.6882882865947886,0.440221694378464,2780,3535,27
+Subsecretaría del Trabajo,Subsecretaría de Previsión Social,1,6267,1252817,48279,1.4589897974643662,0.5977806368607269,3717,2501,49
+Fondo Nacional de Salud,Servicio de Salud Antofagasta,1,6064,6335323,8537,1.5787872609768654,0.6300500834724541,3774,2216,74
+Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol,Servicio Agrícola y Ganadero,1,5866,37538,1248989,1.7617763643526643,0.3809930046067224,2233,3628,5
+Subsecretaría de Bienes Nacionales,Servicio Nacional del Patrimonio Cultural,1,5699,27711,554381,5.223680250286943,0.34207459207459207,1761,3387,551
+Subsecretaría de Relaciones Exteriores,Servicio de Registro Civil e Identificación,1,5511,6579,9820357,1.2011070406903253,0.3079347423062662,1661,3733,117
+Servicio de Registro Civil e Identificación,Subsecretaría de Relaciones Exteriores,1,5511,9820357,6579,1.2011070406903253,0.6920652576937337,3733,1661,117
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región de Los Lagos,5,5381,9820357,5951,1.2965349547340779,0.6960893854748603,3738,1632,11
+Subsecretaría de Educación,Dirección General de Aeronáutica Civil,1,5351,1287858,31437,1.8610769912887806,0.44096567333081854,2338,2964,49
+Corporación Nacional de Desarrollo Indígena,Corporación de Fomento de la Producción,1,5314,438899,69677,2.446842297525855,0.5802139037433155,3038,2198,78
+Contraloría General de la República,Servicio Nacional de Pesca y Acuicultura,1,5306,424886,95903,1.8335852033502058,0.5710238005289007,3023,2271,12
+Servicio de Registro Civil e Identificación,Subsecretaría del Deporte,4,5172,9820357,5998,1.2364120895034005,0.7477215435330619,3856,1301,15
+Servicio de Registro Civil e Identificación,Universidad del Biobío,2,5131,9820357,5539,1.328256156708565,0.763264479546375,3769,1169,193
+Servicio de Registro Civil e Identificación,Consejo de Defensa del Estado,7,5113,9820357,6010,1.2198670729165642,0.7614750882699097,3882,1216,15
+Servicio de Impuestos Internos,Subsecretaría de Obras Públicas,1,5015,7051586,6082,1.6465547601727344,0.4616619831393015,2300,2682,33
+Servicio Nacional de Geología y Minería,Dirección Nacional del Servicio Civil,1,4971,25871,737238,3.6699597315962116,0.41412911084043846,2040,2886,45
+Servicio de Impuestos Internos,Comisión Nacional de Riego,1,4947,7051586,7648,1.2916524984703375,0.5931855500821018,2890,1982,75
+Dirección de Compras y Contratación Pública,Subsecretaría de las Culturas y las Artes,5,4892,542520,12626,10.056419335857953,0.6339693073413522,3057,1765,70
+Contraloría General de la República,Instituto Nacional de Estadísticas,3,4825,424886,52630,3.038295360519943,0.1707165109034268,822,3993,10
+Dirección Nacional del Servicio Civil,Servicio Nacional de la Discapacidad,1,4771,737238,34312,2.6557924697163764,0.5838940285954584,2777,1979,15
+Servicio de Registro Civil e Identificación,Unidad de Análisis Financiero,4,4631,9820357,5137,1.2926364657935034,0.840372536278969,3880,737,14
+Servicio de Impuestos Internos,Gobierno Regional de la Región de Los Lagos,1,4630,7051586,5951,1.553612468521029,0.6875,3168,1440,22
+Subsecretaría de Salud Pública,Servicio Nacional del Adulto Mayor,1,4589,2300001,14027,2.0029204464072365,0.5569564255695643,2518,2003,68
+Subsecretaría de Hacienda,Corporación Nacional de Desarrollo Indígena,2,4524,49783,438899,2.9155158362057736,0.1533561979421852,626,3456,442
+Dirección de Compras y Contratación Pública,Dirección de Contabilidad y Finanzas,3,4329,542520,7108,15.807488615778777,0.9205205670462469,3961,342,26
+Superintendencia de Insolvencia y Reemprendimiento,Corporación de Fomento de la Producción,1,4233,144777,69677,5.908778580100694,0.4844528839306907,2041,2172,20
+Dirección del Trabajo,Dirección de Contabilidad y Finanzas,5,4169,3044807,7108,2.7124589273588326,0.7646202378063577,3151,970,48
+Superintendencia de Salud,Servicio Nacional de Pesca y Acuicultura,4,3989,456242,95903,1.2837340044194268,0.5478763508419201,2180,1799,10
+Contraloría General de la República,Agencia de Calidad de la Educación,1,3943,424886,15983,8.175880223277142,0.32533197139938713,1274,2642,27
+Poder Judicial,Subsecretaría de las Culturas y las Artes,1,3791,3246394,12626,1.3023425695325201,0.635978835978836,2404,1376,11
+Contraloría General de la República,Subsecretaría de Bienes Nacionales,1,3727,424886,27711,4.4573140793842105,0.5693470048569886,2110,1596,21
+Superintendencia de Pensiones,Gendarmería de Chile,1,3726,264497,119626,1.6581926391082686,0.3747288503253796,1382,2306,38
+Subsecretaría de Transportes,Instituto Nacional de Deportes de Chile,1,3709,1447843,16062,2.2458161734811797,0.463658470683599,1716,1985,8
+Subsecretaría de Educación,Dirección General del Crédito Prendario,1,3643,1287858,26837,1.4842111473460469,0.5099118942731278,1852,1780,11
+Subsecretaría de Economía y Empresas de Menor Tamaño,Subsecretaría de las Culturas y las Artes,2,3614,996716,12626,4.043797481332625,0.5889759373251259,2105,1469,40
+Servicio de Tesorerías,Unidad Administradora de los Tribunales Tributarios y Aduaneros,1,3476,1972259,5896,4.20917333501194,0.6362562739887806,2155,1232,89
+Instituto de Previsión Social,Subsecretaría de Relaciones Exteriores,1,3441,4931820,6579,1.493330835561912,0.6232320192597051,2071,1252,118
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región de Coquimbo,2,3212,9820357,3622,1.2715641607149488,0.7549937578027466,2419,785,8
+Dirección del Trabajo,Subsecretaría de Prevención del Delito,1,3171,3044807,26325,0.5570658773607006,0.48121019108280255,1511,1629,31
+Subsecretaría de Transportes,Subsecretaría para las Fuerzas Armadas,1,3153,1447843,20626,1.4867089322364178,0.37042925278219396,1165,1980,8
+Subsecretaría para las Fuerzas Armadas,Subsecretaría de Salud Pública,2,3010,20626,2300001,0.893432859793967,0.5146960587842352,1541,1453,16
+Servicio de Registro Civil e Identificación,Agencia Nacional de Investigación y Desarrollo,37,2987,9820357,3400,1.2597010567226952,0.9872696817420435,2947,38,2
+Corporación Nacional de Desarrollo Indígena,Servicio Nacional de la Discapacidad,2,2954,438899,34312,2.7620932117209795,0.5232876712328767,1528,1392,34
+Dirección General de Movilización Nacional,Subsecretaría de Bienes Nacionales,3,2916,702113,27711,2.1104096843379594,0.6357684355616816,1845,1057,14
+Servicio Nacional del Patrimonio Cultural,Subsecretaría de las Culturas y las Artes,2,2868,554381,12626,5.769570554690201,0.5690200210748156,1620,1227,21
+Policía de Investigaciones de Chile,Superintendencia de Pensiones,1,2854,74238,264497,2.046658667743596,0.5629838142153413,1600,1242,12
+Servicio de Registro Civil e Identificación,Servicio Nacional de Protección Especializada a la Niñez y Adolescencia,6,2827,9820357,3160,1.2827733063747973,0.9047450424929179,2555,269,3
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región Aysén del General Carlos Ibáñez del Campo,5,2807,9820357,3562,1.1299511945691352,0.4207492795389049,1168,1608,31
+Servicio de Impuestos Internos,Gobierno Regional de la Región Aysén del General Carlos Ibáñez del Campo,3,2638,7051586,3562,1.4788786298888603,0.3736943907156673,966,1619,53
+Servicio de Impuestos Internos,Servicio Nacional de Protección Especializada a la Niñez y Adolescencia,1,2530,7051586,3160,1.5987667068394529,0.8891528107680127,2246,280,4
+Dirección de Compras y Contratación Pública,Subsecretaría de Obras Públicas,2,2489,542520,6082,10.621875136304126,0.49652351738241307,1214,1231,44
+Subsecretaría de Salud Pública,Consejo de Defensa del Estado,1,2361,2300001,6010,2.405093443274861,0.6669505962521295,1566,782,13
+Subsecretaría de Salud Pública,Subsecretaría de las Culturas y las Artes,2,2356,2300001,12626,1.1424045927313415,0.5157312925170068,1213,1139,4
+Dirección General de Movilización Nacional,Superintendencia de Educación Superior,2,2355,702113,18162,2.6005109687657346,0.5519452757588713,1291,1048,16
+Armada de Chile,Caja de Previsión de la Defensa Nacional,1,2273,4635,222671,31.01162343714829,0.12427873945849978,280,1973,20
+Subsecretaría de Educación,Subsecretaría de las Culturas y las Artes,4,2240,1287858,12626,1.9397810725013995,0.5463087248322148,1221,1014,5
+Dirección del Trabajo,Dirección de Vialidad,4,2207,3044807,4401,2.31915437941562,0.6618115612198452,1454,743,10
+Subsecretaría de Relaciones Exteriores,Dirección del Trabajo,1,2140,6579,3044807,1.504293509510697,0.44569816643159377,948,1179,13
+Servicio de Tesorerías,Dirección de Vialidad,4,2132,1972259,4401,3.4586797354251795,0.613540197461213,1305,822,5
+Policía de Investigaciones de Chile,Dirección de Previsión de Carabineros de Chile,5,2056,74238,131194,2.9724964017679016,0.47173489278752434,968,1084,4
+Servicio de Evaluación Ambiental,Servicio Nacional de Geología y Minería,2,2033,59276,25871,18.667395869730036,0.5464124435524336,1089,904,40
+Servicio de Registro Civil e Identificación,Dirección de Presupuestos,6,1980,9820357,2330,1.2184857578630697,0.45592705167173253,900,1074,6
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región de Arica y Parinacota,3,1979,9820357,2128,1.3334764761120759,0.6811003565970454,1337,626,16
+Servicio Nacional de la Discapacidad,Subsecretaría de Desarrollo Regional y Administrativo,1,1885,34312,378710,2.0426643644373015,0.5888297872340426,1107,773,5
+Instituto Nacional de Propiedad Industrial,Universidad de La Frontera,1,1877,161819,201482,0.8106566889138591,0.31893333333333335,598,1277,2
+Policía de Investigaciones de Chile,Servicio Nacional de Aduanas,3,1743,74238,102565,3.2233718106405185,0.5170588235294118,879,821,43
+Subsecretaría de Justicia,Universidad de Santiago de Chile,1,1732,733737,29984,1.1085527480411024,0.5614849187935035,968,756,8
+Servicio de Impuestos Internos,Gobierno Regional de la Región de Arica y Parinacota,3,1620,7051586,2128,1.5201801178438674,0.6517133956386293,1046,559,15
+Dirección General de Aguas,Comisión Nacional de Riego,2,1592,31459,7648,93.17271158275878,0.4984005118362124,779,784,29
+Dirección Nacional del Servicio Civil,Servicio Nacional de Turismo,1,1533,737238,10071,2.9073700395532205,0.6213720316622692,942,574,17
+Subsecretaría de Relaciones Exteriores,Subsecretaría de Salud Pública,1,1519,6579,2300001,1.4135407296811024,0.45442448436460414,683,820,16
+Superintendencia de Educación,Subsecretaría del Interior,1,1513,85772,75575,3.286651827354982,0.48344370860927155,730,780,3
+Fuerza Aérea de Chile,Caja de Previsión de la Defensa Nacional,1,1510,3398,222671,28.1014272121829,0.0913364674278039,136,1353,21
+Central de Abastecimiento del Sistema Nacional de Servicios de Salud,Instituto de Salud Pública de Chile,1,1503,16383,31230,41.36490480660965,0.7410412440838404,1096,383,24
+Dirección General de Movilización Nacional,Universidad de Tarapacá,1,1469,702113,9678,3.0441610707862594,0.4899375433726579,706,735,28
+Dirección General de Movilización Nacional,Universidad del Biobío,1,1454,702113,5539,5.264589232514751,0.6674123788217748,895,446,113
+Dirección de Presupuestos,Dirección Nacional del Servicio Civil,2,1348,2330,737238,11.050062209340984,0.5368577810871183,721,622,5
+Superintendencia de Electricidad y Combustibles,Dirección General de Aeronáutica Civil,1,1346,240378,31437,2.508116536073756,0.5551415797317437,745,597,4
+Subsecretaría de Vivienda y Urbanismo,Dirección de Contabilidad y Finanzas,3,1332,1194254,7108,2.2095231960917223,0.6389728096676737,846,478,8
+Contraloría General de la República,Universidad de Tarapacá,2,1304,424886,9678,4.465375820823483,0.47307692307692306,615,685,4
+Contraloría General de la República,Servicio Nacional del Adulto Mayor,1,1295,424886,14027,3.0596448204043667,0.487993803253292,630,661,4
+Universidad de Chile,Subsecretaría de las Culturas y las Artes,3,1291,144841,12626,9.94048116634957,0.43557312252964425,551,714,26
+Servicio Nacional de Pesca y Acuicultura,Corporación de Fomento de la Producción,1,1259,95903,69677,2.653032425066032,0.5007974481658692,628,626,5
+Servicio de Registro Civil e Identificación,Universidad de Antofagasta,3,1167,9820357,1250,1.3386653773992128,0.7304048234280792,848,313,6
+Dirección del Trabajo,Subsecretaría de Obras Públicas,2,1136,3044807,6082,0.8637948497438832,0.4713656387665198,535,600,1
+Superintendencia de Pensiones,Dirección General de Aguas,1,1131,264497,31459,1.9139712289561124,0.363716814159292,411,719,1
+Servicio de Evaluación Ambiental,Servicio Nacional de Pesca y Acuicultura,2,1119,59276,95903,2.7717717778483038,0.5436543654365437,604,507,8
+Subsecretaría de Educación Parvularia,Subsecretaría de Evaluación Social,1,1051,2820,6125255,0.8567771951089302,0.6472275334608031,677,369,5
+Subsecretaría de Relaciones Exteriores,Subsecretaría de Economía y Empresas de Menor Tamaño,1,1010,6579,996716,2.1688450300182365,0.44091360476663355,444,563,3
+Servicio Nacional de Aduanas,Dirección General de Aeronáutica Civil,4,1001,102565,31437,4.371517911375924,0.5164835164835165,517,484,0
+Subsecretaría de Bienes Nacionales,Corporación de Fomento de la Producción,1,849,27711,69677,6.191623109419775,0.43705463182897863,368,474,7
+Servicio Nacional de Aduanas,Instituto de Salud Pública de Chile,1,840,102565,31230,3.692721726148873,0.3983050847457627,329,497,14
+Subsecretaría de Hacienda,Subsecretaría de Previsión Social,1,803,49783,48279,4.704513066315922,0.32702020202020204,259,533,11
+Subsecretaría de Vivienda y Urbanismo,Subsecretaría de Obras Públicas,2,799,1194254,6082,1.5489668488833477,0.3462986198243413,276,521,2
+Servicio Nacional de Capacitación y Empleo,Agencia Nacional de Investigación y Desarrollo,15,792,3266962,3400,1.0040160275545797,0.9810366624525917,776,15,1
+Superintendencia de Salud,Subsecretaría de las Culturas y las Artes,1,767,456242,12626,1.874876996947062,0.49673202614379086,380,385,2
+Subsecretaría para las Fuerzas Armadas,Servicio Nacional de Pesca y Acuicultura,2,757,20626,95903,5.388738851738971,0.5625841184387618,418,325,14
+Subsecretaría de Bienes Nacionales,Dirección General de Aguas,1,720,27711,31459,11.62984291684044,0.3865546218487395,276,438,6
+Dirección General de Aguas,Subsecretaría de Bienes Nacionales,1,720,31459,27711,11.62984291684044,0.6134453781512605,438,276,6
+Dirección General de Aeronáutica Civil,Subsecretaría de Telecomunicaciones,1,719,31437,99831,3.225973815460569,0.5397489539748954,387,330,2
+Servicio de Registro Civil e Identificación,Servicio de Salud Osorno,1,693,9820357,888,1.1190035310105104,0.6570188133140377,454,237,2
+Subsecretaría de Relaciones Exteriores,Dirección Nacional del Servicio Civil,1,662,6579,737238,1.921891450702114,0.3712121212121212,245,415,2
+Servicio de Registro Civil e Identificación,Fiscalía Nacional Económica,1,649,9820357,729,1.2765221546520058,0.7457364341085271,481,164,4
+Servicio de Registro Civil e Identificación,Subsecretaría de Minería,7,645,9820357,725,1.2756540029289545,0.7748447204968945,499,145,1
+Carabineros de Chile,Gobierno Regional de la Región de Coquimbo,1,644,2539510,3622,0.985884317161573,0.4681181959564541,301,342,1
+Servicio de Registro Civil e Identificación,Comisión Nacional de Energía,3,636,9820357,710,1.2844285637090096,0.6456692913385826,410,225,1
+Municipalidad de Santiago,Instituto de Salud Pública de Chile,4,625,109655,31230,2.5699108502808263,0.4583333333333333,286,338,1
+Subsecretaría de Hacienda,Instituto Nacional de Deportes de Chile,4,602,49783,16062,10.601181487261238,0.2179054054054054,129,463,10
+Universidad de Chile,Instituto Nacional de Deportes de Chile,1,590,144841,16062,3.571078027896284,0.5170068027210885,304,284,2
+Servicio de Salud Arica y Parinacota,Universidad de Tarapacá,1,575,63389,9678,13.197959473875297,0.4686411149825784,269,305,1
+Dirección General del Territorio Marítimo y de Marina Mercante,Subsecretaría de Pesca y Acuicultura,2,567,103106,1975,39.20762035972811,0.6400709219858156,361,203,3
+Superintendencia de Educación Superior,Universidad de La Frontera,2,561,18162,201482,2.1587452790809527,0.31899641577060933,178,380,3
+Subsecretaría del Interior,Subsecretaría de las Culturas y las Artes,1,557,75575,12626,8.219581735654717,0.45225225225225224,251,304,2
+Servicio de Registro Civil e Identificación,Comisión Chilena de Energía Nuclear,1,556,9820357,607,1.3134008367001562,0.7815884476534296,433,121,2
+Servicio Nacional de la Discapacidad,Universidad de La Frontera,1,553,34312,201482,1.1263706072359145,0.49544626593806923,272,277,4
+Servicio de Impuestos Internos,Subsecretaría de Minería,1,548,7051586,725,1.5093647708326257,0.7692307692307693,420,126,2
+Subsecretaría de Hacienda,Servicio Nacional de la Discapacidad,1,543,49783,34312,4.476217658384181,0.17896678966789667,97,445,1
+Subsecretaría de Hacienda,Gobierno Regional de la Región de Los Lagos,1,541,49783,5951,25.71370840356237,0.15213358070500926,82,457,2
+Subsecretaría de Economía y Empresas de Menor Tamaño,Agencia Nacional de Investigación y Desarrollo,4,520,996716,3400,2.1606850190142075,0.9673076923076923,503,17,0
+Servicio de Impuestos Internos,Universidad Tecnológica Metropolitana,1,511,7051586,641,1.5918954003046593,0.9133858267716536,464,44,3
+Dirección General del Crédito Prendario,Corporación de Fomento de la Producción,1,505,26837,69677,3.802825807596177,0.47410358565737054,238,264,3
+Superintendencia de Electricidad y Combustibles,Dirección de Contabilidad y Finanzas,3,492,240378,7108,4.05472523853153,0.6199186991869918,305,187,0
+Superintendencia de Educación Superior,Instituto Nacional de la Juventud,1,422,18162,51205,6.389617682199484,0.4146919431279621,175,247,0
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región de Antofagasta,3,417,9820357,460,1.2998385454516217,0.6207729468599034,257,157,3
+Municipalidad de Santiago,Instituto Nacional de Deportes de Chile,2,415,109655,16062,3.3178633873263244,0.5362318840579711,222,192,1
+Subsecretaría de Transportes,Gobierno Regional de la Región de Coquimbo,1,414,1447843,3622,1.1116520891755566,0.3050847457627119,126,287,1
+Subsecretaría de Educación,Unidad de Análisis Financiero,2,406,1287858,5137,0.8641456575100709,0.6551724137931034,266,140,0
+Subsecretaría de Pesca y Acuicultura,Subsecretaría de Salud Pública,1,395,1975,2300001,1.224448250239891,0.49238578680203043,194,200,1
+Subsecretaría de Educación,Universidad de Talca,20,390,1287858,4445,0.9593196177835289,0.5259067357512953,203,183,4
+Servicio Nacional de la Discapacidad,Instituto Nacional de Estadísticas,1,384,34312,52630,2.994265354190516,0.19843342036553524,76,307,1
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región Metropolitana de Santiago,1,365,9820357,397,1.3182978561110446,0.7472527472527473,272,92,1
+Servicio de Impuestos Internos,Gobierno Regional de la Región de Antofagasta,5,364,7051586,460,1.5801386981225403,0.5497237569060773,199,163,2
+Subsecretaría para las Fuerzas Armadas,Subsecretaría de Bienes Nacionales,1,361,20626,27711,8.893617644386191,0.5299145299145299,186,165,10
+Municipios,Subsecretaría de Salud Pública,7,356,1219,2300001,1.7879556074052554,0.18028169014084508,64,291,1
+Subsecretaría de Pesca y Acuicultura,Servicio Nacional de Pesca y Acuicultura,3,351,1975,95903,26.09433825871262,0.496875,159,161,31
+Servicio Nacional de Pesca y Acuicultura,Subsecretaría de Pesca y Acuicultura,1,351,95903,1975,26.09433825871262,0.503125,161,159,31
+Dirección General de Movilización Nacional,Gobierno Regional de la Región Aysén del General Carlos Ibáñez del Campo,1,350,702113,3562,1.9706322189701324,0.28735632183908044,100,248,2
+Municipios,Subsecretaría de Transportes,1,349,1219,1447843,2.78444545418328,0.34124629080118696,115,222,12
+Dirección General de Movilización Nacional,Gobierno Regional de la Región de Arica y Parinacota,1,338,702113,2128,3.1854920566895872,0.5637982195845698,190,147,1
+Superintendencia de Educación Superior,Universidad de Santiago de Chile,3,331,18162,29984,8.558806687503091,0.4892966360856269,160,167,4
+Servicio de Registro Civil e Identificación,Agencia de Promoción de la Inversión Extranjera,1,329,9820357,366,1.2889201128844363,0.7439024390243902,244,84,1
+Subsecretaría de Educación Parvularia,Superintendencia de Educación,2,316,2820,85772,18.396317715811307,0.5292207792207793,163,145,8
+Superintendencia de Pensiones,Dirección de Contabilidad y Finanzas,1,312,264497,7108,2.336817995914476,0.5339805825242718,165,144,3
+Superintendencia de Electricidad y Combustibles,Subsecretaría de Obras Públicas,2,308,240378,6082,2.966525237275023,0.34098360655737703,104,201,3
+Municipalidad de Valparaíso,Subsecretaría de las Culturas y las Artes,5,305,26943,12626,12.624859899390774,0.5907590759075908,179,124,2
+Dirección del Trabajo,Subsecretaría de Minería,6,301,3044807,725,1.9200263272448173,0.7209302325581395,217,84,0
+Servicio Nacional de Menores,Subsecretaría de Justicia,1,300,1223,733737,4.707527243980049,0.40540540540540543,120,176,4
+Servicio de Impuestos Internos,Agencia de Promoción de la Inversión Extranjera,1,296,7051586,366,1.6149619072867132,0.7561837455830389,214,69,13
+Municipalidad de Santiago,Subsecretaría de las Culturas y las Artes,5,295,109655,12626,3.00031087305683,0.43050847457627117,127,168,0
+Subsecretaría de Hacienda,Gobierno Regional de la Región Aysén del General Carlos Ibáñez del Campo,1,295,49783,3562,23.425318295777622,0.10839160839160839,31,255,9
+Servicio de Registro Civil e Identificación,Agencia de Sustentabilidad y Cambio Climático,1,263,9820357,299,1.2612342278316788,0.7181467181467182,186,73,4
+Servicio de Impuestos Internos,Agencia de Sustentabilidad y Cambio Climático,9,255,7051586,299,1.7030235334794919,0.766798418972332,194,59,2
+Servicio de Tesorerías,Subsecretaría de Minería,4,253,1972259,725,2.491477859512436,0.7549407114624506,191,62,0
+Dirección de Presupuestos,Subsecretaría de Educación,4,237,2330,1287858,1.1121488292597395,0.559322033898305,132,104,1
+Servicio de Impuestos Internos,Consejo Nacional de Educación,1,237,7051586,343,1.3797674115698533,0.6455696202531646,153,84,0
+Servicio de Registro Civil e Identificación,Universidad de O'Higgins,1,217,9820357,222,1.401580180255589,0.9808612440191388,205,4,8
+Dirección de Presupuestos,Servicio Nacional del Patrimonio Cultural,2,209,2330,554381,2.278350265040219,0.7403846153846154,154,54,1
+Dirección de Presupuestos,Subsecretaría de Vivienda y Urbanismo,4,204,2330,1194254,1.0323239567062574,0.6764705882352942,138,66,0
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región de la Araucanía,1,202,9820357,225,1.2873008008885127,0.8217821782178217,166,36,0
+Junta Nacional de Jardines Infantiles,Corporación de Fomento de la Producción,1,201,33697,69677,1.205462875820257,0.4321608040201005,86,113,2
+Servicio de Impuestos Internos,Subsecretaría del Medio Ambiente,1,193,7051586,222,1.736025067064141,0.8963730569948186,173,20,0
+Instituto Nacional de Deportes de Chile,Gendarmería de Chile,1,193,16062,119626,1.4143945372574391,0.4010416666666667,77,115,1
+Servicio de Tesorerías,Universidad Tecnológica Metropolitana,2,189,1972259,641,2.105126955163261,0.8716577540106952,163,24,2
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región de Valparaíso,1,189,9820357,234,1.1581295285982907,0.5425531914893617,102,86,1
+Gobierno Regional de la Región de Arica y Parinacota,Universidad de Tarapacá,1,183,2128,9678,125.12160666506627,0.43956043956043955,80,102,1
+Dirección de Compras y Contratación Pública,Dirección de Arquitectura,2,181,542520,421,11.158843585218483,0.7777777777777778,140,40,1
+Subsecretaría de Educación,Consejo Nacional de Educación,2,174,1287858,343,5.54658422652549,0.5269461077844312,88,79,7
+Subsecretaría de Evaluación Social,Gobierno Regional de la Región de Antofagasta,2,172,6125255,460,0.8595772364117725,0.27906976744186046,48,124,0
+Subsecretaría de Justicia,Agencia Nacional de Investigación y Desarrollo,23,168,733737,3400,0.9482621349579579,0.9523809523809523,160,8,0
+Municipalidad de Antofagasta,Servicio de Salud Antofagasta,2,164,7962,8537,33.97463952368103,0.2236024844720497,36,125,3
+Servicio de Salud Arica y Parinacota,Gobierno Regional de la Región de Arica y Parinacota,1,155,63389,2128,16.180228037892775,0.5870967741935483,91,64,0
+Servicio de Salud Metropolitano Oriente,Instituto de Salud Pública de Chile,1,150,31446,31230,2.150761872066736,0.5302013422818792,79,70,1
+Subsecretaría de Servicios Sociales,Corporación Nacional Forestal y de Protección de Recursos Naturales Renovables,1,130,168968,7761,1.3959172351189846,0.4186046511627907,54,75,1
+Dirección del Trabajo,Dirección de Arquitectura,2,126,3044807,421,1.3840989653949547,0.648,81,44,1
+Servicio Nacional de Geología y Minería,Subsecretaría de Minería,2,126,25871,725,94.59273589520419,0.6639344262295082,81,41,4
+Dirección de Vialidad,Subsecretaría de Bienes Nacionales,1,126,4401,27711,14.5480720191217,0.5476190476190477,69,57,0
+Dirección del Trabajo,Gobierno Regional de la Región de Antofagasta,1,121,3044807,460,1.216483529954872,0.6083333333333333,73,47,1
+Superintendencia de Electricidad y Combustibles,Gobierno Regional de la Región de Coquimbo,1,111,240378,3622,1.7952224866211202,0.42342342342342343,47,64,0
+Subsecretaría de Relaciones Exteriores,Subsecretaría de Servicios Sociales,2,110,6579,168968,1.393371102451189,0.5963302752293578,65,44,1
+Dirección General de Movilización Nacional,Subsecretaría de Minería,3,106,702113,725,2.9322386135211462,0.6761904761904762,71,34,1
+Corporación Nacional de Desarrollo Indígena,Agencia Nacional de Investigación y Desarrollo,31,98,438899,3400,0.9247429550655029,0.9897959183673469,97,1,0
+Subsecretaría de Relaciones Económicas Internacionales,Subsecretaría de Transportes,1,96,348,1447843,2.682927780772191,0.5,48,48,0
+Contraloría General de la República,Subsecretaría de Relaciones Económicas Internacionales,1,95,424886,348,9.0471211114857,0.48936170212765956,46,48,1
+Subsecretaría de Economía y Empresas de Menor Tamaño,Gobierno Regional de la Región de Antofagasta,1,94,996716,460,2.8869353347698192,0.5638297872340425,53,41,0
+Dirección de Compras y Contratación Pública,Subsecretaría de Relaciones Económicas Internacionales,1,92,542520,348,6.861693175568082,0.6195652173913043,57,35,0
+Consejo Nacional de Educación,Subsecretaría de Salud Pública,5,91,343,2300001,1.624268087052917,0.5384615384615384,49,42,0
+Junta Nacional de Jardines Infantiles,Subsecretaría de Educación Parvularia,1,91,33697,2820,13.484644770237558,0.5056179775280899,45,44,2
+Subsecretaría de Vivienda y Urbanismo,Dirección de Arquitectura,1,90,1194254,421,2.520589792293118,0.6853932584269663,61,28,1
+Subsecretaría de Educación,Comisión Chilena de Energía Nuclear,1,89,1287858,607,1.603141289203958,0.5730337078651685,51,38,0
+Servicio Nacional de la Discapacidad,Universidad de Santiago de Chile,1,85,34312,29984,1.1633805195443632,0.5595238095238095,47,37,1
+Superintendencia de Educación,Agencia Nacional de Investigación y Desarrollo,3,83,85772,3400,4.007671374313844,0.9759036144578314,81,2,0
+Subsecretaría de Transportes,Gobierno Regional de la Región de Antofagasta,2,80,1447843,460,1.6914109922259466,0.4,32,48,0
+Subsecretaría de Hacienda,Gobierno Regional de la Región de Antofagasta,1,75,49783,460,46.11697702812817,0.16216216216216217,12,62,1
+Agencia de Calidad de la Educación,Instituto Nacional de Deportes de Chile,1,72,15983,16062,3.949235565964033,0.7083333333333334,51,21,0
+Dirección General del Crédito Prendario,Servicio de Salud Antofagasta,1,72,26837,8537,4.425187866747374,0.375,27,45,0
+Superintendencia de Educación Superior,Universidad de Talca,1,68,18162,4445,11.860744215694544,0.3548387096774194,22,40,6
+Subsecretaría de Relaciones Exteriores,Instituto de Salud Pública de Chile,5,67,6579,31230,4.591783426603545,0.5454545454545454,36,30,1
+Servicio Nacional de Migraciones,Comisión para el Mercado Financiero,5,66,131,4329895,1.6384520616118812,0.16666666666666666,11,55,0
+Servicio Nacional de la Mujer y la Equidad de Género,Junta Nacional de Jardines Infantiles,1,59,4143,33697,5.950922638933207,0.5344827586206896,31,27,1
+Subsecretaría de Vivienda y Urbanismo,Gobierno Regional de la Región de Antofagasta,1,51,1194254,460,1.3072363147421628,0.5,25,25,1
+Servicio de Salud Coquimbo,Gobierno Regional de la Región de Coquimbo,1,50,5926,3622,32.8018527977953,0.3,15,35,0
+Servicio Nacional de Migraciones,Servicio de Tesorerías,1,47,131,1972259,2.561539633192115,0.0425531914893617,2,45,0
+Subsecretaría de Economía y Empresas de Menor Tamaño,Gobierno Regional de la Región de la Araucanía,1,43,996716,225,2.6999329041015137,0.627906976744186,27,16,0
+Superintendencia de Educación Superior,Agencia Nacional de Investigación y Desarrollo,7,42,18162,3400,9.577345750986222,0.9761904761904762,41,1,0
+Subsecretaría de Salud Pública,Servicio Nacional de Migraciones,1,40,2300001,131,1.8693866415876201,0.75,30,10,0
+Subsecretaría de Justicia,Gobierno Regional de la Región de Antofagasta,1,36,733737,460,1.5019058659272,0.3333333333333333,12,24,0
+Subsecretaría de Educación Parvularia,Corporación de Fomento de la Producción,1,34,2820,69677,2.436569644510633,0.5,17,17,0
+Municipios,Subsecretaría de Telecomunicaciones,1,32,1219,99831,3.702706729417835,0.125,4,28,0
+Corporación Nacional de Desarrollo Indígena,Gobierno Regional de la Región de la Araucanía,1,31,438899,225,4.420313263669115,0.6774193548387096,21,10,0
+Servicio Nacional de Migraciones,Dirección Nacional del Servicio Civil,1,27,131,737238,3.936617514155216,0.18518518518518517,5,22,0
+Policía de Investigaciones de Chile,Agencia Nacional de Investigación y Desarrollo,36,25,74238,3400,1.3946758874082246,1.0,25,0,0
+Subsecretaría de Relaciones Exteriores,Dirección General de Aeronáutica Civil,2,24,6579,31437,1.633987479297799,0.43478260869565216,10,13,1
+Municipalidad de Antofagasta,Gobierno Regional de la Región de Antofagasta,2,24,7962,460,92.27195046033879,0.125,3,21,0
+Municipalidad de Santiago,Universidad Tecnológica Metropolitana,1,23,109655,641,4.607653702710052,0.9090909090909091,20,2,1
+Tribunal Calificador de Elecciones de Chile‎,Servicio Nacional de la Discapacidad,1,21,2084,34312,4.13536655446755,0.42857142857142855,9,12,0
+Policía de Investigaciones de Chile,Gobierno Regional de la Región de Coquimbo,1,20,74238,3622,1.0473546145086612,0.55,11,9,0
+Gendarmería de Chile,Gobierno Regional de la Región de Coquimbo,1,19,119626,3622,0.6174730934604458,0.7894736842105263,15,4,0
+Municipalidad de Arica,Universidad de Tarapacá,1,19,220,9678,125.65615500948732,0.47368421052631576,9,10,0
+Subsecretaría de Desarrollo Regional y Administrativo,Gobierno Regional de la Región de la Araucanía,1,18,378710,225,2.974552771249769,0.4444444444444444,8,10,0
+Subsecretaría de Bienes Nacionales,Gobierno Regional de la Región de Antofagasta,2,18,27711,460,19.883871104395837,0.5555555555555556,10,8,0
+Subsecretaría de Justicia,Gobierno Regional de la Región de la Araucanía,1,17,733737,225,1.4499881322902106,0.7058823529411765,12,5,0
+Superintendencia de Electricidad y Combustibles,Dirección de Arquitectura,2,17,240378,421,2.365432569198366,0.5882352941176471,10,7,0
+Servicio Nacional de Geología y Minería,Comisión Chilena del Cobre,1,16,25871,107,81.38820177899188,0.75,12,4,0
+Servicio de Evaluación Ambiental,Gobierno Regional de la Región de Valparaíso,1,16,59276,234,16.2429048409209,0.4375,7,9,0
+Dirección General de Aeronáutica Civil,Gobierno Regional de la Región de Coquimbo,1,13,31437,3622,1.6076528522674267,0.46153846153846156,6,7,0
+Consejo de Defensa del Estado,Servicio de Salud Biobío,1,12,6010,5416,5.191185911221328,0.5833333333333334,7,5,0
+Subsecretaría para las Fuerzas Armadas,Gobierno Regional de la Región de Antofagasta,1,11,20626,460,16.325192243643524,0.36363636363636365,4,7,0
+Servicio de Evaluación Ambiental,Comisión Chilena del Cobre,1,10,59276,107,22.20116666340824,0.9,9,1,0
+Subsecretaría del Interior,Gobierno Regional de la Región de Antofagasta,1,10,75575,460,4.0504425491521525,0.4,4,6,0
+Municipios,Instituto de Salud Pública de Chile,1,8,1219,31230,2.9590531180316355,0.0,0,8,0
+Instituto Nacional de Deportes de Chile,Gobierno Regional de la Región de Antofagasta,1,7,16062,460,13.340713295761534,0.5714285714285714,4,3,0
+Subsecretaría de Educación Parvularia,Consejo Nacional de Educación,1,7,2820,343,101.90447966420612,0.7142857142857143,5,2,0
+Dirección de Presupuestos,Gobierno Regional de la Región Metropolitana de Santiago,2,7,2330,397,106.55898530826694,1.0,7,0,0
+Subsecretaría de Hacienda,Comisión Chilena de Energía Nuclear,1,6,49783,607,2.795889216861806,0.0,0,6,0
+Dirección General de Aguas,Comisión Chilena del Cobre,1,6,31459,107,25.099266126835314,0.6666666666666666,4,2,0
+Superintendencia de Educación Superior,Universidad Tecnológica Metropolitana,1,6,18162,641,7.257181982026556,0.8333333333333334,5,1,0
+Subsecretaría del Deporte,Universidad de Talca,1,5,5998,4445,2.6407679575231486,0.6,3,2,0
+Municipalidad de San Pedro de Atacama,Gobierno Regional de la Región de Antofagasta,1,4,163,460,751.195572152574,0.0,0,4,0
+Municipalidad de Taltal,Servicio de Salud Antofagasta,1,4,202,8537,32.66192705717802,0.25,1,3,0
+Servicio de Registro Civil e Identificación,Gobierno Regional de la Región del Maule,8,3,9820357,3,1.4338746544550263,1.0,3,0,0
+Dirección de Educación Pública,Servicio de Salud Osorno,1,3,22950,888,2.072831802390626,0.3333333333333333,1,2,0
+Servicio Nacional de Migraciones,Dirección General de Aeronáutica Civil,1,2,131,31437,6.838424698664261,0.0,0,2,0
+Subsecretaría de Agricultura,Comisión Nacional de Riego,1,2,5,7648,736.4623953974896,0.0,0,2,0
+Municipalidad de Mejillones,Gobierno Regional de la Región de Antofagasta,2,2,6,460,10203.739855072463,0.5,1,1,0
+Municipalidad de Taltal,Gobierno Regional de la Región de Antofagasta,2,2,202,460,303.08138183383556,1.0,2,0,0
+Dirección del Trabajo,Dirección de Obras Hidráulicas,3,2,3044807,3,3.0830987536046344,1.0,2,0,0
+Instituto Nacional de Estadísticas,Comisión Chilena del Cobre,2,2,52630,107,5.000936177618039,1.0,2,0,0
+Municipalidad de San Pedro de Atacama,Servicio de Salud Antofagasta,1,2,163,8537,20.2383719802146,0.0,0,2,0
+Municipios,Servicio Nacional de la Mujer y la Equidad de Género,1,2,1219,4143,5.5763473857185595,0.0,0,2,0
+Universidad de La Serena,Gobierno Regional de la Región de Coquimbo,1,1,113,3622,34.40420879287344,0.0,0,1,0
+Dirección del Trabajo,Gobierno Regional de la Región del Maule,1,1,3044807,3,1.5415493768023172,1.0,1,0,0
+Consejo Nacional de Educación,Dirección General de Aeronáutica Civil,1,1,343,31437,1.305879935167665,1.0,1,0,0
+Subsecretaría de Transportes,Gobierno Regional de la Región del Maule,2,1,1447843,3,3.2418710684330647,0.0,0,1,0
+Dirección de Vialidad,Gobierno Regional de la Región de Antofagasta,1,1,4401,460,6.955514556968279,1.0,1,0,0
+Dirección Nacional del Servicio Civil,Dirección de Obras Hidráulicas,1,1,737238,3,6.36662832536214,1.0,1,0,0
+Servicio Nacional de Migraciones,Gobierno Regional de la Región de Arica y Parinacota,1,1,131,2128,50.51211401595592,1.0,1,0,0
+Armada de Chile,Gobierno Regional de la Región de Coquimbo,1,1,4635,3622,0.8387649608618551,0.0,0,1,0
+Junta Nacional de Jardines Infantiles,Agencia de Promoción de la Inversión Extranjera,1,1,33697,366,1.141737172043173,0.0,0,1,0
+Subsecretaría de Educación,Servicio Local de Educación Pública de Valparaíso,1,1,1287858,1,10.933783848840477,0.0,0,1,0

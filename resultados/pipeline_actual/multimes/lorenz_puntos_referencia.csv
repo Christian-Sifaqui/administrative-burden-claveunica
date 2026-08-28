@@ -1,0 +1,10 @@
+percentil_servicios_menor_volumen,pct_eventos_acumulado
+50,0.050
+70,0.420
+80,1.226
+90,4.647
+95,11.431
+99,39.849
+
+# Gini calculado sobre distribucion_eventos_por_servicio.csv (1266 servicios, 544735871 eventos totales): 0.9559
+# Grafico: lorenz_servicios.png (incrustado en el paper como image5)

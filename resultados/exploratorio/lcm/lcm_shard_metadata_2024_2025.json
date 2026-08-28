@@ -1,0 +1,10 @@
+{
+  "main_files": [
+    "cu_user_client-2024.zip",
+    "cu_user_client-2025.zip"
+  ],
+  "mapping_file": "dim_integracion_cu.csv",
+  "k_shards": 1024,
+  "num_items": 1733,
+  "hash_backend": "md5"
+}

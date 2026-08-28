@@ -1,0 +1,61 @@
+grupo,nombre_app,institucion,sector,frecuencia,eventos_totales_grupo,tasa_por_1000_eventos
+A,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,440350,3648564,120.691
+A,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,294916,3648564,80.831
+A,PJUD,PODER JUDICIAL,Otros Poderes,192680,3648564,52.81
+A,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,188738,3648564,51.729
+A,undefined,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",Empresa Privada,172779,3648564,47.355
+A,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,160630,3648564,44.026
+A,Portal de Aplicaciones Sence,Servicio Nacional de Capacitacion y Empleo,Ministerio del Trabajo y Previsión Social,160288,3648564,43.932
+A,Portal Ciudadano ClaveÚnica,Secretaría de Gobierno Digital,Ministerio de Hacienda,148251,3648564,40.633
+A,Portal MiDT,Dirección del Trabajo,Ministerio del Trabajo y Previsión Social,119242,3648564,32.682
+A,undefined,Comisión para el Mercado Financiero,Ministerio de Hacienda,109507,3648564,30.014
+B,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,3008770,29105433,103.375
+B,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,2345263,29105433,80.578
+B,Portal de Aplicaciones Sence,Servicio Nacional de Capacitacion y Empleo,Ministerio del Trabajo y Previsión Social,2108210,29105433,72.434
+B,undefined,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",Empresa Privada,2091343,29105433,71.854
+B,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,1825699,29105433,62.727
+B,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,1814636,29105433,62.347
+B,PJUD,PODER JUDICIAL,Otros Poderes,1550316,29105433,53.266
+B,Portal MiDT,Dirección del Trabajo,Ministerio del Trabajo y Previsión Social,1214342,29105433,41.722
+B,miChileAtiende,Instituto de Previsión Social,Ministerio del Trabajo y Previsión Social,824618,29105433,28.332
+B,Milicenciamedica.cl,Subsecretaría de Salud Pública,Ministerio de Salud,811311,29105433,27.875
+C,PJUD,PODER JUDICIAL,Otros Poderes,8337174,77612465,107.421
+C,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,5284391,77612465,68.087
+C,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,5051938,77612465,65.092
+C,undefined,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",Empresa Privada,4820642,77612465,62.112
+C,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,4142703,77612465,53.377
+C,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,3562090,77612465,45.896
+C,undefined,Comisión para el Mercado Financiero,Ministerio de Hacienda,3490447,77612465,44.973
+C,miChileAtiende,Instituto de Previsión Social,Ministerio del Trabajo y Previsión Social,3447888,77612465,44.424
+C,Milicenciamedica.cl,Subsecretaría de Salud Pública,Ministerio de Salud,2838247,77612465,36.569
+C,Portal de Aplicaciones Sence,Servicio Nacional de Capacitacion y Empleo,Ministerio del Trabajo y Previsión Social,2816646,77612465,36.291
+D,PJUD,PODER JUDICIAL,Otros Poderes,11196235,84611669,132.325
+D,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,5438345,84611669,64.274
+D,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,4961503,84611669,58.639
+D,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,4301124,84611669,50.834
+D,undefined,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",Empresa Privada,4263644,84611669,50.391
+D,Mercado+Público,Dirección de Compras y Contratación Pública,Ministerio de Hacienda,3774907,84611669,44.614
+D,undefined,Comisión para el Mercado Financiero,Ministerio de Hacienda,3575508,84611669,42.258
+D,miChileAtiende,Instituto de Previsión Social,Ministerio del Trabajo y Previsión Social,3420376,84611669,40.424
+D,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,3225354,84611669,38.119
+D,Portal MiDT,Dirección del Trabajo,Ministerio del Trabajo y Previsión Social,2928587,84611669,34.612
+E,PJUD,PODER JUDICIAL,Otros Poderes,7599986,59906161,126.865
+E,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,4169225,59906161,69.596
+E,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,3622583,59906161,60.471
+E,Mercado+Público,Dirección de Compras y Contratación Pública,Ministerio de Hacienda,3597009,59906161,60.044
+E,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,3482186,59906161,58.127
+E,Portal MiDT,Dirección del Trabajo,Ministerio del Trabajo y Previsión Social,2622316,59906161,43.774
+E,undefined,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",Empresa Privada,2512980,59906161,41.949
+E,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,2105206,59906161,35.142
+E,undefined,Comisión para el Mercado Financiero,Ministerio de Hacienda,1873234,59906161,31.269
+E,Ingreso de causas y escritos,Corporación Administrativa del Poder Judicial,Otros Poderes,1622392,59906161,27.082
+F,PJUD,PODER JUDICIAL,Otros Poderes,3850494,36183056,106.417
+F,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,2427433,36183056,67.088
+F,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,2418469,36183056,66.84
+F,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,2408388,36183056,66.561
+F,Mercado+Público,Dirección de Compras y Contratación Pública,Ministerio de Hacienda,2092747,36183056,57.838
+F,Subsidio Eléctrico,Subsecretaría de Evaluación Social,Ministerio de Desarrollo Social y Familia,1657915,36183056,45.82
+F,Portal MiDT,Dirección del Trabajo,Ministerio del Trabajo y Previsión Social,1598068,36183056,44.166
+F,miChileAtiende,Instituto de Previsión Social,Ministerio del Trabajo y Previsión Social,1476326,36183056,40.802
+F,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,1092611,36183056,30.197
+F,Portal Ciudadano ClaveÚnica,Secretaría de Gobierno Digital,Ministerio de Hacienda,981610,36183056,27.129

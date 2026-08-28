@@ -1,0 +1,562 @@
+grupo_a,grupo_b,mes,co_uso,marginal_a,marginal_b,lift,p_valor
+AFC,Comisión para el Mercado Financiero,2024-01-01 00:00:00,105833,713956,376086,5.5501,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-02-01 00:00:00,115871,722018,495924,4.5567,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-03-01 00:00:00,111836,754426,506872,4.1182,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-04-01 00:00:00,109588,688906,509364,4.3976,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-05-01 00:00:00,168682,698369,574521,5.9199,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-06-01 00:00:00,173860,751522,571089,5.7042,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-07-01 00:00:00,182488,728620,675319,5.2223,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-08-01 00:00:00,156647,656695,645509,5.2035,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-09-01 00:00:00,234675,663785,710208,7.0096,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-10-01 00:00:00,234804,746834,723635,6.1179,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-11-01 00:00:00,234551,686073,703050,6.8473,0.000e+00
+AFC,Comisión para el Mercado Financiero,2024-12-01 00:00:00,204054,663292,631228,6.8627,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-01-01 00:00:00,208157,776056,692167,5.4566,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-02-01 00:00:00,185481,795539,660104,4.9735,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-03-01 00:00:00,193923,837022,733095,4.4501,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-04-01 00:00:00,178591,759420,725196,4.5663,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-05-01 00:00:00,186047,746155,711781,4.9327,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-06-01 00:00:00,194323,816088,753357,4.4507,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-07-01 00:00:00,202820,761025,817293,4.5917,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-08-01 00:00:00,213005,763278,834369,4.7096,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-09-01 00:00:00,135340,586945,747087,4.3461,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-10-01 00:00:00,112539,617163,823056,3.1197,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-11-01 00:00:00,93230,510396,786399,3.2707,0.000e+00
+AFC,Comisión para el Mercado Financiero,2025-12-01 00:00:00,79467,529210,611680,3.4568,0.000e+00
+AFC,FUAS-Mineduc (servicio),2024-01-01 00:00:00,2954,713956,26705,2.1816,0.000e+00
+AFC,FUAS-Mineduc (servicio),2024-02-01 00:00:00,8047,722018,65353,2.4014,0.000e+00
+AFC,FUAS-Mineduc (servicio),2024-03-01 00:00:00,9036,754426,76028,2.2183,0.000e+00
+AFC,FUAS-Mineduc (servicio),2024-04-01 00:00:00,2693,688906,21692,2.5376,0.000e+00
+AFC,FUAS-Mineduc (servicio),2024-05-01 00:00:00,2026,698369,17736,2.3032,1.609e-256
+AFC,FUAS-Mineduc (servicio),2024-06-01 00:00:00,1655,751522,12989,2.3874,2.542e-227
+AFC,FUAS-Mineduc (servicio),2024-07-01 00:00:00,1392,728620,10238,2.6276,2.015e-229
+AFC,FUAS-Mineduc (servicio),2024-08-01 00:00:00,1617,656695,13703,2.5303,2.345e-246
+AFC,FUAS-Mineduc (servicio),2024-09-01 00:00:00,1854,663785,14787,2.6597,1.999e-309
+AFC,FUAS-Mineduc (servicio),2024-10-01 00:00:00,21605,746834,227832,1.7879,0.000e+00
+AFC,FUAS-Mineduc (servicio),2024-11-01 00:00:00,4168,686073,37894,2.2575,0.000e+00
+AFC,FUAS-Mineduc (servicio),2024-12-01 00:00:00,4093,663292,40966,2.1211,0.000e+00
+AFC,FUAS-Mineduc (servicio),2025-01-01 00:00:00,4681,776056,40972,2.0730,0.000e+00
+AFC,FUAS-Mineduc (servicio),2025-02-01 00:00:00,10289,795539,81618,2.2313,0.000e+00
+AFC,FUAS-Mineduc (servicio),2025-03-01 00:00:00,12159,837022,100265,2.0401,0.000e+00
+AFC,FUAS-Mineduc (servicio),2025-04-01 00:00:00,2128,759420,15828,2.4929,0.000e+00
+AFC,FUAS-Mineduc (servicio),2025-05-01 00:00:00,2513,746155,22393,2.1178,2.113e-264
+AFC,FUAS-Mineduc (servicio),2025-06-01 00:00:00,1998,816088,16214,2.1262,4.619e-214
+AFC,FUAS-Mineduc (servicio),2025-07-01 00:00:00,1797,761025,14303,2.3247,9.945e-234
+AFC,FUAS-Mineduc (servicio),2025-08-01 00:00:00,2008,763278,15961,2.3209,4.019e-260
+AFC,FUAS-Mineduc (servicio),2025-09-01 00:00:00,1875,586945,16133,2.7882,0.000e+00
+AFC,FUAS-Mineduc (servicio),2025-10-01 00:00:00,17867,617163,238783,1.7072,0.000e+00
+AFC,FUAS-Mineduc (servicio),2025-11-01 00:00:00,2961,510396,39506,2.0678,2.742e-287
+AFC,FUAS-Mineduc (servicio),2025-12-01 00:00:00,2145,529210,30986,1.8419,3.833e-153
+AFC,Ministerio Público,2024-01-01 00:00:00,5421,713956,64709,1.6523,2.977e-273
+AFC,Ministerio Público,2024-02-01 00:00:00,5018,722018,60014,1.6307,4.181e-241
+AFC,Ministerio Público,2024-03-01 00:00:00,5496,754426,66923,1.5328,4.590e-206
+AFC,Ministerio Público,2024-04-01 00:00:00,5443,688906,70591,1.5760,3.515e-228
+AFC,Ministerio Público,2024-05-01 00:00:00,5488,698369,68834,1.6076,4.405e-249
+AFC,Ministerio Público,2024-06-01 00:00:00,6181,751522,70543,1.6417,4.046e-305
+AFC,Ministerio Público,2024-07-01 00:00:00,7112,728620,82960,1.6568,0.000e+00
+AFC,Ministerio Público,2024-08-01 00:00:00,5913,656695,77400,1.6381,2.608e-287
+AFC,Ministerio Público,2024-09-01 00:00:00,6079,663785,75039,1.7185,0.000e+00
+AFC,Ministerio Público,2024-10-01 00:00:00,8066,746834,89579,1.6977,0.000e+00
+AFC,Ministerio Público,2024-11-01 00:00:00,7833,686073,92913,1.7303,0.000e+00
+AFC,Ministerio Público,2024-12-01 00:00:00,7201,663292,88554,1.7263,0.000e+00
+AFC,Ministerio Público,2025-01-01 00:00:00,8888,776056,100324,1.6075,0.000e+00
+AFC,Ministerio Público,2025-02-01 00:00:00,8459,795539,93970,1.5933,0.000e+00
+AFC,Ministerio Público,2025-03-01 00:00:00,10477,837022,111780,1.5768,0.000e+00
+AFC,Ministerio Público,2025-04-01 00:00:00,9778,759420,117995,1.5365,0.000e+00
+AFC,Ministerio Público,2025-05-01 00:00:00,10171,746155,119993,1.5996,0.000e+00
+AFC,Ministerio Público,2025-06-01 00:00:00,10542,816088,119182,1.5262,0.000e+00
+AFC,Ministerio Público,2025-07-01 00:00:00,11129,761025,133259,1.5453,0.000e+00
+AFC,Ministerio Público,2025-08-01 00:00:00,10995,763278,128249,1.5816,0.000e+00
+AFC,Ministerio Público,2025-09-01 00:00:00,8203,586945,123952,1.5877,0.000e+00
+AFC,Ministerio Público,2025-10-01 00:00:00,8430,617163,139137,1.3824,2.854e-186
+AFC,Ministerio Público,2025-11-01 00:00:00,6781,510396,133803,1.3982,7.413e-159
+AFC,Ministerio Público,2025-12-01 00:00:00,7028,529210,132199,1.4145,1.119e-175
+AFC,Poder Judicial,2024-01-01 00:00:00,59461,713956,580896,2.0188,0.000e+00
+AFC,Poder Judicial,2024-02-01 00:00:00,57022,722018,540982,2.0557,0.000e+00
+AFC,Poder Judicial,2024-03-01 00:00:00,60018,754426,578682,1.9358,0.000e+00
+AFC,Poder Judicial,2024-04-01 00:00:00,57221,688906,599961,1.9494,0.000e+00
+AFC,Poder Judicial,2024-05-01 00:00:00,57258,698369,590494,1.9551,0.000e+00
+AFC,Poder Judicial,2024-06-01 00:00:00,59673,751522,567891,1.9688,0.000e+00
+AFC,Poder Judicial,2024-07-01 00:00:00,63928,728620,630806,1.9585,0.000e+00
+AFC,Poder Judicial,2024-08-01 00:00:00,55857,656695,601778,1.9903,0.000e+00
+AFC,Poder Judicial,2024-09-01 00:00:00,54585,663785,561293,2.0630,0.000e+00
+AFC,Poder Judicial,2024-10-01 00:00:00,67273,746834,630231,2.0126,0.000e+00
+AFC,Poder Judicial,2024-11-01 00:00:00,59524,686073,605989,2.0160,0.000e+00
+AFC,Poder Judicial,2024-12-01 00:00:00,55006,663292,570334,2.0475,0.000e+00
+AFC,Poder Judicial,2025-01-01 00:00:00,68894,776056,625405,1.9988,0.000e+00
+AFC,Poder Judicial,2025-02-01 00:00:00,64379,795539,570029,1.9991,0.000e+00
+AFC,Poder Judicial,2025-03-01 00:00:00,73022,837022,649704,1.8908,0.000e+00
+AFC,Poder Judicial,2025-04-01 00:00:00,66814,759420,638313,1.9408,0.000e+00
+AFC,Poder Judicial,2025-05-01 00:00:00,66450,746155,638278,1.9647,0.000e+00
+AFC,Poder Judicial,2025-06-01 00:00:00,71395,816088,637982,1.9309,0.000e+00
+AFC,Poder Judicial,2025-07-01 00:00:00,74016,761025,687319,1.9925,0.000e+00
+AFC,Poder Judicial,2025-08-01 00:00:00,76318,763278,700271,2.0106,0.000e+00
+AFC,Poder Judicial,2025-09-01 00:00:00,55010,586945,635618,2.0763,0.000e+00
+AFC,Poder Judicial,2025-10-01 00:00:00,57463,617163,670163,1.9563,0.000e+00
+AFC,Poder Judicial,2025-11-01 00:00:00,49382,510396,682926,1.9949,0.000e+00
+AFC,Poder Judicial,2025-12-01 00:00:00,46651,529210,629314,1.9724,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-01-01 00:00:00,106612,713956,913106,2.3028,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-02-01 00:00:00,87026,722018,712789,2.3811,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-03-01 00:00:00,109698,754426,951747,2.1513,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-04-01 00:00:00,92642,688906,841698,2.2497,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-05-01 00:00:00,89372,698369,772454,2.3328,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-06-01 00:00:00,104638,751522,919548,2.1321,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-07-01 00:00:00,149826,728620,1660252,1.7440,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-08-01 00:00:00,90691,656695,870299,2.2344,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-09-01 00:00:00,78705,663785,762743,2.1889,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-10-01 00:00:00,118443,746834,1171076,1.9069,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-11-01 00:00:00,78664,686073,781067,2.0671,0.000e+00
+AFC,Registro Social de Hogares (servicio),2024-12-01 00:00:00,70552,663292,740330,2.0231,0.000e+00
+AFC,Registro Social de Hogares (servicio),2025-01-01 00:00:00,130164,776056,1124324,2.1006,0.000e+00
+AFC,Registro Social de Hogares (servicio),2025-02-01 00:00:00,95761,795539,780772,2.1709,0.000e+00
+AFC,Registro Social de Hogares (servicio),2025-03-01 00:00:00,136275,837022,1169564,1.9602,0.000e+00
+AFC,Registro Social de Hogares (servicio),2025-04-01 00:00:00,94820,759420,845320,2.0799,0.000e+00
+AFC,Registro Social de Hogares (servicio),2025-05-01 00:00:00,58954,746155,515233,2.1593,0.000e+00
+AFC,Registro Social de Hogares (servicio),2025-06-01 00:00:00,5004,816088,36669,2.3546,0.000e+00
+AFC,Registro Social de Hogares (servicio),2025-07-01 00:00:00,100,761025,906,2.0423,2.322e-11
+AFC,Registro Social de Hogares (servicio),2025-08-01 00:00:00,97,763278,984,1.8186,1.809e-08
+AFC,Registro Social de Hogares (servicio),2025-09-01 00:00:00,43,586945,493,2.0925,6.005e-06
+AFC,Registro Social de Hogares (servicio),2025-10-01 00:00:00,37,617163,605,1.3954,2.818e-02
+AFC,Registro Social de Hogares (servicio),2025-11-01 00:00:00,19,510396,325,1.6129,2.953e-02
+AFC,Registro Social de Hogares (servicio),2025-12-01 00:00:00,17,529210,256,1.7669,1.769e-02
+AFC,Servicio de Impuestos Internos,2024-01-01 00:00:00,136798,713956,610351,4.4205,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-02-01 00:00:00,124687,722018,598071,4.0659,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-03-01 00:00:00,180173,754426,1079102,3.1164,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-04-01 00:00:00,305871,688906,2810904,2.2242,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-05-01 00:00:00,210395,698369,1113608,3.8094,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-06-01 00:00:00,172281,751522,724173,4.4575,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-07-01 00:00:00,162093,728620,712705,4.3953,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-08-01 00:00:00,138378,656695,650704,4.5599,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-09-01 00:00:00,196888,663785,677485,6.1650,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-10-01 00:00:00,206450,746834,751843,5.1773,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-11-01 00:00:00,211989,686073,717466,6.0643,0.000e+00
+AFC,Servicio de Impuestos Internos,2024-12-01 00:00:00,197779,663292,703714,5.9665,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-01-01 00:00:00,207439,776056,774841,4.8576,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-02-01 00:00:00,175759,795539,650884,4.7796,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-03-01 00:00:00,248227,837022,1150097,3.6309,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-04-01 00:00:00,378345,759420,3024967,2.3191,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-05-01 00:00:00,223854,746155,1190130,3.5496,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-06-01 00:00:00,182165,816088,738241,4.2576,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-07-01 00:00:00,185642,761025,736072,4.6665,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-08-01 00:00:00,189130,763278,703947,4.9565,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-09-01 00:00:00,110972,586945,691177,3.8518,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-10-01 00:00:00,67534,617163,714203,2.1574,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-11-01 00:00:00,79114,510396,1019077,2.1418,0.000e+00
+AFC,Servicio de Impuestos Internos,2025-12-01 00:00:00,58619,529210,734340,2.1240,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-05-01 00:00:00,62868,746155,524778,2.2608,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-06-01 00:00:00,121120,816088,1004369,2.0808,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-07-01 00:00:00,134880,761025,1305667,1.9114,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-08-01 00:00:00,105864,763278,908948,2.1486,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-09-01 00:00:00,69047,586945,758157,2.1849,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-10-01 00:00:00,89220,617163,1017871,1.9999,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-11-01 00:00:00,60128,510396,811190,2.0450,0.000e+00
+AFC,Ventanilla Única Social (servicio),2025-12-01 00:00:00,73131,529210,958782,2.0295,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-01-01 00:00:00,1352,376086,26705,1.8956,3.872e-104
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-02-01 00:00:00,5189,495924,65353,2.2545,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-03-01 00:00:00,5543,506872,76028,2.0254,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-04-01 00:00:00,1971,509364,21692,2.5119,2.973e-291
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-05-01 00:00:00,1591,574521,17736,2.1986,3.403e-180
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-06-01 00:00:00,1161,571089,12989,2.2039,1.072e-132
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-07-01 00:00:00,1061,675319,10238,2.1609,2.344e-117
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-08-01 00:00:00,1326,645509,13703,2.1109,5.437e-138
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-09-01 00:00:00,1753,710208,14787,2.3505,4.012e-232
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-10-01 00:00:00,19004,723635,227832,1.6231,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-11-01 00:00:00,4033,703050,37894,2.1316,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-12-01 00:00:00,3615,631228,40966,1.9685,1.918e-312
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-01-01 00:00:00,3626,692167,40972,1.8004,5.495e-244
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-02-01 00:00:00,7847,660104,81618,2.0509,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-03-01 00:00:00,9301,733095,100265,1.7818,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-04-01 00:00:00,1788,725196,15828,2.1934,3.282e-204
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-05-01 00:00:00,2153,711781,22393,1.9021,2.367e-171
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-06-01 00:00:00,1575,753357,16214,1.8156,2.036e-110
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-07-01 00:00:00,1612,817293,14303,1.9418,1.145e-137
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-08-01 00:00:00,1823,834369,15961,1.9276,1.367e-152
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-09-01 00:00:00,2016,747087,16133,2.3553,8.212e-269
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-10-01 00:00:00,20712,823056,238783,1.4840,0.000e+00
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-11-01 00:00:00,4080,786399,39506,1.8492,5.169e-300
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-12-01 00:00:00,2393,611680,30986,1.7778,2.760e-154
+Comisión para el Mercado Financiero,Ministerio Público,2024-01-01 00:00:00,5713,376086,64709,3.3056,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-02-01 00:00:00,6515,495924,60014,3.0824,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-03-01 00:00:00,7842,506872,66923,3.2553,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-04-01 00:00:00,7836,509364,70591,3.0687,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-05-01 00:00:00,8449,574521,68834,3.0084,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-06-01 00:00:00,8556,571089,70543,2.9906,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-07-01 00:00:00,11354,675319,82960,2.8537,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-08-01 00:00:00,10364,645509,77400,2.9209,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-09-01 00:00:00,10386,710208,75039,2.7442,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-10-01 00:00:00,12631,723635,89579,2.7438,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-11-01 00:00:00,12813,703050,92913,2.7620,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2024-12-01 00:00:00,11111,631228,88554,2.7990,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-01-01 00:00:00,13476,692167,100324,2.7326,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-02-01 00:00:00,11944,660104,93970,2.7114,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-03-01 00:00:00,15534,733095,111780,2.6693,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-04-01 00:00:00,15865,725196,117995,2.6107,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-05-01 00:00:00,16022,711781,119993,2.6415,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-06-01 00:00:00,16338,753357,119182,2.5623,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-07-01 00:00:00,19437,817293,133259,2.5130,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-08-01 00:00:00,19094,834369,128249,2.5126,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-09-01 00:00:00,17141,747087,123952,2.6065,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-10-01 00:00:00,20112,823056,139137,2.4730,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-11-01 00:00:00,18411,786399,133803,2.4638,0.000e+00
+Comisión para el Mercado Financiero,Ministerio Público,2025-12-01 00:00:00,14184,611680,132199,2.4699,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-01-01 00:00:00,47216,376086,580896,3.0433,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-02-01 00:00:00,60377,495924,540982,3.1689,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-03-01 00:00:00,64098,506872,578682,3.0771,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-04-01 00:00:00,67109,509364,599961,3.0922,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-05-01 00:00:00,71851,574521,590494,2.9823,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-06-01 00:00:00,68174,571089,567891,2.9600,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-07-01 00:00:00,86818,675319,630806,2.8697,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-08-01 00:00:00,80236,645509,601778,2.9085,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-09-01 00:00:00,80674,710208,561293,2.8497,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-10-01 00:00:00,91545,723635,630231,2.8265,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-11-01 00:00:00,86424,703050,605989,2.8564,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2024-12-01 00:00:00,75473,631228,570334,2.9520,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-01-01 00:00:00,89606,692167,625405,2.9148,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-02-01 00:00:00,78340,660104,570029,2.9317,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-03-01 00:00:00,96760,733095,649704,2.8606,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-04-01 00:00:00,96481,725196,638313,2.9349,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-05-01 00:00:00,94473,711781,638278,2.9281,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-06-01 00:00:00,98253,753357,637982,2.8786,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-07-01 00:00:00,114313,817293,687319,2.8655,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-08-01 00:00:00,121766,834369,700271,2.9345,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-09-01 00:00:00,99374,747087,635618,2.9468,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-10-01 00:00:00,110202,823056,670163,2.8133,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-11-01 00:00:00,111894,786399,682926,2.9338,0.000e+00
+Comisión para el Mercado Financiero,Poder Judicial,2025-12-01 00:00:00,79841,611680,629314,2.9206,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-01-01 00:00:00,57377,376086,913106,2.3527,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-02-01 00:00:00,60563,495924,712789,2.4125,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-03-01 00:00:00,74469,506872,951747,2.1737,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-04-01 00:00:00,70425,509364,841698,2.3130,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-05-01 00:00:00,72712,574521,772454,2.3071,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-06-01 00:00:00,80826,571089,919548,2.1673,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-07-01 00:00:00,142809,675319,1660252,1.7935,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-08-01 00:00:00,86549,645509,870299,2.1694,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-09-01 00:00:00,81808,710208,762743,2.1265,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-10-01 00:00:00,115944,723635,1171076,1.9266,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-11-01 00:00:00,81689,703050,781067,2.0947,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-12-01 00:00:00,69522,631228,740330,2.0948,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-01-01 00:00:00,116629,692167,1124324,2.1103,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-02-01 00:00:00,82688,660104,780772,2.2591,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-03-01 00:00:00,122769,733095,1169564,2.0162,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-04-01 00:00:00,93124,725196,845320,2.1391,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-05-01 00:00:00,57677,711781,515233,2.2146,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-06-01 00:00:00,4976,753357,36669,2.5364,0.000e+00
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-07-01 00:00:00,134,817293,906,2.5482,8.643e-23
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-08-01 00:00:00,146,834369,984,2.5040,5.799e-24
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-09-01 00:00:00,60,747087,493,2.2939,2.976e-09
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-10-01 00:00:00,91,823056,605,2.5733,2.670e-16
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-11-01 00:00:00,35,786399,325,1.9283,1.802e-04
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-12-01 00:00:00,29,611680,256,2.6078,2.990e-06
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-01-01 00:00:00,102220,376086,610351,6.2706,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-02-01 00:00:00,109634,495924,598071,5.2049,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-03-01 00:00:00,153743,506872,1079102,3.9580,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-04-01 00:00:00,258490,509364,2810904,2.5422,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-05-01 00:00:00,195230,574521,1113608,4.2968,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-06-01 00:00:00,162571,571089,724173,5.5352,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-07-01 00:00:00,171630,675319,712705,5.0213,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-08-01 00:00:00,144651,645509,650704,4.8492,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-09-01 00:00:00,213067,710208,677485,6.2355,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-10-01 00:00:00,218492,723635,751843,5.6549,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-11-01 00:00:00,218844,703050,717466,6.1092,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-12-01 00:00:00,196605,631228,703714,6.2323,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-01-01 00:00:00,206388,692167,774841,5.4188,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-02-01 00:00:00,168556,660104,650884,5.5242,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-03-01 00:00:00,241463,733095,1150097,4.0327,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-04-01 00:00:00,383405,725196,3024967,2.4610,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-05-01 00:00:00,221520,711781,1190130,3.6822,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-06-01 00:00:00,173542,753357,738241,4.3938,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-07-01 00:00:00,191795,817293,736072,4.4893,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-08-01 00:00:00,200386,834369,703947,4.8041,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-09-01 00:00:00,174315,747087,691177,4.7535,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-10-01 00:00:00,182329,823056,714203,4.3676,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-11-01 00:00:00,212761,786399,1019077,3.7384,0.000e+00
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-12-01 00:00:00,145086,611680,734340,4.5482,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-05-01 00:00:00,62693,711781,524778,2.3634,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-06-01 00:00:00,115986,753357,1004369,2.1585,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-07-01 00:00:00,149103,817293,1305667,1.9675,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-08-01 00:00:00,117458,834369,908948,2.1808,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-09-01 00:00:00,87488,747087,758157,2.1750,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-10-01 00:00:00,117926,823056,1017871,1.9821,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-11-01 00:00:00,92832,786399,811190,2.0491,0.000e+00
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-12-01 00:00:00,87285,611680,958782,2.0957,0.000e+00
+FUAS-Mineduc (servicio),Ministerio Público,2024-01-01 00:00:00,200,26705,64709,1.6297,8.413e-11
+FUAS-Mineduc (servicio),Ministerio Público,2024-02-01 00:00:00,495,65353,60014,1.7772,4.759e-32
+FUAS-Mineduc (servicio),Ministerio Público,2024-03-01 00:00:00,598,76028,66923,1.6550,1.630e-30
+FUAS-Mineduc (servicio),Ministerio Público,2024-04-01 00:00:00,206,21692,70591,1.8943,5.264e-17
+FUAS-Mineduc (servicio),Ministerio Público,2024-05-01 00:00:00,179,17736,68834,2.0646,2.270e-18
+FUAS-Mineduc (servicio),Ministerio Público,2024-06-01 00:00:00,120,12989,70543,1.8441,6.191e-10
+FUAS-Mineduc (servicio),Ministerio Público,2024-07-01 00:00:00,118,10238,82960,1.9563,2.817e-11
+FUAS-Mineduc (servicio),Ministerio Público,2024-08-01 00:00:00,157,13703,77400,2.0844,1.120e-16
+FUAS-Mineduc (servicio),Ministerio Público,2024-09-01 00:00:00,177,14787,75039,2.2462,1.001e-21
+FUAS-Mineduc (servicio),Ministerio Público,2024-10-01 00:00:00,2120,227832,89579,1.4627,1.011e-62
+FUAS-Mineduc (servicio),Ministerio Público,2024-11-01 00:00:00,466,37894,92913,1.8637,1.031e-34
+FUAS-Mineduc (servicio),Ministerio Público,2024-12-01 00:00:00,408,40966,88554,1.5837,2.445e-18
+FUAS-Mineduc (servicio),Ministerio Público,2025-01-01 00:00:00,452,40972,100324,1.5484,1.668e-18
+FUAS-Mineduc (servicio),Ministerio Público,2025-02-01 00:00:00,836,81618,93970,1.5349,1.363e-31
+FUAS-Mineduc (servicio),Ministerio Público,2025-03-01 00:00:00,1215,100265,111780,1.5265,3.885e-44
+FUAS-Mineduc (servicio),Ministerio Público,2025-04-01 00:00:00,242,15828,117995,1.8246,7.187e-18
+FUAS-Mineduc (servicio),Ministerio Público,2025-05-01 00:00:00,320,22393,119993,1.6770,6.270e-18
+FUAS-Mineduc (servicio),Ministerio Público,2025-06-01 00:00:00,210,16214,119182,1.5302,4.074e-09
+FUAS-Mineduc (servicio),Ministerio Público,2025-07-01 00:00:00,239,14303,133259,1.7657,3.845e-16
+FUAS-Mineduc (servicio),Ministerio Público,2025-08-01 00:00:00,239,15961,128249,1.6441,5.406e-13
+FUAS-Mineduc (servicio),Ministerio Público,2025-09-01 00:00:00,306,16133,123952,2.1547,2.592e-33
+FUAS-Mineduc (servicio),Ministerio Público,2025-10-01 00:00:00,3106,238783,139137,1.3164,2.839e-50
+FUAS-Mineduc (servicio),Ministerio Público,2025-11-01 00:00:00,585,39506,133803,1.5584,4.593e-24
+FUAS-Mineduc (servicio),Ministerio Público,2025-12-01 00:00:00,441,30986,132199,1.5159,1.112e-16
+FUAS-Mineduc (servicio),Poder Judicial,2024-01-01 00:00:00,2168,26705,580896,1.9679,5.122e-187
+FUAS-Mineduc (servicio),Poder Judicial,2024-02-01 00:00:00,5006,65353,540982,1.9938,0.000e+00
+FUAS-Mineduc (servicio),Poder Judicial,2024-03-01 00:00:00,5696,76028,578682,1.8230,0.000e+00
+FUAS-Mineduc (servicio),Poder Judicial,2024-04-01 00:00:00,1924,21692,599961,2.0817,6.187e-192
+FUAS-Mineduc (servicio),Poder Judicial,2024-05-01 00:00:00,1359,17736,590494,1.8272,5.773e-96
+FUAS-Mineduc (servicio),Poder Judicial,2024-06-01 00:00:00,1005,12989,567891,1.9185,6.679e-82
+FUAS-Mineduc (servicio),Poder Judicial,2024-07-01 00:00:00,960,10238,630806,2.0931,2.475e-98
+FUAS-Mineduc (servicio),Poder Judicial,2024-08-01 00:00:00,1152,13703,601778,1.9672,2.202e-100
+FUAS-Mineduc (servicio),Poder Judicial,2024-09-01 00:00:00,1271,14787,561293,2.1563,5.804e-138
+FUAS-Mineduc (servicio),Poder Judicial,2024-10-01 00:00:00,16707,227832,630231,1.6384,0.000e+00
+FUAS-Mineduc (servicio),Poder Judicial,2024-11-01 00:00:00,3163,37894,605989,1.9396,2.833e-262
+FUAS-Mineduc (servicio),Poder Judicial,2024-12-01 00:00:00,2894,40966,570334,1.7442,1.639e-174
+FUAS-Mineduc (servicio),Poder Judicial,2025-01-01 00:00:00,3236,40972,625405,1.7783,1.938e-208
+FUAS-Mineduc (servicio),Poder Judicial,2025-02-01 00:00:00,6083,81618,570029,1.8411,0.000e+00
+FUAS-Mineduc (servicio),Poder Judicial,2025-03-01 00:00:00,7746,100265,649704,1.6744,0.000e+00
+FUAS-Mineduc (servicio),Poder Judicial,2025-04-01 00:00:00,1465,15828,638313,2.0418,2.555e-140
+FUAS-Mineduc (servicio),Poder Judicial,2025-05-01 00:00:00,1844,22393,638278,1.8167,7.957e-128
+FUAS-Mineduc (servicio),Poder Judicial,2025-06-01 00:00:00,1353,16214,637982,1.8418,3.118e-98
+FUAS-Mineduc (servicio),Poder Judicial,2025-07-01 00:00:00,1265,14303,687319,1.8119,5.214e-88
+FUAS-Mineduc (servicio),Poder Judicial,2025-08-01 00:00:00,1518,15961,700271,1.9124,4.142e-123
+FUAS-Mineduc (servicio),Poder Judicial,2025-09-01 00:00:00,1554,16133,635618,2.1339,2.138e-165
+FUAS-Mineduc (servicio),Poder Judicial,2025-10-01 00:00:00,17547,238783,670163,1.5440,0.000e+00
+FUAS-Mineduc (servicio),Poder Judicial,2025-11-01 00:00:00,3379,39506,682926,1.7636,5.860e-213
+FUAS-Mineduc (servicio),Poder Judicial,2025-12-01 00:00:00,2332,30986,629314,1.6840,7.406e-126
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-01-01 00:00:00,11134,26705,913106,6.4295,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-02-01 00:00:00,21552,65353,712789,6.5148,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-03-01 00:00:00,26969,76028,951747,5.2482,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-04-01 00:00:00,7515,21692,841698,5.7958,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-05-01 00:00:00,5771,17736,772454,5.9315,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-06-01 00:00:00,4671,12989,919548,5.5068,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-07-01 00:00:00,3790,10238,1660252,3.1397,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-08-01 00:00:00,5166,13703,870299,6.0997,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-09-01 00:00:00,5422,14787,762743,6.7692,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-10-01 00:00:00,85234,227832,1171076,4.4983,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-11-01 00:00:00,10636,37894,781067,5.0601,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-12-01 00:00:00,11544,40966,740330,5.3598,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-01-01 00:00:00,16392,40972,1124324,5.0106,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-02-01 00:00:00,27122,81618,780772,5.9931,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-03-01 00:00:00,36449,100265,1169564,4.3767,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-04-01 00:00:00,5759,15828,845320,6.0609,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-05-01 00:00:00,4731,22393,515233,5.7740,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-06-01 00:00:00,508,16214,36669,12.0313,0.000e+00
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-07-01 00:00:00,2,14303,906,2.1733,2.349e-01
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-08-01 00:00:00,6,15961,984,5.3794,1.027e-03
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-09-01 00:00:00,4,16133,493,7.0817,2.687e-03
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-10-01 00:00:00,45,238783,605,4.3862,4.314e-16
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-11-01 00:00:00,5,39506,325,5.4836,2.428e-03
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-12-01 00:00:00,4,30986,256,7.1006,2.640e-03
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-01-01 00:00:00,3349,26705,610351,2.8932,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-02-01 00:00:00,6354,65353,598071,2.2891,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-03-01 00:00:00,12506,76028,1079102,2.1465,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-04-01 00:00:00,7095,21692,2810904,1.6385,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-05-01 00:00:00,2816,17736,1113608,2.0076,7.073e-269
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-06-01 00:00:00,2345,12989,724173,3.5105,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-07-01 00:00:00,1092,10238,712705,2.1073,2.727e-114
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-08-01 00:00:00,1775,13703,650704,2.8031,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-09-01 00:00:00,1582,14787,677485,2.2236,1.223e-185
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-10-01 00:00:00,20988,227832,751843,1.7253,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-11-01 00:00:00,3984,37894,717466,2.0634,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-12-01 00:00:00,3984,40966,703714,1.9460,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-01-01 00:00:00,5894,40972,774841,2.6143,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-02-01 00:00:00,8017,81618,650884,2.1250,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-03-01 00:00:00,16710,100265,1150097,2.0405,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-04-01 00:00:00,5426,15828,3024967,1.5958,1.892e-300
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-05-01 00:00:00,3745,22393,1190130,1.9787,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-06-01 00:00:00,3004,16214,738241,3.5339,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-07-01 00:00:00,1436,14303,736072,1.9206,2.411e-118
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-08-01 00:00:00,2431,15961,703947,3.0467,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-09-01 00:00:00,1600,16133,691177,2.0205,7.942e-150
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-10-01 00:00:00,19784,238783,714203,1.6335,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-11-01 00:00:00,5974,39506,1019077,2.0895,0.000e+00
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-12-01 00:00:00,3593,30986,734340,2.2235,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-05-01 00:00:00,4960,22393,524778,5.9434,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-06-01 00:00:00,6192,16214,1004369,5.3541,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-07-01 00:00:00,5436,14303,1305667,4.0988,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-08-01 00:00:00,5987,15961,908948,5.8110,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-09-01 00:00:00,4794,16133,758157,5.5190,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-10-01 00:00:00,81228,238783,1017871,4.7060,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-11-01 00:00:00,8893,39506,811190,3.9075,0.000e+00
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-12-01 00:00:00,8977,30986,958782,4.2549,0.000e+00
+Ministerio Público,Poder Judicial,2024-01-01 00:00:00,25518,64709,580896,9.5592,0.000e+00
+Ministerio Público,Poder Judicial,2024-02-01 00:00:00,22732,60014,540982,9.8592,0.000e+00
+Ministerio Público,Poder Judicial,2024-03-01 00:00:00,25498,66923,578682,9.2711,0.000e+00
+Ministerio Público,Poder Judicial,2024-04-01 00:00:00,27674,70591,599961,9.2011,0.000e+00
+Ministerio Público,Poder Judicial,2024-05-01 00:00:00,26330,68834,590494,9.1216,0.000e+00
+Ministerio Público,Poder Judicial,2024-06-01 00:00:00,25831,70543,567891,9.0795,0.000e+00
+Ministerio Público,Poder Judicial,2024-07-01 00:00:00,30385,82960,630806,8.1759,0.000e+00
+Ministerio Público,Poder Judicial,2024-08-01 00:00:00,28770,77400,601778,8.6976,0.000e+00
+Ministerio Público,Poder Judicial,2024-09-01 00:00:00,26862,75039,561293,8.9805,0.000e+00
+Ministerio Público,Poder Judicial,2024-10-01 00:00:00,33551,89579,630231,8.3683,0.000e+00
+Ministerio Público,Poder Judicial,2024-11-01 00:00:00,34833,92913,605989,8.7114,0.000e+00
+Ministerio Público,Poder Judicial,2024-12-01 00:00:00,32025,88554,570334,8.9287,0.000e+00
+Ministerio Público,Poder Judicial,2025-01-01 00:00:00,36237,100324,625405,8.1325,0.000e+00
+Ministerio Público,Poder Judicial,2025-02-01 00:00:00,32286,93970,570029,8.4872,0.000e+00
+Ministerio Público,Poder Judicial,2025-03-01 00:00:00,39451,111780,649704,7.6492,0.000e+00
+Ministerio Público,Poder Judicial,2025-04-01 00:00:00,41118,117995,638313,7.6873,0.000e+00
+Ministerio Público,Poder Judicial,2025-05-01 00:00:00,41343,119993,638278,7.6011,0.000e+00
+Ministerio Público,Poder Judicial,2025-06-01 00:00:00,41019,119182,637982,7.5963,0.000e+00
+Ministerio Público,Poder Judicial,2025-07-01 00:00:00,47300,133259,687319,7.2718,0.000e+00
+Ministerio Público,Poder Judicial,2025-08-01 00:00:00,45901,128249,700271,7.1968,0.000e+00
+Ministerio Público,Poder Judicial,2025-09-01 00:00:00,42890,123952,635618,7.6656,0.000e+00
+Ministerio Público,Poder Judicial,2025-10-01 00:00:00,48829,139137,670163,7.3738,0.000e+00
+Ministerio Público,Poder Judicial,2025-11-01 00:00:00,47417,133803,682926,7.3069,0.000e+00
+Ministerio Público,Poder Judicial,2025-12-01 00:00:00,44316,132199,629314,7.5007,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-01-01 00:00:00,7081,64709,913106,1.6875,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-02-01 00:00:00,5394,60014,712789,1.7756,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-03-01 00:00:00,7491,66923,951747,1.6561,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-04-01 00:00:00,7262,70591,841698,1.7210,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-05-01 00:00:00,6645,68834,772454,1.7598,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-06-01 00:00:00,7540,70543,919548,1.6367,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-07-01 00:00:00,13087,82960,1660252,1.3379,2.986e-256
+Ministerio Público,Registro Social de Hogares (servicio),2024-08-01 00:00:00,7772,77400,870299,1.6247,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-09-01 00:00:00,6535,75039,762743,1.6078,3.766e-298
+Ministerio Público,Registro Social de Hogares (servicio),2024-10-01 00:00:00,11062,89579,1171076,1.4848,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-11-01 00:00:00,8182,92913,781067,1.5876,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2024-12-01 00:00:00,7367,88554,740330,1.5823,6.533e-315
+Ministerio Público,Registro Social de Hogares (servicio),2025-01-01 00:00:00,12116,100324,1124324,1.5125,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2025-02-01 00:00:00,8580,93970,780772,1.6467,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2025-03-01 00:00:00,14084,111780,1169564,1.5170,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2025-04-01 00:00:00,11232,117995,845320,1.5857,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2025-05-01 00:00:00,7242,119993,515233,1.6494,0.000e+00
+Ministerio Público,Registro Social de Hogares (servicio),2025-06-01 00:00:00,602,119182,36669,1.9397,2.011e-49
+Ministerio Público,Registro Social de Hogares (servicio),2025-07-01 00:00:00,14,133259,906,1.6328,5.353e-02
+Ministerio Público,Registro Social de Hogares (servicio),2025-08-01 00:00:00,12,128249,984,1.3390,1.924e-01
+Ministerio Público,Registro Social de Hogares (servicio),2025-09-01 00:00:00,14,123952,493,3.2260,1.602e-04
+Ministerio Público,Registro Social de Hogares (servicio),2025-10-01 00:00:00,11,139137,605,1.8401,4.091e-02
+Ministerio Público,Registro Social de Hogares (servicio),2025-11-01 00:00:00,5,133803,325,1.6190,1.990e-01
+Ministerio Público,Registro Social de Hogares (servicio),2025-12-01 00:00:00,4,132199,256,1.6643,2.214e-01
+Ministerio Público,Servicio de Impuestos Internos,2024-01-01 00:00:00,6647,64709,610351,2.3698,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-02-01 00:00:00,6037,60014,598071,2.3684,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-03-01 00:00:00,11639,66923,1079102,2.2694,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-04-01 00:00:00,28829,70591,2810904,2.0458,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-05-01 00:00:00,11792,68834,1113608,2.1662,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-06-01 00:00:00,7958,70543,724173,2.1935,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-07-01 00:00:00,9315,82960,712705,2.2184,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-08-01 00:00:00,8149,77400,650704,2.2783,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-09-01 00:00:00,8167,75039,677485,2.2621,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-10-01 00:00:00,10645,89579,751843,2.2256,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-11-01 00:00:00,10740,92913,717466,2.2686,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2024-12-01 00:00:00,9877,88554,703714,2.2318,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-01-01 00:00:00,12218,100324,774841,2.2132,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-02-01 00:00:00,9935,93970,650884,2.2872,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-03-01 00:00:00,19791,111780,1150097,2.1677,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-04-01 00:00:00,48305,117995,3024967,1.9057,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-05-01 00:00:00,21477,119993,1190130,2.1177,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-06-01 00:00:00,13680,119182,738241,2.1894,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-07-01 00:00:00,15670,133259,736072,2.2495,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-08-01 00:00:00,14435,128249,703947,2.2514,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-09-01 00:00:00,14024,123952,691177,2.3050,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-10-01 00:00:00,15740,139137,714203,2.2304,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-11-01 00:00:00,19986,133803,1019077,2.0639,0.000e+00
+Ministerio Público,Servicio de Impuestos Internos,2025-12-01 00:00:00,14690,132199,734340,2.1308,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-05-01 00:00:00,7508,119993,524778,1.6789,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-06-01 00:00:00,13334,119182,1004369,1.5685,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-07-01 00:00:00,17954,133259,1305667,1.4530,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-08-01 00:00:00,12995,128249,908948,1.5697,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-09-01 00:00:00,10554,123952,758157,1.5814,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-10-01 00:00:00,14877,139137,1017871,1.4792,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-11-01 00:00:00,11709,133803,811190,1.5190,0.000e+00
+Ministerio Público,Ventanilla Única Social (servicio),2025-12-01 00:00:00,13835,132199,958782,1.5370,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-01-01 00:00:00,89014,580896,913106,2.3631,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-02-01 00:00:00,65685,540982,712789,2.3986,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-03-01 00:00:00,88168,578682,951747,2.2542,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-04-01 00:00:00,80133,599961,841698,2.2344,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-05-01 00:00:00,73048,590494,772454,2.2551,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-06-01 00:00:00,79880,567891,919548,2.1540,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-07-01 00:00:00,133996,630806,1660252,1.8016,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-08-01 00:00:00,80530,601778,870299,2.1652,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-09-01 00:00:00,66917,561293,762743,2.2009,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-10-01 00:00:00,104652,630231,1171076,1.9966,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-11-01 00:00:00,73900,605989,781067,2.1985,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2024-12-01 00:00:00,69409,570334,740330,2.3147,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2025-01-01 00:00:00,112304,625405,1124324,2.2490,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2025-02-01 00:00:00,73119,570029,780772,2.3134,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2025-03-01 00:00:00,113991,649704,1169564,2.1124,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2025-04-01 00:00:00,82520,638313,845320,2.1535,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2025-05-01 00:00:00,51652,638278,515233,2.2116,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2025-06-01 00:00:00,4329,637982,36669,2.6057,0.000e+00
+Poder Judicial,Registro Social de Hogares (servicio),2025-07-01 00:00:00,122,687319,906,2.7587,1.574e-23
+Poder Judicial,Registro Social de Hogares (servicio),2025-08-01 00:00:00,133,700271,984,2.7179,6.401e-25
+Poder Judicial,Registro Social de Hogares (servicio),2025-09-01 00:00:00,51,635618,493,2.2917,5.198e-08
+Poder Judicial,Registro Social de Hogares (servicio),2025-10-01 00:00:00,78,670163,605,2.7089,3.391e-15
+Poder Judicial,Registro Social de Hogares (servicio),2025-11-01 00:00:00,30,682926,325,1.9033,6.497e-04
+Poder Judicial,Registro Social de Hogares (servicio),2025-12-01 00:00:00,25,629314,256,2.1851,2.419e-04
+Poder Judicial,Servicio de Impuestos Internos,2024-01-01 00:00:00,60484,580896,610351,2.4022,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-02-01 00:00:00,56260,540982,598071,2.4485,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-03-01 00:00:00,97952,578682,1079102,2.2088,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-04-01 00:00:00,210860,599961,2810904,1.7606,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-05-01 00:00:00,97560,590494,1113608,2.0891,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-06-01 00:00:00,65172,567891,724173,2.2315,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-07-01 00:00:00,70652,630806,712705,2.2129,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-08-01 00:00:00,64110,601778,650704,2.3054,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-09-01 00:00:00,62983,561293,677485,2.3322,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-10-01 00:00:00,76232,630231,751843,2.2654,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-11-01 00:00:00,70139,605989,717466,2.2716,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2024-12-01 00:00:00,65995,570334,703714,2.3154,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-01-01 00:00:00,80661,625405,774841,2.3438,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-02-01 00:00:00,62994,570029,650884,2.3908,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-03-01 00:00:00,115026,649704,1150097,2.1676,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-04-01 00:00:00,236534,638313,3024967,1.7250,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-05-01 00:00:00,112747,638278,1190130,2.0900,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-06-01 00:00:00,75321,637982,738241,2.2519,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-07-01 00:00:00,82314,687319,736072,2.2910,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-08-01 00:00:00,80700,700271,703947,2.3052,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-09-01 00:00:00,72319,635618,691177,2.3180,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-10-01 00:00:00,77750,670163,714203,2.2874,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-11-01 00:00:00,107917,682926,1019077,2.1835,0.000e+00
+Poder Judicial,Servicio de Impuestos Internos,2025-12-01 00:00:00,75179,629314,734340,2.2907,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-05-01 00:00:00,54596,638278,524778,2.2952,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-06-01 00:00:00,97476,637982,1004369,2.1421,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-07-01 00:00:00,123701,687319,1305667,1.9410,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-08-01 00:00:00,97503,700271,908948,2.1570,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-09-01 00:00:00,75005,635618,758157,2.1917,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-10-01 00:00:00,101008,670163,1017871,2.0851,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-11-01 00:00:00,82649,682926,811190,2.1008,0.000e+00
+Poder Judicial,Ventanilla Única Social (servicio),2025-12-01 00:00:00,89732,629314,958782,2.0941,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-01-01 00:00:00,84340,913106,610351,2.1309,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-02-01 00:00:00,66774,712789,598071,2.2056,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-03-01 00:00:00,145199,951747,1079102,1.9908,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-04-01 00:00:00,272755,841698,2810904,1.6233,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-05-01 00:00:00,111618,772454,1113608,1.8271,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-06-01 00:00:00,88331,919548,724173,1.8678,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-07-01 00:00:00,127373,1660252,712705,1.5158,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-08-01 00:00:00,76229,870299,650704,1.8954,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-09-01 00:00:00,66501,762743,677485,1.8121,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-10-01 00:00:00,107856,1171076,751843,1.7249,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-11-01 00:00:00,72564,781067,717466,1.8234,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-12-01 00:00:00,65888,740330,703714,1.7808,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-01-01 00:00:00,121918,1124324,774841,1.9706,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-02-01 00:00:00,72630,780772,650884,2.0125,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-03-01 00:00:00,177745,1169564,1150097,1.8607,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-04-01 00:00:00,283735,845320,3024967,1.5625,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-05-01 00:00:00,76564,515233,1190130,1.7582,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-06-01 00:00:00,4751,36669,738241,2.4713,0.000e+00
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-07-01 00:00:00,104,906,736072,2.1960,1.238e-13
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-08-01 00:00:00,107,984,703947,2.1751,1.125e-13
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-09-01 00:00:00,46,493,691177,1.9009,3.069e-05
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-10-01 00:00:00,57,605,714203,1.8575,7.482e-06
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-11-01 00:00:00,47,325,1019077,1.9982,5.144e-06
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-12-01 00:00:00,31,256,734340,2.3220,1.338e-05
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-01-01 00:00:00,1,1124324,2,6.2621,1.533e-01
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-05-01 00:00:00,109741,515233,524778,5.7152,0.000e+00
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-06-01 00:00:00,26276,36669,1004369,10.0463,0.000e+00
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-07-01 00:00:00,488,906,1305667,5.8090,2.078e-252
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-08-01 00:00:00,358,984,908948,5.6362,2.632e-166
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-09-01 00:00:00,217,493,758157,8.1751,2.951e-137
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-10-01 00:00:00,255,605,1017871,5.8308,1.200e-125
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-11-01 00:00:00,126,325,811190,6.7298,4.305e-69
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-12-01 00:00:00,97,256,958782,5.5648,2.975e-46
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-05-01 00:00:00,78005,1190130,524778,1.7587,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-06-01 00:00:00,96722,738241,1004369,1.8368,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-07-01 00:00:00,112999,736072,1305667,1.6556,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-08-01 00:00:00,87132,703947,908948,1.9175,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-09-01 00:00:00,68588,691177,758157,1.8431,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-10-01 00:00:00,92120,714203,1017871,1.7843,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-11-01 00:00:00,116300,1019077,811190,1.9810,0.000e+00
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-12-01 00:00:00,90558,734340,958782,1.8111,0.000e+00

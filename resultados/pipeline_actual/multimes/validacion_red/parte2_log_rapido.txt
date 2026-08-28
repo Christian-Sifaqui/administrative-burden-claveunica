@@ -1,0 +1,16 @@
+
+======================================================================
+RED: bruto (330 nodos, 19,220 aristas) — Q observado = 0.0163
+======================================================================
+    double_edge_swap: 20 réplicas en 319.2s (15961 ms/réplica)
+      Secuencia de grados preservada en TODAS las réplicas: True
+      Q_nulo: media=0.5384 DE=0.0063 | z=-82.64 | p_empírico=1 | asimetría=-0.83 curtosis=-0.65
+
+======================================================================
+RED: lift (330 nodos, 16,052 aristas) — Q observado = 0.5483
+======================================================================
+    double_edge_swap: 20 réplicas en 368.3s (18417 ms/réplica)
+      Secuencia de grados preservada en TODAS las réplicas: True
+      Q_nulo: media=0.4855 DE=0.0067 | z=9.40 | p_empírico=0.04762 | asimetría=-0.14 curtosis=-0.88
+
+[MODO RÁPIDO] Con 20 réplicas tardó 687.6s total. Estimado para 1000 réplicas: 573.0 min (34379s).

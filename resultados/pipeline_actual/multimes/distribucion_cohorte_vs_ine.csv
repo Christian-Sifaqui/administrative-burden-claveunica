@@ -1,0 +1,7 @@
+grupo,edad_aprox,n_personas_claveunica,pct_claveunica,fuente_ine,pct_ine,nota
+A,14-18,606843,4.64,INE Censo 2024 / Proyecciones 2024 (menores de 18: 22.2%; menores de 14: 17.1%),5.1,Razonablemente consistente (14-17 INE vs 14-18 ClaveUnica; leve descalce de rango)
+B,19-26,2123457,16.22,,,Sin desglose quinquenal INE disponible
+C,27-35,2707797,20.69,,,Sin desglose quinquenal INE disponible
+D,36-45,3130866,23.92,,,Sin desglose quinquenal INE disponible
+E,46-59,3421378,26.14,,,Sin desglose quinquenal INE disponible
+F,60+,3743678,28.60,INE Proyecciones 2024 (60 y mas: 19.2%),19.2,"Sobre-representado vs poblacion general (~1.5x) -- probable mayor uso per capita de adultos mayores (FONASA/prevision), no necesariamente error de proxy; no se puede separar de brecha de cobertura (ALERTA A1) sin datos de edad real"

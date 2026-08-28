@@ -1,0 +1,562 @@
+grupo_a,grupo_b,mes,co_uso
+AFC,Comisión para el Mercado Financiero,2024-01-01 00:00:00,105833
+AFC,Comisión para el Mercado Financiero,2024-02-01 00:00:00,115871
+AFC,Comisión para el Mercado Financiero,2024-03-01 00:00:00,111836
+AFC,Comisión para el Mercado Financiero,2024-04-01 00:00:00,109588
+AFC,Comisión para el Mercado Financiero,2024-05-01 00:00:00,168682
+AFC,Comisión para el Mercado Financiero,2024-06-01 00:00:00,173860
+AFC,Comisión para el Mercado Financiero,2024-07-01 00:00:00,182488
+AFC,Comisión para el Mercado Financiero,2024-08-01 00:00:00,156647
+AFC,Comisión para el Mercado Financiero,2024-09-01 00:00:00,234675
+AFC,Comisión para el Mercado Financiero,2024-10-01 00:00:00,234804
+AFC,Comisión para el Mercado Financiero,2024-11-01 00:00:00,234551
+AFC,Comisión para el Mercado Financiero,2024-12-01 00:00:00,204054
+AFC,Comisión para el Mercado Financiero,2025-01-01 00:00:00,208157
+AFC,Comisión para el Mercado Financiero,2025-02-01 00:00:00,185481
+AFC,Comisión para el Mercado Financiero,2025-03-01 00:00:00,193923
+AFC,Comisión para el Mercado Financiero,2025-04-01 00:00:00,178591
+AFC,Comisión para el Mercado Financiero,2025-05-01 00:00:00,186047
+AFC,Comisión para el Mercado Financiero,2025-06-01 00:00:00,194323
+AFC,Comisión para el Mercado Financiero,2025-07-01 00:00:00,202820
+AFC,Comisión para el Mercado Financiero,2025-08-01 00:00:00,213005
+AFC,Comisión para el Mercado Financiero,2025-09-01 00:00:00,135340
+AFC,Comisión para el Mercado Financiero,2025-10-01 00:00:00,112539
+AFC,Comisión para el Mercado Financiero,2025-11-01 00:00:00,93230
+AFC,Comisión para el Mercado Financiero,2025-12-01 00:00:00,79467
+AFC,FUAS-Mineduc (servicio),2024-01-01 00:00:00,2954
+AFC,FUAS-Mineduc (servicio),2024-02-01 00:00:00,8047
+AFC,FUAS-Mineduc (servicio),2024-03-01 00:00:00,9036
+AFC,FUAS-Mineduc (servicio),2024-04-01 00:00:00,2693
+AFC,FUAS-Mineduc (servicio),2024-05-01 00:00:00,2026
+AFC,FUAS-Mineduc (servicio),2024-06-01 00:00:00,1655
+AFC,FUAS-Mineduc (servicio),2024-07-01 00:00:00,1392
+AFC,FUAS-Mineduc (servicio),2024-08-01 00:00:00,1617
+AFC,FUAS-Mineduc (servicio),2024-09-01 00:00:00,1854
+AFC,FUAS-Mineduc (servicio),2024-10-01 00:00:00,21605
+AFC,FUAS-Mineduc (servicio),2024-11-01 00:00:00,4168
+AFC,FUAS-Mineduc (servicio),2024-12-01 00:00:00,4093
+AFC,FUAS-Mineduc (servicio),2025-01-01 00:00:00,4681
+AFC,FUAS-Mineduc (servicio),2025-02-01 00:00:00,10289
+AFC,FUAS-Mineduc (servicio),2025-03-01 00:00:00,12159
+AFC,FUAS-Mineduc (servicio),2025-04-01 00:00:00,2128
+AFC,FUAS-Mineduc (servicio),2025-05-01 00:00:00,2513
+AFC,FUAS-Mineduc (servicio),2025-06-01 00:00:00,1998
+AFC,FUAS-Mineduc (servicio),2025-07-01 00:00:00,1797
+AFC,FUAS-Mineduc (servicio),2025-08-01 00:00:00,2008
+AFC,FUAS-Mineduc (servicio),2025-09-01 00:00:00,1875
+AFC,FUAS-Mineduc (servicio),2025-10-01 00:00:00,17867
+AFC,FUAS-Mineduc (servicio),2025-11-01 00:00:00,2961
+AFC,FUAS-Mineduc (servicio),2025-12-01 00:00:00,2145
+AFC,Ministerio Público,2024-01-01 00:00:00,5421
+AFC,Ministerio Público,2024-02-01 00:00:00,5018
+AFC,Ministerio Público,2024-03-01 00:00:00,5496
+AFC,Ministerio Público,2024-04-01 00:00:00,5443
+AFC,Ministerio Público,2024-05-01 00:00:00,5488
+AFC,Ministerio Público,2024-06-01 00:00:00,6181
+AFC,Ministerio Público,2024-07-01 00:00:00,7112
+AFC,Ministerio Público,2024-08-01 00:00:00,5913
+AFC,Ministerio Público,2024-09-01 00:00:00,6079
+AFC,Ministerio Público,2024-10-01 00:00:00,8066
+AFC,Ministerio Público,2024-11-01 00:00:00,7833
+AFC,Ministerio Público,2024-12-01 00:00:00,7201
+AFC,Ministerio Público,2025-01-01 00:00:00,8888
+AFC,Ministerio Público,2025-02-01 00:00:00,8459
+AFC,Ministerio Público,2025-03-01 00:00:00,10477
+AFC,Ministerio Público,2025-04-01 00:00:00,9778
+AFC,Ministerio Público,2025-05-01 00:00:00,10171
+AFC,Ministerio Público,2025-06-01 00:00:00,10542
+AFC,Ministerio Público,2025-07-01 00:00:00,11129
+AFC,Ministerio Público,2025-08-01 00:00:00,10995
+AFC,Ministerio Público,2025-09-01 00:00:00,8203
+AFC,Ministerio Público,2025-10-01 00:00:00,8430
+AFC,Ministerio Público,2025-11-01 00:00:00,6781
+AFC,Ministerio Público,2025-12-01 00:00:00,7028
+AFC,Poder Judicial,2024-01-01 00:00:00,59461
+AFC,Poder Judicial,2024-02-01 00:00:00,57022
+AFC,Poder Judicial,2024-03-01 00:00:00,60018
+AFC,Poder Judicial,2024-04-01 00:00:00,57221
+AFC,Poder Judicial,2024-05-01 00:00:00,57258
+AFC,Poder Judicial,2024-06-01 00:00:00,59673
+AFC,Poder Judicial,2024-07-01 00:00:00,63928
+AFC,Poder Judicial,2024-08-01 00:00:00,55857
+AFC,Poder Judicial,2024-09-01 00:00:00,54585
+AFC,Poder Judicial,2024-10-01 00:00:00,67273
+AFC,Poder Judicial,2024-11-01 00:00:00,59524
+AFC,Poder Judicial,2024-12-01 00:00:00,55006
+AFC,Poder Judicial,2025-01-01 00:00:00,68894
+AFC,Poder Judicial,2025-02-01 00:00:00,64379
+AFC,Poder Judicial,2025-03-01 00:00:00,73022
+AFC,Poder Judicial,2025-04-01 00:00:00,66814
+AFC,Poder Judicial,2025-05-01 00:00:00,66450
+AFC,Poder Judicial,2025-06-01 00:00:00,71395
+AFC,Poder Judicial,2025-07-01 00:00:00,74016
+AFC,Poder Judicial,2025-08-01 00:00:00,76318
+AFC,Poder Judicial,2025-09-01 00:00:00,55010
+AFC,Poder Judicial,2025-10-01 00:00:00,57463
+AFC,Poder Judicial,2025-11-01 00:00:00,49382
+AFC,Poder Judicial,2025-12-01 00:00:00,46651
+AFC,Registro Social de Hogares (servicio),2024-01-01 00:00:00,106612
+AFC,Registro Social de Hogares (servicio),2024-02-01 00:00:00,87026
+AFC,Registro Social de Hogares (servicio),2024-03-01 00:00:00,109698
+AFC,Registro Social de Hogares (servicio),2024-04-01 00:00:00,92642
+AFC,Registro Social de Hogares (servicio),2024-05-01 00:00:00,89372
+AFC,Registro Social de Hogares (servicio),2024-06-01 00:00:00,104638
+AFC,Registro Social de Hogares (servicio),2024-07-01 00:00:00,149826
+AFC,Registro Social de Hogares (servicio),2024-08-01 00:00:00,90691
+AFC,Registro Social de Hogares (servicio),2024-09-01 00:00:00,78705
+AFC,Registro Social de Hogares (servicio),2024-10-01 00:00:00,118443
+AFC,Registro Social de Hogares (servicio),2024-11-01 00:00:00,78664
+AFC,Registro Social de Hogares (servicio),2024-12-01 00:00:00,70552
+AFC,Registro Social de Hogares (servicio),2025-01-01 00:00:00,130164
+AFC,Registro Social de Hogares (servicio),2025-02-01 00:00:00,95761
+AFC,Registro Social de Hogares (servicio),2025-03-01 00:00:00,136275
+AFC,Registro Social de Hogares (servicio),2025-04-01 00:00:00,94820
+AFC,Registro Social de Hogares (servicio),2025-05-01 00:00:00,58954
+AFC,Registro Social de Hogares (servicio),2025-06-01 00:00:00,5004
+AFC,Registro Social de Hogares (servicio),2025-07-01 00:00:00,100
+AFC,Registro Social de Hogares (servicio),2025-08-01 00:00:00,97
+AFC,Registro Social de Hogares (servicio),2025-09-01 00:00:00,43
+AFC,Registro Social de Hogares (servicio),2025-10-01 00:00:00,37
+AFC,Registro Social de Hogares (servicio),2025-11-01 00:00:00,19
+AFC,Registro Social de Hogares (servicio),2025-12-01 00:00:00,17
+AFC,Servicio de Impuestos Internos,2024-01-01 00:00:00,136798
+AFC,Servicio de Impuestos Internos,2024-02-01 00:00:00,124687
+AFC,Servicio de Impuestos Internos,2024-03-01 00:00:00,180173
+AFC,Servicio de Impuestos Internos,2024-04-01 00:00:00,305871
+AFC,Servicio de Impuestos Internos,2024-05-01 00:00:00,210395
+AFC,Servicio de Impuestos Internos,2024-06-01 00:00:00,172281
+AFC,Servicio de Impuestos Internos,2024-07-01 00:00:00,162093
+AFC,Servicio de Impuestos Internos,2024-08-01 00:00:00,138378
+AFC,Servicio de Impuestos Internos,2024-09-01 00:00:00,196888
+AFC,Servicio de Impuestos Internos,2024-10-01 00:00:00,206450
+AFC,Servicio de Impuestos Internos,2024-11-01 00:00:00,211989
+AFC,Servicio de Impuestos Internos,2024-12-01 00:00:00,197779
+AFC,Servicio de Impuestos Internos,2025-01-01 00:00:00,207439
+AFC,Servicio de Impuestos Internos,2025-02-01 00:00:00,175759
+AFC,Servicio de Impuestos Internos,2025-03-01 00:00:00,248227
+AFC,Servicio de Impuestos Internos,2025-04-01 00:00:00,378345
+AFC,Servicio de Impuestos Internos,2025-05-01 00:00:00,223854
+AFC,Servicio de Impuestos Internos,2025-06-01 00:00:00,182165
+AFC,Servicio de Impuestos Internos,2025-07-01 00:00:00,185642
+AFC,Servicio de Impuestos Internos,2025-08-01 00:00:00,189130
+AFC,Servicio de Impuestos Internos,2025-09-01 00:00:00,110972
+AFC,Servicio de Impuestos Internos,2025-10-01 00:00:00,67534
+AFC,Servicio de Impuestos Internos,2025-11-01 00:00:00,79114
+AFC,Servicio de Impuestos Internos,2025-12-01 00:00:00,58619
+AFC,Ventanilla Única Social (servicio),2025-05-01 00:00:00,62868
+AFC,Ventanilla Única Social (servicio),2025-06-01 00:00:00,121120
+AFC,Ventanilla Única Social (servicio),2025-07-01 00:00:00,134880
+AFC,Ventanilla Única Social (servicio),2025-08-01 00:00:00,105864
+AFC,Ventanilla Única Social (servicio),2025-09-01 00:00:00,69047
+AFC,Ventanilla Única Social (servicio),2025-10-01 00:00:00,89220
+AFC,Ventanilla Única Social (servicio),2025-11-01 00:00:00,60128
+AFC,Ventanilla Única Social (servicio),2025-12-01 00:00:00,73131
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-01-01 00:00:00,1352
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-02-01 00:00:00,5189
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-03-01 00:00:00,5543
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-04-01 00:00:00,1971
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-05-01 00:00:00,1591
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-06-01 00:00:00,1161
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-07-01 00:00:00,1061
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-08-01 00:00:00,1326
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-09-01 00:00:00,1753
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-10-01 00:00:00,19004
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-11-01 00:00:00,4033
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2024-12-01 00:00:00,3615
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-01-01 00:00:00,3626
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-02-01 00:00:00,7847
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-03-01 00:00:00,9301
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-04-01 00:00:00,1788
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-05-01 00:00:00,2153
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-06-01 00:00:00,1575
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-07-01 00:00:00,1612
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-08-01 00:00:00,1823
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-09-01 00:00:00,2016
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-10-01 00:00:00,20712
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-11-01 00:00:00,4080
+Comisión para el Mercado Financiero,FUAS-Mineduc (servicio),2025-12-01 00:00:00,2393
+Comisión para el Mercado Financiero,Ministerio Público,2024-01-01 00:00:00,5713
+Comisión para el Mercado Financiero,Ministerio Público,2024-02-01 00:00:00,6515
+Comisión para el Mercado Financiero,Ministerio Público,2024-03-01 00:00:00,7842
+Comisión para el Mercado Financiero,Ministerio Público,2024-04-01 00:00:00,7836
+Comisión para el Mercado Financiero,Ministerio Público,2024-05-01 00:00:00,8449
+Comisión para el Mercado Financiero,Ministerio Público,2024-06-01 00:00:00,8556
+Comisión para el Mercado Financiero,Ministerio Público,2024-07-01 00:00:00,11354
+Comisión para el Mercado Financiero,Ministerio Público,2024-08-01 00:00:00,10364
+Comisión para el Mercado Financiero,Ministerio Público,2024-09-01 00:00:00,10386
+Comisión para el Mercado Financiero,Ministerio Público,2024-10-01 00:00:00,12631
+Comisión para el Mercado Financiero,Ministerio Público,2024-11-01 00:00:00,12813
+Comisión para el Mercado Financiero,Ministerio Público,2024-12-01 00:00:00,11111
+Comisión para el Mercado Financiero,Ministerio Público,2025-01-01 00:00:00,13476
+Comisión para el Mercado Financiero,Ministerio Público,2025-02-01 00:00:00,11944
+Comisión para el Mercado Financiero,Ministerio Público,2025-03-01 00:00:00,15534
+Comisión para el Mercado Financiero,Ministerio Público,2025-04-01 00:00:00,15865
+Comisión para el Mercado Financiero,Ministerio Público,2025-05-01 00:00:00,16022
+Comisión para el Mercado Financiero,Ministerio Público,2025-06-01 00:00:00,16338
+Comisión para el Mercado Financiero,Ministerio Público,2025-07-01 00:00:00,19437
+Comisión para el Mercado Financiero,Ministerio Público,2025-08-01 00:00:00,19094
+Comisión para el Mercado Financiero,Ministerio Público,2025-09-01 00:00:00,17141
+Comisión para el Mercado Financiero,Ministerio Público,2025-10-01 00:00:00,20112
+Comisión para el Mercado Financiero,Ministerio Público,2025-11-01 00:00:00,18411
+Comisión para el Mercado Financiero,Ministerio Público,2025-12-01 00:00:00,14184
+Comisión para el Mercado Financiero,Poder Judicial,2024-01-01 00:00:00,47216
+Comisión para el Mercado Financiero,Poder Judicial,2024-02-01 00:00:00,60377
+Comisión para el Mercado Financiero,Poder Judicial,2024-03-01 00:00:00,64098
+Comisión para el Mercado Financiero,Poder Judicial,2024-04-01 00:00:00,67109
+Comisión para el Mercado Financiero,Poder Judicial,2024-05-01 00:00:00,71851
+Comisión para el Mercado Financiero,Poder Judicial,2024-06-01 00:00:00,68174
+Comisión para el Mercado Financiero,Poder Judicial,2024-07-01 00:00:00,86818
+Comisión para el Mercado Financiero,Poder Judicial,2024-08-01 00:00:00,80236
+Comisión para el Mercado Financiero,Poder Judicial,2024-09-01 00:00:00,80674
+Comisión para el Mercado Financiero,Poder Judicial,2024-10-01 00:00:00,91545
+Comisión para el Mercado Financiero,Poder Judicial,2024-11-01 00:00:00,86424
+Comisión para el Mercado Financiero,Poder Judicial,2024-12-01 00:00:00,75473
+Comisión para el Mercado Financiero,Poder Judicial,2025-01-01 00:00:00,89606
+Comisión para el Mercado Financiero,Poder Judicial,2025-02-01 00:00:00,78340
+Comisión para el Mercado Financiero,Poder Judicial,2025-03-01 00:00:00,96760
+Comisión para el Mercado Financiero,Poder Judicial,2025-04-01 00:00:00,96481
+Comisión para el Mercado Financiero,Poder Judicial,2025-05-01 00:00:00,94473
+Comisión para el Mercado Financiero,Poder Judicial,2025-06-01 00:00:00,98253
+Comisión para el Mercado Financiero,Poder Judicial,2025-07-01 00:00:00,114313
+Comisión para el Mercado Financiero,Poder Judicial,2025-08-01 00:00:00,121766
+Comisión para el Mercado Financiero,Poder Judicial,2025-09-01 00:00:00,99374
+Comisión para el Mercado Financiero,Poder Judicial,2025-10-01 00:00:00,110202
+Comisión para el Mercado Financiero,Poder Judicial,2025-11-01 00:00:00,111894
+Comisión para el Mercado Financiero,Poder Judicial,2025-12-01 00:00:00,79841
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-01-01 00:00:00,57377
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-02-01 00:00:00,60563
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-03-01 00:00:00,74469
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-04-01 00:00:00,70425
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-05-01 00:00:00,72712
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-06-01 00:00:00,80826
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-07-01 00:00:00,142809
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-08-01 00:00:00,86549
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-09-01 00:00:00,81808
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-10-01 00:00:00,115944
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-11-01 00:00:00,81689
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2024-12-01 00:00:00,69522
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-01-01 00:00:00,116629
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-02-01 00:00:00,82688
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-03-01 00:00:00,122769
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-04-01 00:00:00,93124
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-05-01 00:00:00,57677
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-06-01 00:00:00,4976
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-07-01 00:00:00,134
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-08-01 00:00:00,146
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-09-01 00:00:00,60
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-10-01 00:00:00,91
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-11-01 00:00:00,35
+Comisión para el Mercado Financiero,Registro Social de Hogares (servicio),2025-12-01 00:00:00,29
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-01-01 00:00:00,102220
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-02-01 00:00:00,109634
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-03-01 00:00:00,153743
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-04-01 00:00:00,258490
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-05-01 00:00:00,195230
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-06-01 00:00:00,162571
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-07-01 00:00:00,171630
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-08-01 00:00:00,144651
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-09-01 00:00:00,213067
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-10-01 00:00:00,218492
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-11-01 00:00:00,218844
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2024-12-01 00:00:00,196605
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-01-01 00:00:00,206388
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-02-01 00:00:00,168556
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-03-01 00:00:00,241463
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-04-01 00:00:00,383405
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-05-01 00:00:00,221520
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-06-01 00:00:00,173542
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-07-01 00:00:00,191795
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-08-01 00:00:00,200386
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-09-01 00:00:00,174315
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-10-01 00:00:00,182329
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-11-01 00:00:00,212761
+Comisión para el Mercado Financiero,Servicio de Impuestos Internos,2025-12-01 00:00:00,145086
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-05-01 00:00:00,62693
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-06-01 00:00:00,115986
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-07-01 00:00:00,149103
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-08-01 00:00:00,117458
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-09-01 00:00:00,87488
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-10-01 00:00:00,117926
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-11-01 00:00:00,92832
+Comisión para el Mercado Financiero,Ventanilla Única Social (servicio),2025-12-01 00:00:00,87285
+FUAS-Mineduc (servicio),Ministerio Público,2024-01-01 00:00:00,200
+FUAS-Mineduc (servicio),Ministerio Público,2024-02-01 00:00:00,495
+FUAS-Mineduc (servicio),Ministerio Público,2024-03-01 00:00:00,598
+FUAS-Mineduc (servicio),Ministerio Público,2024-04-01 00:00:00,206
+FUAS-Mineduc (servicio),Ministerio Público,2024-05-01 00:00:00,179
+FUAS-Mineduc (servicio),Ministerio Público,2024-06-01 00:00:00,120
+FUAS-Mineduc (servicio),Ministerio Público,2024-07-01 00:00:00,118
+FUAS-Mineduc (servicio),Ministerio Público,2024-08-01 00:00:00,157
+FUAS-Mineduc (servicio),Ministerio Público,2024-09-01 00:00:00,177
+FUAS-Mineduc (servicio),Ministerio Público,2024-10-01 00:00:00,2120
+FUAS-Mineduc (servicio),Ministerio Público,2024-11-01 00:00:00,466
+FUAS-Mineduc (servicio),Ministerio Público,2024-12-01 00:00:00,408
+FUAS-Mineduc (servicio),Ministerio Público,2025-01-01 00:00:00,452
+FUAS-Mineduc (servicio),Ministerio Público,2025-02-01 00:00:00,836
+FUAS-Mineduc (servicio),Ministerio Público,2025-03-01 00:00:00,1215
+FUAS-Mineduc (servicio),Ministerio Público,2025-04-01 00:00:00,242
+FUAS-Mineduc (servicio),Ministerio Público,2025-05-01 00:00:00,320
+FUAS-Mineduc (servicio),Ministerio Público,2025-06-01 00:00:00,210
+FUAS-Mineduc (servicio),Ministerio Público,2025-07-01 00:00:00,239
+FUAS-Mineduc (servicio),Ministerio Público,2025-08-01 00:00:00,239
+FUAS-Mineduc (servicio),Ministerio Público,2025-09-01 00:00:00,306
+FUAS-Mineduc (servicio),Ministerio Público,2025-10-01 00:00:00,3106
+FUAS-Mineduc (servicio),Ministerio Público,2025-11-01 00:00:00,585
+FUAS-Mineduc (servicio),Ministerio Público,2025-12-01 00:00:00,441
+FUAS-Mineduc (servicio),Poder Judicial,2024-01-01 00:00:00,2168
+FUAS-Mineduc (servicio),Poder Judicial,2024-02-01 00:00:00,5006
+FUAS-Mineduc (servicio),Poder Judicial,2024-03-01 00:00:00,5696
+FUAS-Mineduc (servicio),Poder Judicial,2024-04-01 00:00:00,1924
+FUAS-Mineduc (servicio),Poder Judicial,2024-05-01 00:00:00,1359
+FUAS-Mineduc (servicio),Poder Judicial,2024-06-01 00:00:00,1005
+FUAS-Mineduc (servicio),Poder Judicial,2024-07-01 00:00:00,960
+FUAS-Mineduc (servicio),Poder Judicial,2024-08-01 00:00:00,1152
+FUAS-Mineduc (servicio),Poder Judicial,2024-09-01 00:00:00,1271
+FUAS-Mineduc (servicio),Poder Judicial,2024-10-01 00:00:00,16707
+FUAS-Mineduc (servicio),Poder Judicial,2024-11-01 00:00:00,3163
+FUAS-Mineduc (servicio),Poder Judicial,2024-12-01 00:00:00,2894
+FUAS-Mineduc (servicio),Poder Judicial,2025-01-01 00:00:00,3236
+FUAS-Mineduc (servicio),Poder Judicial,2025-02-01 00:00:00,6083
+FUAS-Mineduc (servicio),Poder Judicial,2025-03-01 00:00:00,7746
+FUAS-Mineduc (servicio),Poder Judicial,2025-04-01 00:00:00,1465
+FUAS-Mineduc (servicio),Poder Judicial,2025-05-01 00:00:00,1844
+FUAS-Mineduc (servicio),Poder Judicial,2025-06-01 00:00:00,1353
+FUAS-Mineduc (servicio),Poder Judicial,2025-07-01 00:00:00,1265
+FUAS-Mineduc (servicio),Poder Judicial,2025-08-01 00:00:00,1518
+FUAS-Mineduc (servicio),Poder Judicial,2025-09-01 00:00:00,1554
+FUAS-Mineduc (servicio),Poder Judicial,2025-10-01 00:00:00,17547
+FUAS-Mineduc (servicio),Poder Judicial,2025-11-01 00:00:00,3379
+FUAS-Mineduc (servicio),Poder Judicial,2025-12-01 00:00:00,2332
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-01-01 00:00:00,11134
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-02-01 00:00:00,21552
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-03-01 00:00:00,26969
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-04-01 00:00:00,7515
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-05-01 00:00:00,5771
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-06-01 00:00:00,4671
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-07-01 00:00:00,3790
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-08-01 00:00:00,5166
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-09-01 00:00:00,5422
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-10-01 00:00:00,85234
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-11-01 00:00:00,10636
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2024-12-01 00:00:00,11544
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-01-01 00:00:00,16392
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-02-01 00:00:00,27122
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-03-01 00:00:00,36449
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-04-01 00:00:00,5759
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-05-01 00:00:00,4731
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-06-01 00:00:00,508
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-07-01 00:00:00,2
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-08-01 00:00:00,6
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-09-01 00:00:00,4
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-10-01 00:00:00,45
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-11-01 00:00:00,5
+FUAS-Mineduc (servicio),Registro Social de Hogares (servicio),2025-12-01 00:00:00,4
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-01-01 00:00:00,3349
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-02-01 00:00:00,6354
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-03-01 00:00:00,12506
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-04-01 00:00:00,7095
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-05-01 00:00:00,2816
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-06-01 00:00:00,2345
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-07-01 00:00:00,1092
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-08-01 00:00:00,1775
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-09-01 00:00:00,1582
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-10-01 00:00:00,20988
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-11-01 00:00:00,3984
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2024-12-01 00:00:00,3984
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-01-01 00:00:00,5894
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-02-01 00:00:00,8017
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-03-01 00:00:00,16710
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-04-01 00:00:00,5426
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-05-01 00:00:00,3745
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-06-01 00:00:00,3004
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-07-01 00:00:00,1436
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-08-01 00:00:00,2431
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-09-01 00:00:00,1600
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-10-01 00:00:00,19784
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-11-01 00:00:00,5974
+FUAS-Mineduc (servicio),Servicio de Impuestos Internos,2025-12-01 00:00:00,3593
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-05-01 00:00:00,4960
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-06-01 00:00:00,6192
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-07-01 00:00:00,5436
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-08-01 00:00:00,5987
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-09-01 00:00:00,4794
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-10-01 00:00:00,81228
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-11-01 00:00:00,8893
+FUAS-Mineduc (servicio),Ventanilla Única Social (servicio),2025-12-01 00:00:00,8977
+Ministerio Público,Poder Judicial,2024-01-01 00:00:00,25518
+Ministerio Público,Poder Judicial,2024-02-01 00:00:00,22732
+Ministerio Público,Poder Judicial,2024-03-01 00:00:00,25498
+Ministerio Público,Poder Judicial,2024-04-01 00:00:00,27674
+Ministerio Público,Poder Judicial,2024-05-01 00:00:00,26330
+Ministerio Público,Poder Judicial,2024-06-01 00:00:00,25831
+Ministerio Público,Poder Judicial,2024-07-01 00:00:00,30385
+Ministerio Público,Poder Judicial,2024-08-01 00:00:00,28770
+Ministerio Público,Poder Judicial,2024-09-01 00:00:00,26862
+Ministerio Público,Poder Judicial,2024-10-01 00:00:00,33551
+Ministerio Público,Poder Judicial,2024-11-01 00:00:00,34833
+Ministerio Público,Poder Judicial,2024-12-01 00:00:00,32025
+Ministerio Público,Poder Judicial,2025-01-01 00:00:00,36237
+Ministerio Público,Poder Judicial,2025-02-01 00:00:00,32286
+Ministerio Público,Poder Judicial,2025-03-01 00:00:00,39451
+Ministerio Público,Poder Judicial,2025-04-01 00:00:00,41118
+Ministerio Público,Poder Judicial,2025-05-01 00:00:00,41343
+Ministerio Público,Poder Judicial,2025-06-01 00:00:00,41019
+Ministerio Público,Poder Judicial,2025-07-01 00:00:00,47300
+Ministerio Público,Poder Judicial,2025-08-01 00:00:00,45901
+Ministerio Público,Poder Judicial,2025-09-01 00:00:00,42890
+Ministerio Público,Poder Judicial,2025-10-01 00:00:00,48829
+Ministerio Público,Poder Judicial,2025-11-01 00:00:00,47417
+Ministerio Público,Poder Judicial,2025-12-01 00:00:00,44316
+Ministerio Público,Registro Social de Hogares (servicio),2024-01-01 00:00:00,7081
+Ministerio Público,Registro Social de Hogares (servicio),2024-02-01 00:00:00,5394
+Ministerio Público,Registro Social de Hogares (servicio),2024-03-01 00:00:00,7491
+Ministerio Público,Registro Social de Hogares (servicio),2024-04-01 00:00:00,7262
+Ministerio Público,Registro Social de Hogares (servicio),2024-05-01 00:00:00,6645
+Ministerio Público,Registro Social de Hogares (servicio),2024-06-01 00:00:00,7540
+Ministerio Público,Registro Social de Hogares (servicio),2024-07-01 00:00:00,13087
+Ministerio Público,Registro Social de Hogares (servicio),2024-08-01 00:00:00,7772
+Ministerio Público,Registro Social de Hogares (servicio),2024-09-01 00:00:00,6535
+Ministerio Público,Registro Social de Hogares (servicio),2024-10-01 00:00:00,11062
+Ministerio Público,Registro Social de Hogares (servicio),2024-11-01 00:00:00,8182
+Ministerio Público,Registro Social de Hogares (servicio),2024-12-01 00:00:00,7367
+Ministerio Público,Registro Social de Hogares (servicio),2025-01-01 00:00:00,12116
+Ministerio Público,Registro Social de Hogares (servicio),2025-02-01 00:00:00,8580
+Ministerio Público,Registro Social de Hogares (servicio),2025-03-01 00:00:00,14084
+Ministerio Público,Registro Social de Hogares (servicio),2025-04-01 00:00:00,11232
+Ministerio Público,Registro Social de Hogares (servicio),2025-05-01 00:00:00,7242
+Ministerio Público,Registro Social de Hogares (servicio),2025-06-01 00:00:00,602
+Ministerio Público,Registro Social de Hogares (servicio),2025-07-01 00:00:00,14
+Ministerio Público,Registro Social de Hogares (servicio),2025-08-01 00:00:00,12
+Ministerio Público,Registro Social de Hogares (servicio),2025-09-01 00:00:00,14
+Ministerio Público,Registro Social de Hogares (servicio),2025-10-01 00:00:00,11
+Ministerio Público,Registro Social de Hogares (servicio),2025-11-01 00:00:00,5
+Ministerio Público,Registro Social de Hogares (servicio),2025-12-01 00:00:00,4
+Ministerio Público,Servicio de Impuestos Internos,2024-01-01 00:00:00,6647
+Ministerio Público,Servicio de Impuestos Internos,2024-02-01 00:00:00,6037
+Ministerio Público,Servicio de Impuestos Internos,2024-03-01 00:00:00,11639
+Ministerio Público,Servicio de Impuestos Internos,2024-04-01 00:00:00,28829
+Ministerio Público,Servicio de Impuestos Internos,2024-05-01 00:00:00,11792
+Ministerio Público,Servicio de Impuestos Internos,2024-06-01 00:00:00,7958
+Ministerio Público,Servicio de Impuestos Internos,2024-07-01 00:00:00,9315
+Ministerio Público,Servicio de Impuestos Internos,2024-08-01 00:00:00,8149
+Ministerio Público,Servicio de Impuestos Internos,2024-09-01 00:00:00,8167
+Ministerio Público,Servicio de Impuestos Internos,2024-10-01 00:00:00,10645
+Ministerio Público,Servicio de Impuestos Internos,2024-11-01 00:00:00,10740
+Ministerio Público,Servicio de Impuestos Internos,2024-12-01 00:00:00,9877
+Ministerio Público,Servicio de Impuestos Internos,2025-01-01 00:00:00,12218
+Ministerio Público,Servicio de Impuestos Internos,2025-02-01 00:00:00,9935
+Ministerio Público,Servicio de Impuestos Internos,2025-03-01 00:00:00,19791
+Ministerio Público,Servicio de Impuestos Internos,2025-04-01 00:00:00,48305
+Ministerio Público,Servicio de Impuestos Internos,2025-05-01 00:00:00,21477
+Ministerio Público,Servicio de Impuestos Internos,2025-06-01 00:00:00,13680
+Ministerio Público,Servicio de Impuestos Internos,2025-07-01 00:00:00,15670
+Ministerio Público,Servicio de Impuestos Internos,2025-08-01 00:00:00,14435
+Ministerio Público,Servicio de Impuestos Internos,2025-09-01 00:00:00,14024
+Ministerio Público,Servicio de Impuestos Internos,2025-10-01 00:00:00,15740
+Ministerio Público,Servicio de Impuestos Internos,2025-11-01 00:00:00,19986
+Ministerio Público,Servicio de Impuestos Internos,2025-12-01 00:00:00,14690
+Ministerio Público,Ventanilla Única Social (servicio),2025-05-01 00:00:00,7508
+Ministerio Público,Ventanilla Única Social (servicio),2025-06-01 00:00:00,13334
+Ministerio Público,Ventanilla Única Social (servicio),2025-07-01 00:00:00,17954
+Ministerio Público,Ventanilla Única Social (servicio),2025-08-01 00:00:00,12995
+Ministerio Público,Ventanilla Única Social (servicio),2025-09-01 00:00:00,10554
+Ministerio Público,Ventanilla Única Social (servicio),2025-10-01 00:00:00,14877
+Ministerio Público,Ventanilla Única Social (servicio),2025-11-01 00:00:00,11709
+Ministerio Público,Ventanilla Única Social (servicio),2025-12-01 00:00:00,13835
+Poder Judicial,Registro Social de Hogares (servicio),2024-01-01 00:00:00,89014
+Poder Judicial,Registro Social de Hogares (servicio),2024-02-01 00:00:00,65685
+Poder Judicial,Registro Social de Hogares (servicio),2024-03-01 00:00:00,88168
+Poder Judicial,Registro Social de Hogares (servicio),2024-04-01 00:00:00,80133
+Poder Judicial,Registro Social de Hogares (servicio),2024-05-01 00:00:00,73048
+Poder Judicial,Registro Social de Hogares (servicio),2024-06-01 00:00:00,79880
+Poder Judicial,Registro Social de Hogares (servicio),2024-07-01 00:00:00,133996
+Poder Judicial,Registro Social de Hogares (servicio),2024-08-01 00:00:00,80530
+Poder Judicial,Registro Social de Hogares (servicio),2024-09-01 00:00:00,66917
+Poder Judicial,Registro Social de Hogares (servicio),2024-10-01 00:00:00,104652
+Poder Judicial,Registro Social de Hogares (servicio),2024-11-01 00:00:00,73900
+Poder Judicial,Registro Social de Hogares (servicio),2024-12-01 00:00:00,69409
+Poder Judicial,Registro Social de Hogares (servicio),2025-01-01 00:00:00,112304
+Poder Judicial,Registro Social de Hogares (servicio),2025-02-01 00:00:00,73119
+Poder Judicial,Registro Social de Hogares (servicio),2025-03-01 00:00:00,113991
+Poder Judicial,Registro Social de Hogares (servicio),2025-04-01 00:00:00,82520
+Poder Judicial,Registro Social de Hogares (servicio),2025-05-01 00:00:00,51652
+Poder Judicial,Registro Social de Hogares (servicio),2025-06-01 00:00:00,4329
+Poder Judicial,Registro Social de Hogares (servicio),2025-07-01 00:00:00,122
+Poder Judicial,Registro Social de Hogares (servicio),2025-08-01 00:00:00,133
+Poder Judicial,Registro Social de Hogares (servicio),2025-09-01 00:00:00,51
+Poder Judicial,Registro Social de Hogares (servicio),2025-10-01 00:00:00,78
+Poder Judicial,Registro Social de Hogares (servicio),2025-11-01 00:00:00,30
+Poder Judicial,Registro Social de Hogares (servicio),2025-12-01 00:00:00,25
+Poder Judicial,Servicio de Impuestos Internos,2024-01-01 00:00:00,60484
+Poder Judicial,Servicio de Impuestos Internos,2024-02-01 00:00:00,56260
+Poder Judicial,Servicio de Impuestos Internos,2024-03-01 00:00:00,97952
+Poder Judicial,Servicio de Impuestos Internos,2024-04-01 00:00:00,210860
+Poder Judicial,Servicio de Impuestos Internos,2024-05-01 00:00:00,97560
+Poder Judicial,Servicio de Impuestos Internos,2024-06-01 00:00:00,65172
+Poder Judicial,Servicio de Impuestos Internos,2024-07-01 00:00:00,70652
+Poder Judicial,Servicio de Impuestos Internos,2024-08-01 00:00:00,64110
+Poder Judicial,Servicio de Impuestos Internos,2024-09-01 00:00:00,62983
+Poder Judicial,Servicio de Impuestos Internos,2024-10-01 00:00:00,76232
+Poder Judicial,Servicio de Impuestos Internos,2024-11-01 00:00:00,70139
+Poder Judicial,Servicio de Impuestos Internos,2024-12-01 00:00:00,65995
+Poder Judicial,Servicio de Impuestos Internos,2025-01-01 00:00:00,80661
+Poder Judicial,Servicio de Impuestos Internos,2025-02-01 00:00:00,62994
+Poder Judicial,Servicio de Impuestos Internos,2025-03-01 00:00:00,115026
+Poder Judicial,Servicio de Impuestos Internos,2025-04-01 00:00:00,236534
+Poder Judicial,Servicio de Impuestos Internos,2025-05-01 00:00:00,112747
+Poder Judicial,Servicio de Impuestos Internos,2025-06-01 00:00:00,75321
+Poder Judicial,Servicio de Impuestos Internos,2025-07-01 00:00:00,82314
+Poder Judicial,Servicio de Impuestos Internos,2025-08-01 00:00:00,80700
+Poder Judicial,Servicio de Impuestos Internos,2025-09-01 00:00:00,72319
+Poder Judicial,Servicio de Impuestos Internos,2025-10-01 00:00:00,77750
+Poder Judicial,Servicio de Impuestos Internos,2025-11-01 00:00:00,107917
+Poder Judicial,Servicio de Impuestos Internos,2025-12-01 00:00:00,75179
+Poder Judicial,Ventanilla Única Social (servicio),2025-05-01 00:00:00,54596
+Poder Judicial,Ventanilla Única Social (servicio),2025-06-01 00:00:00,97476
+Poder Judicial,Ventanilla Única Social (servicio),2025-07-01 00:00:00,123701
+Poder Judicial,Ventanilla Única Social (servicio),2025-08-01 00:00:00,97503
+Poder Judicial,Ventanilla Única Social (servicio),2025-09-01 00:00:00,75005
+Poder Judicial,Ventanilla Única Social (servicio),2025-10-01 00:00:00,101008
+Poder Judicial,Ventanilla Única Social (servicio),2025-11-01 00:00:00,82649
+Poder Judicial,Ventanilla Única Social (servicio),2025-12-01 00:00:00,89732
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-01-01 00:00:00,84340
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-02-01 00:00:00,66774
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-03-01 00:00:00,145199
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-04-01 00:00:00,272755
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-05-01 00:00:00,111618
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-06-01 00:00:00,88331
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-07-01 00:00:00,127373
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-08-01 00:00:00,76229
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-09-01 00:00:00,66501
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-10-01 00:00:00,107856
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-11-01 00:00:00,72564
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2024-12-01 00:00:00,65888
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-01-01 00:00:00,121918
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-02-01 00:00:00,72630
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-03-01 00:00:00,177745
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-04-01 00:00:00,283735
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-05-01 00:00:00,76564
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-06-01 00:00:00,4751
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-07-01 00:00:00,104
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-08-01 00:00:00,107
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-09-01 00:00:00,46
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-10-01 00:00:00,57
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-11-01 00:00:00,47
+Registro Social de Hogares (servicio),Servicio de Impuestos Internos,2025-12-01 00:00:00,31
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-01-01 00:00:00,1
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-05-01 00:00:00,109741
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-06-01 00:00:00,26276
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-07-01 00:00:00,488
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-08-01 00:00:00,358
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-09-01 00:00:00,217
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-10-01 00:00:00,255
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-11-01 00:00:00,126
+Registro Social de Hogares (servicio),Ventanilla Única Social (servicio),2025-12-01 00:00:00,97
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-05-01 00:00:00,78005
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-06-01 00:00:00,96722
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-07-01 00:00:00,112999
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-08-01 00:00:00,87132
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-09-01 00:00:00,68588
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-10-01 00:00:00,92120
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-11-01 00:00:00,116300
+Servicio de Impuestos Internos,Ventanilla Única Social (servicio),2025-12-01 00:00:00,90558

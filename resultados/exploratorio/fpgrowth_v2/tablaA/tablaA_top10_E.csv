@@ -1,0 +1,11 @@
+grupo,nombre_app,institucion,sector,frecuencia,eventos_totales_grupo,tasa_por_1000_eventos
+E,PJUD,PODER JUDICIAL,Otros Poderes,7599986,59906161,126.865
+E,Registro Civil,SRCeI,Ministerio de Justicia y Derechos Humanos,4169225,59906161,69.596
+E,undefined,Servicio de Impuestos Internos,Ministerio de Hacienda,3622583,59906161,60.471
+E,Mercado+Público,Dirección de Compras y Contratación Pública,Ministerio de Hacienda,3597009,59906161,60.044
+E,Registro Social de Hogares,MINISTERIO DE DESARROLLO SOCIAL,Ministerio de Desarrollo Social y Familia,3482186,59906161,58.127
+E,Portal MiDT,Dirección del Trabajo,Ministerio del Trabajo y Previsión Social,2622316,59906161,43.774
+E,undefined,"Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile",Empresa Privada,2512980,59906161,41.949
+E,FONASA - Portal Beneficiario,Fondo Nacional de Salud,Ministerio de Salud,2105206,59906161,35.142
+E,undefined,Comisión para el Mercado Financiero,Ministerio de Hacienda,1873234,59906161,31.269
+E,Ingreso de causas y escritos,Corporación Administrativa del Poder Judicial,Otros Poderes,1622392,59906161,27.082

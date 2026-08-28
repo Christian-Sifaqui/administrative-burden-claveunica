@@ -1,0 +1,20 @@
+{
+  "G_lift_referencia": {
+    "nodos": 330,
+    "aristas": 16052,
+    "Q": 0.5482528659177642,
+    "comunidades": 12
+  },
+  "G_control_por_soporte": {
+    "nodos": 320,
+    "aristas": 16052,
+    "Q": 0.016369232448777665,
+    "comunidades": 3,
+    "soporte_min_incluido": 97,
+    "lift_min_en_control": 0.12014460399976919,
+    "lift_max_en_control": 5211.279873194383
+  },
+  "razon_Q_control_sobre_Q_lift": 0.02985708505394842,
+  "veredicto_preliminar": "estructura viene del ENRIQUECIMIENTO (lift), no del recorte a N aristas",
+  "nota": "Q normalizado contra modelos nulos PENDIENTE (Parte 2 no corrida aun)"
+}

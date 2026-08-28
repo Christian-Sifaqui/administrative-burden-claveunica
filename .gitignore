@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Defensa en profundidad: nunca deben entrar a este repo, aunque alguien
+# copie archivos nuevos a futuro sin revisar. Ver DATOS.md.
+*.duckdb
+*cu_user_client*
+transactions_fp*.txt
+eventos_muestra.parquet

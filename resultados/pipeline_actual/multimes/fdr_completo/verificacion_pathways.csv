@@ -1,0 +1,7 @@
+pathway_nombre,encontrado,p_valor,rango,sobrevive_BH_q05,sobrevive_BH_q01,sobrevive_BY_q05,sobrevive_Bonferroni
+RSH->FUAS,True,0.0,288,True,True,True,True
+RSH->MINVU,True,0.0,79,True,True,True,True
+RSH->SUF,True,0.0,121,True,True,True,True
+RSH->Sercotec,True,0.0,440,True,True,True,True
+AFC->Bolsa Nacional de Empleo,True,0.0,14,True,True,True,True
+Milicenciamedica.cl->SUSESO,True,0.0,83,True,True,True,True

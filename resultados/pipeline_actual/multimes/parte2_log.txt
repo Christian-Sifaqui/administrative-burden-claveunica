@@ -1,0 +1,24 @@
+
+======================================================================
+RED: bruto (330 nodos, 19,220 aristas) — Q observado = 0.0163
+======================================================================
+    double_edge_swap: 1000 réplicas en 12799.3s (12799 ms/réplica)
+      Secuencia de grados preservada en TODAS las réplicas: True
+      Q_nulo: media=0.5397 DE=0.0067 | z=-77.79 | p_empírico=1 | asimetría=-0.05 curtosis=0.45
+    configuration_model: 1000 réplicas en 277.0s (277 ms/réplica)
+      Densidad perdida al limpiar self-loops/multi-aristas: media=30.34%, max=31.09%
+      Q_nulo: media=0.0640 DE=0.0018 | z=-25.92 | p_empírico=1 | asimetría=-0.05 curtosis=-0.03
+    permutacion_pesos: 1000 réplicas en 245.0s (245 ms/réplica)
+      Q_nulo: media=0.5395 DE=0.0066 | z=-79.25 | p_empírico=1 | asimetría=-0.28 curtosis=0.11
+
+======================================================================
+RED: lift (330 nodos, 16,052 aristas) — Q observado = 0.5483
+======================================================================
+    double_edge_swap: 1000 réplicas en 12553.7s (12554 ms/réplica)
+      Secuencia de grados preservada en TODAS las réplicas: True
+      Q_nulo: media=0.4875 DE=0.0051 | z=11.86 | p_empírico=0.000999 | asimetría=-0.18 curtosis=0.19
+    configuration_model: 1000 réplicas en 236.8s (237 ms/réplica)
+      Densidad perdida al limpiar self-loops/multi-aristas: media=27.32%, max=28.01%
+      Q_nulo: media=0.0710 DE=0.0020 | z=234.27 | p_empírico=0.000999 | asimetría=0.16 curtosis=0.17
+    permutacion_pesos: 1000 réplicas en 211.4s (211 ms/réplica)
+      Q_nulo: media=0.4885 DE=0.0053 | z=11.36 | p_empírico=0.000999 | asimetría=-0.54 curtosis=2.60

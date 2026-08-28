@@ -1,0 +1,7 @@
+pathway_nombre,nombre_a,nombre_b
+RSH->FUAS,FUAS-Mineduc - Subsecretaría de Educación,Registro Social de Hogares - MINISTERIO DE DESARROLLO SOCIAL
+RSH->MINVU,Registro Social de Hogares - MINISTERIO DE DESARROLLO SOCIAL,MINVU - Subsecretaría de Vivienda y Urbanismo
+RSH->SUF,Registro Social de Hogares - MINISTERIO DE DESARROLLO SOCIAL,Subsidio Familiar Automático - Subsecretaría de Evaluación Social
+RSH->Sercotec,Registro Social de Hogares - MINISTERIO DE DESARROLLO SOCIAL,Sercotec - Servicio de Cooperación Técnica
+AFC->Bolsa Nacional de Empleo,Bolsa Nacional de Empleo - Subsecretaría del Trabajo,"Sucursal Virtual de AFC - Sociedad Administradora de Fondos de Cesantía de Chile II S.A., AFC Chile"
+Milicenciamedica.cl->SUSESO,Milicenciamedica.cl - Subsecretaría de Salud Pública,Procedimiento Administrativo Electrónico - Superintendencia de Seguridad Social
