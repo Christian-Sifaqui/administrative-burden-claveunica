@@ -2,8 +2,7 @@
 
 Código y resultados agregados del estudio *"Registros nacionales de identidad
 digital como capa observacional del administrative burden interinstitucional:
-evidencia a escala nacional desde Chile"* (Christian Sifaqui, Secretaría de
-Gobierno Digital de Chile). El artículo detecta y verifica, con evidencia
+evidencia a escala nacional desde Chile"*. El artículo detecta y verifica, con evidencia
 administrativa caso a caso, qué dependencias entre trámites del Estado de
 Chile son reales y no solo estadísticamente aparentes, usando los logs de
 autenticación de ClaveÚnica (2024-2025, 14,1M usuarios) como capa

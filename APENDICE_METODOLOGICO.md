@@ -858,7 +858,7 @@ para generar seis cohortes (A: 14-18, B: 19-26, C: 27-35, D: 36-45, E: 46-59, F:
 
 **Fecha oficial de asignación de RUN al nacimiento, verificada a solicitud del autor.** El
 Servicio de Registro Civil e Identificación confirmó, en respuesta a una solicitud de acceso
-a información pública (Carta STSI N° 2124, 24 de agosto de 2026), que la asignación de RUN
+a información pública (folio AK002T0038364, Carta STSI N° 2124, 24 de agosto de 2026), que la asignación de RUN
 en el mismo acto de inscripción de nacimiento rige para las personas inscritas a partir del 1
 de enero de 1982, como parte de un proceso de mecanización que sustituyó el RUN de 13
 dígitos por el de 9 dígitos entonces vigente. Con anterioridad a esa fecha, el número se
