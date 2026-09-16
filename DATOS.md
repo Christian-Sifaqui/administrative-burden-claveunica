@@ -2,8 +2,7 @@
 
 Este repositorio acompaña el artículo *"Registros nacionales de identidad
 digital como capa observacional del administrative burden interinstitucional:
-evidencia a escala nacional desde Chile"* (Christian Sifaqui, Secretaría de
-Gobierno Digital de Chile). Contiene el código completo del pipeline y los
+evidencia a escala nacional desde Chile"*. Contiene el código completo del pipeline y los
 **resultados agregados** que produjo — nunca los eventos crudos de ClaveÚnica
 a nivel de persona.
 

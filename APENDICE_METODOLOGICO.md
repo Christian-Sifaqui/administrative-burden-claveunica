@@ -2,7 +2,7 @@
 
 Este documento es el "apéndice metodológico complementario" que el artículo *Registros
 nacionales de identidad digital como capa observacional del administrative burden
-interinstitucional: evidencia a escala nacional desde Chile* (Christian Sifaqui) cita
+interinstitucional: evidencia a escala nacional desde Chile* cita
 repetidamente en el cuerpo del texto, en notas al pie y en los Anexos A–D. Contiene el
 detalle computacional, los umbrales exactos, las verificaciones de robustez y las
 decisiones metodológicas que el cuerpo del artículo resume o menciona sin desarrollar,
