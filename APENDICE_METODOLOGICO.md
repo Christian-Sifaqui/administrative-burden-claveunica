@@ -802,13 +802,11 @@ Trabajo (Portal MiDT), AFC, Servicio Nacional de Capacitación y Empleo (SENCE),
 para el Mercado Financiero y FONASA— muestra lift consistentemente elevado entre sí
 (1,52×-1,90×) pese a tener marginales individuales grandes (21%-38% cada uno), sugiriendo un
 clúster genuino de servicios de empleo y previsión que se usan juntos más de lo que su
-tamaño individual explicaría por separado. Al someter cada uno de los seis pares de ese
-clúster al estándar de cinco criterios, cuatro resultan estadísticamente indistinguibles de
-simétricos y los dos restantes muestran una dirección real aunque moderada, sin que haya
-sido posible identificar una norma específica que la explique. Ninguno de los seis satisface
-el quinto criterio (fuente administrativa verificada); esta es la razón por la que el
-artículo trata la asociación sin ventana como validación secundaria, no como método
-primario.
+tamaño individual explicaría por separado. Al someter los pares de ese clúster al estándar
+de cinco criterios, ninguno cumple el quinto: no fue posible identificar una norma específica
+que justifique la dependencia observada. Esta es la razón por la que el artículo trata la
+asociación sin ventana como validación secundaria, no como método primario: por sí sola, un
+lift elevado no distingue enriquecimiento estadístico de dependencia administrativa real.
 
 Un segundo hallazgo del mismo análisis: Registro Civil (con 69,8% de marginal) es, por
 lejos, el hub individual más grande de todo el ecosistema —mayor que FONASA, el Ministerio
@@ -821,11 +819,27 @@ negativa —co-ocurrencia menor a la esperada por puro azar— encontrada en tod
 completo (lectura de una sola pasada del archivo de salida de FP-Growth, construcción de un
 diccionario de soportes marginales y un min-heap de los 60 pares de mayor soporte bruto) fue
 un análisis exploratorio de una sola sesión y no quedó guardado como archivo versionado; solo
-su resultado quedó documentado en el cuerpo del artículo y en esta sección. Quien necesite
-reproducir exactamente el top-60 y sus lifts puede reconstruir la lógica descrita arriba
-sobre el archivo de salida completo de FP-Growth publicado en
-`resultados/exploratorio/lcm/` y `computador_aws/fpgrowth/` de este repositorio (2.304.676
-itemsets totales, de los cuales 9.137 son pares de exactamente dos servicios; N=14.089.176,
+el hallazgo del clúster de empleo formal (lift elevado, marginales grandes) quedó documentado
+en el cuerpo del artículo y en esta sección.
+
+Una versión anterior de esta sección y del cuerpo del artículo afirmaba, además, que "cuatro
+de los seis [pares] resultan estadísticamente indistinguibles de simétricos y los dos
+restantes muestran una dirección real aunque moderada" — una verificación por par que exigiría
+la columna de dirección dominante del top-60 original. Esa afirmación se retiró tras una
+búsqueda exhaustiva que no encontró ningún script, CSV ni registro de sesión que la sustente,
+en ningún directorio del proyecto ni en el historial de conversaciones sobre el artículo
+disponible para esa búsqueda. No se pudo determinar si esa verificación se hizo alguna vez y
+su registro se perdió, o si nunca se hizo. Se optó por retirar la cifra en vez de intentar
+reconstruirla sin los datos originales, y mantener únicamente lo que sí se sostiene con el
+material disponible: el clúster tiene lift elevado, y ninguno de sus pares tiene fuente
+administrativa que lo confirme como pathway.
+
+Quien necesite reproducir el top-60 y sus lifts —y, con la columna de dirección dominante que
+FP-Growth no calcula, completar la verificación de dirección que esta sección ya no
+afirma— puede reconstruir la lógica descrita arriba sobre el archivo de salida completo de
+FP-Growth publicado en `resultados/exploratorio/lcm/` y `computador_aws/fpgrowth/` de este
+repositorio (2.304.676 itemsets totales, de los cuales 9.137 son pares de exactamente dos
+servicios; N=14.089.176,
 el universo propio de ese pipeline, distinto de los 14.081.161 usados en el resto del
 artículo por diferencias de filtrado de bots entre pipelines — no deben mezclarse ambos
 valores de N al reproducir estas cifras). La tabla completa de 60 filas no se reconstruyó
