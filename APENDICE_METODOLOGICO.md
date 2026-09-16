@@ -193,7 +193,7 @@ esa fracción no se puede aislar ni cuantificar con los datos disponibles.
 
 Para dimensionar la magnitud del fenómeno a escala nacional (aunque no se pueda aislar
 dentro de las cohortes A/B específicamente): 1.918.583 personas extranjeras residentes
-estimadas al 31-12-2023 (INE & Servicio Nacional de Migraciones, 2024), concentradas en
+estimadas al 31-12-2023 (INE & SERMIG, 2024), concentradas en
 edad adulta activa (30-39 años), equivalentes a 9,6% de la población nacional bajo el mismo
 denominador de proyección INE usado en el resto de este estudio.
 
@@ -902,3 +902,13 @@ resultados agregados que cada uno produjo, están publicados en este mismo repos
 Ningún archivo a nivel de persona se publica en ningún caso, incluidos los que en el entorno
 de desarrollo se llamaban "muestra" o "diagnóstico" — son muestras de eventos individuales,
 no agregados, y quedan fuera de este repositorio por diseño.
+
+## Referencias citadas en este apéndice y no incluidas en la bibliografía del artículo
+
+Storey, J. D., & Tibshirani, R. (2003). Statistical significance for genomewide studies.
+*Proceedings of the National Academy of Sciences, 100*(16), 9440–9445.
+https://doi.org/10.1073/pnas.1530509100
+
+Todas las demás fuentes citadas en este documento (Villena, 2019; Tan, Kumar & Srivastava,
+2004; Traag et al., 2019; INE & SERMIG, 2024; Servicio de Registro Civil e Identificación,
+2026) están en la Bibliografía del artículo.
