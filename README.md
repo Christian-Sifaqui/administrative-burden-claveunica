@@ -36,6 +36,9 @@ resultados/
   exploratorio/           Salidas agregadas de las fases descartadas
   catalogo/                Catálogo de aplicaciones e instituciones ClaveÚnica
 
+APENDICE_METODOLOGICO.md  El apéndice metodológico complementario que el artículo cita
+                         explícitamente en el cuerpo, notas al pie y anexos (incluye
+                         Tabla A.1, Tabla A.2, y las Secciones 3 y 22 citadas por número)
 METODOLOGIA.md          Bitácora técnica: algoritmos evaluados, parámetros,
                          problemas encontrados y decisiones de diseño
 DATOS.md                Qué datos se publican, cuáles no, y por qué
@@ -43,12 +46,15 @@ DATOS.md                Qué datos se publican, cuáles no, y por qué
 
 ## Orden de lectura sugerido
 
-1. `METODOLOGIA.md` — contexto general: por qué FP-Growth y no Apriori/Eclat,
+1. `APENDICE_METODOLOGICO.md` — para verificar cualquier cifra o decisión
+   metodológica que el artículo remite a "el apéndice metodológico
+   complementario", sin necesidad de leer código.
+2. `METODOLOGIA.md` — contexto general: por qué FP-Growth y no Apriori/Eclat,
    parámetros usados, problemas de escala.
-2. `src/pipeline_actual/aws/README.md` y `src/pipeline_actual/multimes/README.md`
+3. `src/pipeline_actual/aws/README.md` y `src/pipeline_actual/multimes/README.md`
    — el pipeline vigente, paso a paso, con las decisiones de diseño documentadas
    inline (por qué DuckDB, por qué particionar por arista y no por nodo, etc.).
-3. `resultados/pipeline_actual/` — para verificar una cifra del artículo sin
+4. `resultados/pipeline_actual/` — para verificar una cifra del artículo sin
    volver a correr nada.
 
 ## Reproducibilidad
