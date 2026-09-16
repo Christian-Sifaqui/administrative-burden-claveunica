@@ -815,28 +815,27 @@ todos sus pares de mayor soporte bruto muestran lift cercano a 1 o incluso por d
 el par Subsidio Eléctrico↔Registro Civil tiene lift 0,84×, la primera y única asociación
 negativa —co-ocurrencia menor a la esperada por puro azar— encontrada en todo este estudio.
 
-**Estado de los datos de esta sección.** El script que calculó originalmente el top-60
-completo (lectura de una sola pasada del archivo de salida de FP-Growth, construcción de un
-diccionario de soportes marginales y un min-heap de los 60 pares de mayor soporte bruto) fue
-un análisis exploratorio de una sola sesión y no quedó guardado como archivo versionado; solo
-el hallazgo del clúster de empleo formal (lift elevado, marginales grandes) quedó documentado
-en el cuerpo del artículo y en esta sección.
+**Alcance de la verificación de este análisis.** El método que produce el top-60 (FP-Growth)
+representa a cada persona como un conjunto de servicios usados en el período, sin orden
+temporal, y por diseño no calcula dirección ni lag, solo soporte (nota al pie 5 del
+artículo). Esta sección reporta, en consecuencia, únicamente lo que ese método permite
+verificar: el hallazgo agregado de lift elevado en el clúster de empleo formal, y la ausencia
+de fuente administrativa que confirme cualquiera de sus pares como pathway. No reporta una
+verificación de dirección dominante por par dentro del clúster, porque esa verificación excede
+lo que este método computa; quien quiera extenderla puede cruzar las cinco instituciones del
+clúster contra el pipeline secuencial
+(`resultados/pipeline_actual/multimes/pares_multimes_clasificado.csv` en este repositorio),
+que sí calcula dirección dominante a nivel de servicio — un análisis distinto del reportado
+aquí, no una extensión directa del top-60 de FP-Growth.
 
-Una versión anterior de esta sección y del cuerpo del artículo afirmaba, además, que "cuatro
-de los seis [pares] resultan estadísticamente indistinguibles de simétricos y los dos
-restantes muestran una dirección real aunque moderada" — una verificación por par que exigiría
-la columna de dirección dominante del top-60 original. Esa afirmación se retiró tras una
-búsqueda exhaustiva que no encontró ningún script, CSV ni registro de sesión que la sustente,
-en ningún directorio del proyecto ni en el historial de conversaciones sobre el artículo
-disponible para esa búsqueda. No se pudo determinar si esa verificación se hizo alguna vez y
-su registro se perdió, o si nunca se hizo. Se optó por retirar la cifra en vez de intentar
-reconstruirla sin los datos originales, y mantener únicamente lo que sí se sostiene con el
-material disponible: el clúster tiene lift elevado, y ninguno de sus pares tiene fuente
-administrativa que lo confirme como pathway.
+El script que calculó el top-60 completo (lectura de una sola pasada del archivo de salida de
+FP-Growth, construcción de un diccionario de soportes marginales y un min-heap de los 60
+pares de mayor soporte bruto) fue un análisis exploratorio de una sola sesión y no quedó
+guardado como archivo versionado; solo el hallazgo agregado quedó documentado en el cuerpo
+del artículo y en esta sección.
 
-Quien necesite reproducir el top-60 y sus lifts —y, con la columna de dirección dominante que
-FP-Growth no calcula, completar la verificación de dirección que esta sección ya no
-afirma— puede reconstruir la lógica descrita arriba sobre el archivo de salida completo de
+Quien necesite reproducir el top-60 y sus lifts puede reconstruir la lógica descrita arriba
+sobre el archivo de salida completo de
 FP-Growth publicado en `resultados/exploratorio/lcm/` y `computador_aws/fpgrowth/` de este
 repositorio (2.304.676 itemsets totales, de los cuales 9.137 son pares de exactamente dos
 servicios; N=14.089.176,
